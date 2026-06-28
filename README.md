@@ -6,6 +6,8 @@ It is not an essay companion and not a website. It is a faculty implementation s
 
 The workbench grew out of the argument in **The Irreducible Officer**, but it should stand on its own. Faculty can use it wherever the instructional problem is the same: students need to use AI without surrendering purpose, frame, reliance, accountability, or judgment.
 
+The capacity to build is the marriage of faculty strategic judgment and AI fluency: enough command of current systems to design useful workflows, see where they help and fail, and defend reliance decisions under strategic scrutiny.
+
 ## What This Is For
 
 - Design assignments that deliberately sequence AI-free and AI-mediated work.

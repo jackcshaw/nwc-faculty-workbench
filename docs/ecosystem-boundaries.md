@@ -21,7 +21,7 @@ The workbench should preserve one practical standard:
 3. Students should remain accountable for final judgment.
 4. Students should transfer the discipline to changed cases.
 5. Faculty should preserve developmental friction where judgment forms.
-6. Faculty judgment should become reusable only when it is explicit, traceable, and governed.
+6. Faculty judgment joined to AI fluency should become reusable only when it is explicit, traceable, and governed.
 
 ## Boundary Pressure Test
 
@@ -86,4 +86,4 @@ The workbench should be presented as:
 - Reliance: visible in trace artifacts, source kits, and assessment.
 - Accountability: visible in final human judgment and faculty review.
 - Transfer: visible in rubrics, changed-case questions, and source-kit reuse.
-- Institutional compounding: visible in calibration, after-action notes, and future context curation.
+- Institutional compounding: visible in faculty fluency, calibration, after-action notes, and future context curation.
