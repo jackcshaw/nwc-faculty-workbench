@@ -26,6 +26,7 @@ List only the materials the agent and students should use.
 
 - Essay, prompt, or assignment:
 - Case materials:
+- AI-shaped inputs already present in the materials:
 - Doctrine or primer materials:
 - Public sources:
 - Course-specific sources:

@@ -16,6 +16,7 @@ Use this rubric when the assignment goal is to make ownership visible in AI-enab
 | Dimension | What Faculty Look For | Rating | Notes |
 | --- | --- | --- | --- |
 | Purpose through frame | Student can explain what the work is for, why this problem frame was chosen, and what would change it. |  |  |
+| Inherited AI-shaped inputs | Student can identify reports, summaries, planning tools, staff processes, or prior analytic products that may have already shaped the work. |  |  |
 | Assumptions | Student identifies explicit, inherited, AI-suggested, and revised assumptions. |  |  |
 | Evidence standard | Student explains what evidence would strengthen, weaken, or change the judgment. |  |  |
 | Reliance | Student can say where AI helped, where it was verified, where it was rejected, and why. |  |  |
@@ -32,6 +33,7 @@ Ask one question at a time. Follow the student rather than reading the list mech
 - What problem did you decide this work was actually solving?
 - What did your frame include that another reasonable frame might exclude?
 - What would make you change the frame?
+- What inputs had already sorted, summarized, or framed the problem before you touched AI directly?
 - Where might AI have narrowed the frame before you noticed?
 
 ### Assumptions
@@ -70,7 +72,8 @@ Ask one question at a time. Follow the student rather than reading the list mech
 If time is short, record only:
 
 1. Evidence of purpose through frame.
-2. Reliance decision worth probing.
-3. Accountability question asked.
-4. Transfer result.
-5. Follow-up needed.
+2. Inherited AI-shaped input worth probing.
+3. Reliance decision worth probing.
+4. Accountability question asked.
+5. Transfer result.
+6. Follow-up needed.

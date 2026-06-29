@@ -16,6 +16,7 @@ What is this assignment for?
 What must students define before AI enters?
 
 - Strategic problem:
+- AI-shaped inputs students inherit before direct AI use:
 - Purpose of the work:
 - Key actors:
 - Assumptions:
@@ -71,6 +72,7 @@ Where should students decide whether to rely, verify, redirect, or refuse?
 What will faculty inspect?
 
 - Purpose through frame:
+- Inherited AI-shaped inputs:
 - Assumptions:
 - Evidence standard:
 - Accepted AI contributions:

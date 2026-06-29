@@ -17,11 +17,12 @@ This note keeps the NWC Faculty Workbench distinct from adjacent surfaces: the e
 The workbench should preserve one practical standard:
 
 1. Students should define purpose and frame before AI can quietly define the work.
-2. Students should calibrate reliance rather than generally trust or distrust AI.
-3. Students should remain accountable for final judgment.
-4. Students should transfer the discipline to changed cases.
-5. Faculty should preserve developmental friction where judgment forms.
-6. Faculty judgment should become reusable only when it is explicit, traceable, and governed.
+2. Students and faculty should inspect AI-shaped inputs that arrived before direct AI use.
+3. Students should calibrate reliance rather than generally trust or distrust AI.
+4. Students should remain accountable for final judgment.
+5. Students should transfer the discipline to changed cases.
+6. Faculty should preserve developmental friction where judgment forms.
+7. Faculty judgment should become reusable only when it is explicit, traceable, and governed.
 
 ## Boundary Pressure Test
 
@@ -82,6 +83,7 @@ The workbench should be presented as:
 ## Final Coherence Check
 
 - Purpose: visible in assignment design, source kits, and oral defense.
+- Inherited AI-shaped inputs: visible in assignment design, source kits, and rubrics.
 - Frame: visible in prompt deconstruction, flawed outputs, and rubrics.
 - Reliance: visible in trace artifacts, source kits, and assessment.
 - Accountability: visible in final human judgment and faculty review.
