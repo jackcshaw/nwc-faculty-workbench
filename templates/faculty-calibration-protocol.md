@@ -4,7 +4,7 @@ Use this protocol when faculty need to compare how they diagnose the same AI-ass
 
 ## Purpose
 
-Faculty already know how to spot hidden assumptions, thin reasoning, performed sophistication, and weak strategic judgment. Calibration turns that tacit judgment into shared criteria, reusable rubrics, and better oral-defense questions.
+Faculty already bring much of the judgment needed to spot hidden assumptions, thin reasoning, performed sophistication, and weak strategic judgment. Calibration joins that tacit judgment to AI fluency: faculty compare how they read the same AI-assisted work, where they think reliance was justified, and what questions expose whether the human still owns the frame.
 
 ## Materials
 

@@ -1,6 +1,6 @@
 # Source Kit Template
 
-A source kit is the curated teaching packet for an AI-enabled exercise. It tells an agent what materials matter, what standards apply, what outputs faculty will inspect, and what boundaries must be respected.
+A source kit is the curated teaching packet for an AI-enabled exercise. It tells an AI assistant what materials matter, what standards apply, what outputs faculty will inspect, and what boundaries must be respected.
 
 A source kit is not a file dump.
 
@@ -22,10 +22,11 @@ A source kit is not a file dump.
 
 ## 3. Anchor Materials
 
-List only the materials the agent and students should use.
+List only the materials the AI assistant and students should use.
 
 - Essay, prompt, or assignment:
 - Case materials:
+- AI-shaped inputs already present in the materials:
 - Doctrine or primer materials:
 - Public sources:
 - Course-specific sources:
@@ -45,7 +46,7 @@ List only the materials the agent and students should use.
 
 ## 5. NWC Vocabulary And Standards
 
-Terms or concepts the agent should preserve:
+Terms or concepts the AI assistant should preserve:
 
 - ends:
 - ways:

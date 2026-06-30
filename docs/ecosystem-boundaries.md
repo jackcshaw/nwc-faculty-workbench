@@ -1,6 +1,6 @@
 # Ecosystem Boundaries
 
-This note keeps the NWC Faculty Workbench distinct from adjacent surfaces: the essay that helped motivate it, the public website that may point to it, the AI companion that helps readers practice, and a future context-curation layer.
+This note keeps the NWC Faculty Workbench distinct from adjacent surfaces: the essay that helped motivate it, the public website that points to it, the AI companion that helps readers practice, and a future context-curation layer.
 
 ## Surface Map
 
@@ -8,8 +8,8 @@ This note keeps the NWC Faculty Workbench distinct from adjacent surfaces: the e
 | --- | --- | --- | --- | --- | --- |
 | NWC Faculty Workbench | Faculty design and assessment layer. | Course directors, seminar faculty, curriculum leaders. | Standalone markdown toolkit. | Assignment design, rubrics, flawed-output library, calibration, source kits, after-action notes. | Essay draft text, public website code, secure deployment claims, private course materials. |
 | Essay / argument layer | Make the case for AI-enabled strategic judgment. | NWC faculty, curriculum leaders, serious external readers. | Separate writing artifact. | Thesis, evidence, claims, failure modes, pilot, institutional opportunity. | Templates, app features, internal course materials. |
-| Public website | Navigation and presentation layer. | Public readers, faculty, potential adopters. | Future site lane. | Essay, companion entry, workbench overview, sources, public references. | Private materials, unfinished roadmap presented as finished product. |
-| AI companion | Practice layer for using an agent against an argument or artifact. | Faculty, students, reviewers, curriculum leaders. | Separate runnable source kit. | Claims, prompts, objections, workflows, transfer case, trace artifact. | Faculty governance system, secure memory, website deployment. |
+| Public website | Navigation and presentation layer. | Public readers, faculty, potential adopters. | Public package site. | Essay, companion entry, workbench overview, sources, public references. | Private materials, unfinished roadmap presented as finished product. |
+| AI companion | Practice layer for using an AI assistant against an argument or artifact. | Faculty, students, reviewers, curriculum leaders. | Separate runnable source kit. | Claims, prompts, objections, workflows, transfer case, trace artifact. | Faculty governance system, secure memory, website deployment. |
 | Library / context curation | Future institutional memory and context-governance layer. | Faculty owners, technical teams, institutional leaders. | Future direction. | Curated context, proposals, handoffs, diffs, rollback, governed references. | Automatic doctrine updates, unreviewed memory, public exposure of private course materials. |
 
 ## Workbench Spine
@@ -17,11 +17,12 @@ This note keeps the NWC Faculty Workbench distinct from adjacent surfaces: the e
 The workbench should preserve one practical standard:
 
 1. Students should define purpose and frame before AI can quietly define the work.
-2. Students should calibrate reliance rather than generally trust or distrust AI.
-3. Students should remain accountable for final judgment.
-4. Students should transfer the discipline to changed cases.
-5. Faculty should preserve developmental friction where judgment forms.
-6. Faculty judgment should become reusable only when it is explicit, traceable, and governed.
+2. Students and faculty should inspect AI-shaped inputs that arrived before direct AI use.
+3. Students should calibrate reliance rather than generally trust or distrust AI.
+4. Students should remain accountable for final judgment.
+5. Students should transfer the discipline to changed cases.
+6. Faculty should preserve developmental friction where judgment forms.
+7. Faculty judgment should become reusable only when it is explicit, traceable, and governed.
 
 ## Boundary Pressure Test
 
@@ -82,6 +83,7 @@ The workbench should be presented as:
 ## Final Coherence Check
 
 - Purpose: visible in assignment design, source kits, and oral defense.
+- Inherited AI-shaped inputs: visible in assignment design, source kits, and rubrics.
 - Frame: visible in prompt deconstruction, flawed outputs, and rubrics.
 - Reliance: visible in trace artifacts, source kits, and assessment.
 - Accountability: visible in final human judgment and faculty review.

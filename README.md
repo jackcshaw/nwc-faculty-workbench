@@ -33,7 +33,7 @@ The workbench grew out of the argument in **The Irreducible Officer**, but it sh
 | Assess ownership and run oral defense | [templates/assessment-and-oral-defense-rubric.md](templates/assessment-and-oral-defense-rubric.md) |
 | Build a reusable flawed AI output | [templates/flawed-output-library-template.md](templates/flawed-output-library-template.md) |
 | Calibrate faculty judgment | [templates/faculty-calibration-protocol.md](templates/faculty-calibration-protocol.md) |
-| Package exercise context for an agent | [templates/source-kit-template.md](templates/source-kit-template.md) |
+| Package exercise context for an AI assistant | [templates/source-kit-template.md](templates/source-kit-template.md) |
 | Capture lessons after an exercise | [templates/after-action-note-template.md](templates/after-action-note-template.md) |
 | Understand future context curation | [roadmap/context-curation-roadmap.md](roadmap/context-curation-roadmap.md) |
 | Keep surfaces separate | [docs/ecosystem-boundaries.md](docs/ecosystem-boundaries.md) |
@@ -62,7 +62,7 @@ Faculty compare how they diagnose the same AI-assisted work, record points of ag
 
 ### Level 6: Source Kits
 
-Faculty package the context for an AI-enabled exercise. A source kit is not a file dump. It tells an agent what sources matter, what standards apply, what outputs faculty will inspect, and where public/private boundaries sit.
+Faculty package the context for an AI-enabled exercise. A source kit is not a file dump. It tells an AI assistant what sources matter, what standards apply, what outputs faculty will inspect, and where public/private boundaries sit.
 
 ### Level 7: Institutional Memory
 
@@ -87,4 +87,4 @@ These can be used immediately as markdown artifacts:
 
 The future workbench could become an institutional context system. That would require security review, governance, faculty ownership, versioning, and clear approval paths before any student or faculty artifact becomes shared institutional context.
 
-The design principle is simple: agents can propose, organize, compare, and retrieve. Faculty approve what counts.
+The design principle is simple: AI assistants can propose, organize, compare, and retrieve. Faculty approve what counts.
