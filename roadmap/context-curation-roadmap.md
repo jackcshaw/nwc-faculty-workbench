@@ -44,8 +44,8 @@ Governance principle: faculty approve what becomes shared institutional context.
 A Librarian-style system could add:
 
 - markdown and git-backed vault;
-- references that agents can search without treating them as automatic memory;
-- handoffs between faculty, courses, exercises, or agent sessions;
+- references that AI assistants can search without treating them as automatic memory;
+- handoffs between faculty, courses, exercises, or AI-assisted sessions;
 - proposal queues for suggested updates;
 - flags for stale, misleading, or risky context;
 - history, diffs, and rollback;
@@ -66,7 +66,7 @@ A Librarian-style system could add:
 
 Advanced exercises could use the context layer to support:
 
-- multi-agent planning workflows;
+- multi-role AI planning workflows;
 - student team handoffs;
 - preservation of assumptions, constraints, COAs, and decision points;
 - faculty review of how judgment evolved;
@@ -76,7 +76,7 @@ Advanced exercises could use the context layer to support:
 
 - Do not put private course material in a public repo.
 - Do not imply secure or classified deployment is solved.
-- Do not let agent memory silently become institutional doctrine.
+- Do not let AI memory silently become institutional doctrine.
 - Do not let a curator replace faculty approval.
 - Do not treat prompt logs as proof of learning by themselves.
 - Do not let a shared source kit narrow strategic imagination without review.

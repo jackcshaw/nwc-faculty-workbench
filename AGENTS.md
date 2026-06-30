@@ -15,7 +15,7 @@ Start from the faculty member's instructional problem. Do not turn the workbench
 - Use [roadmap/context-curation-roadmap.md](roadmap/context-curation-roadmap.md) when discussing future institutional memory or context curation.
 - Keep public templates separate from private NWC course materials.
 - Keep the trace lean. Do not turn AI-enabled learning into paperwork.
-- Treat agents as supports for faculty judgment, not substitutes for it.
+- Treat AI assistants as supports for faculty judgment, not substitutes for it.
 
 ## Core Standard
 
