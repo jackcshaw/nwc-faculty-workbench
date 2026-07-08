@@ -27,7 +27,7 @@ The workbench grew out of the argument in **The Irreducible Officer**, but it sh
 
 ## Start Here
 
-**With an AI assistant (recommended):** give your assistant the [workbench source kit](workbench-source-kit.md) — or the full workbench bundle from the public site — and say: "Run the phase placement diagnostic with me." The assistant will place your assignment on the fluency progression and route you to the right template. Every template contains an AI Facilitation Block, so the assistant can run it as a guided session.
+**With an AI assistant (recommended):** give your assistant the [workbench source kit](workbench-source-kit.md) — or the full workbench bundle from the public site (https://judgmentlab.net/assets/workbench-context.md) — and say: "Run the phase placement diagnostic with me." The assistant will place your assignment on the fluency progression and route you to the right template. Every template contains an AI Facilitation Block, so the assistant can run it as a guided session.
 
 **On paper:** every template works as a plain worksheet. Start with the table below.
 
@@ -40,7 +40,7 @@ The workbench grew out of the argument in **The Irreducible Officer**, but it sh
 | Calibrate faculty judgment | [templates/faculty-calibration-protocol.md](templates/faculty-calibration-protocol.md) | 4–5 |
 | Codify a recurring method | [templates/method-card-template.md](templates/method-card-template.md) | 5 |
 | Design a supervised delegation exercise | [templates/supervised-delegation-exercise.md](templates/supervised-delegation-exercise.md) | 6 |
-| Package exercise context for an AI assistant | [templates/source-kit-template.md](templates/source-kit-template.md) | 5–6 |
+| Package exercise context for an AI assistant | [templates/source-kit-template.md](templates/source-kit-template.md) | 3, 5–6 |
 | Capture lessons after an exercise | [templates/after-action-note-template.md](templates/after-action-note-template.md) | 5 |
 | See the full fluency progression and matrix | [framework/ai-fluency-progression.md](framework/ai-fluency-progression.md) | All |
 | Understand future context curation | [roadmap/context-curation-roadmap.md](roadmap/context-curation-roadmap.md) | Future |

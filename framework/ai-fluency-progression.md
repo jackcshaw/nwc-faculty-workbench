@@ -122,7 +122,7 @@ One table answers "where am I, and what do I use?" Start with the [phase placeme
 | [Faculty calibration protocol](../templates/faculty-calibration-protocol.md) | 4–5 | Faculty, Institution |
 | [Method card template](../templates/method-card-template.md) | 5 | Learners, Faculty |
 | [Supervised delegation exercise](../templates/supervised-delegation-exercise.md) | 6 | Learners, Faculty |
-| [Source kit template](../templates/source-kit-template.md) | 5–6 | Institution |
+| [Source kit template](../templates/source-kit-template.md) | 3, 5–6 | Institution |
 | [After-action note template](../templates/after-action-note-template.md) | 5 | Faculty, Institution |
 
 ### Maturity Levels To Phases And Staircase

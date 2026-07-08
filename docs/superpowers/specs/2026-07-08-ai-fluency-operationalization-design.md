@@ -1,7 +1,7 @@
 # Operationalizing the AI Fluency Framework in the Faculty Workbench — Design
 
 Date: 2026-07-08
-Status: Approved in brainstorm; awaiting implementation plan.
+Status: Implemented 2026-07-08 (workbench branch ai-fluency-operationalization, site branch workbench-ai-integration).
 Owner: Jack Shaw
 
 ## Context
