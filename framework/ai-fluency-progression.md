@@ -106,3 +106,36 @@ Evidence arrives through the matrix checks in the after-action note template and
 | Date | Row / cell | Change | Evidence |
 | --- | --- | --- | --- |
 | 2026-07-08 | All rows | Published at Hypothesis status. | Initial rendition from the Building AI Fluency package. |
+
+## Crosswalk
+
+One table answers "where am I, and what do I use?" Start with the [phase placement diagnostic](../templates/phase-placement-diagnostic.md) if you do not know your phase.
+
+### Templates To Phases
+
+| Template | Primary phases | Matrix row it exercises |
+| --- | --- | --- |
+| [Phase placement diagnostic](../templates/phase-placement-diagnostic.md) | Entry point, all phases | Faculty |
+| [Assignment design worksheet](../templates/assignment-design-worksheet.md) | 2–4 | Faculty |
+| [Assessment and oral-defense rubric](../templates/assessment-and-oral-defense-rubric.md) | 4 | Faculty |
+| [Flawed output library template](../templates/flawed-output-library-template.md) | 4 | Faculty, Institution |
+| [Faculty calibration protocol](../templates/faculty-calibration-protocol.md) | 4–5 | Faculty, Institution |
+| [Method card template](../templates/method-card-template.md) | 5 | Learners, Faculty |
+| [Supervised delegation exercise](../templates/supervised-delegation-exercise.md) | 6 | Learners, Faculty |
+| [Source kit template](../templates/source-kit-template.md) | 5–6 | Institution |
+| [After-action note template](../templates/after-action-note-template.md) | 5 | Faculty, Institution |
+
+### Maturity Levels To Phases And Staircase
+
+| Workbench level | Phase(s) | Staircase step |
+| --- | --- | --- |
+| 1 Faculty Fluency Lab | Faculty practice phases 1–4 themselves | Reviewed practice |
+| 2 Assignment Design | 2–3 | Reviewed practice |
+| 3 Assessment Design | 4 | Reviewed practice |
+| 4 Flawed Output Library | 4 | Shared assets |
+| 5 Faculty Calibration | 4–5 | Evaluation |
+| 6 Source Kits | 5–6 | Shared assets |
+| 7 Institutional Memory (future) | 5, Institution row | Governed systems |
+| 8 Context Curation (future) | 6, Institution row | Beyond the governance gate |
+
+The workbench and the framework arrived at the same institutional shape independently: reviewed practice becomes shared assets, assets make evaluation possible, evaluation earns governed reuse. The maturity levels are the staircase, enacted.
