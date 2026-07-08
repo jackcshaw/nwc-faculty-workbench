@@ -1,0 +1,192 @@
+<svg width="2000" height="1260" viewBox="0 0 2000 1260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .display { font-family: "Fraunces", Georgia, serif; fill: #0A2242; }
+      .sans { font-family: "Newsreader", Georgia, serif; fill: #4D5360; font-weight: 500; }
+      .eyebrow { font-family: "IBM Plex Mono", monospace; fill: #7A7264; letter-spacing: 3px; }
+    </style>
+    <linearGradient id="askToAct" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8093AD"/>
+      <stop offset="0.5" stop-color="#4E6485"/>
+      <stop offset="1" stop-color="#0A2242"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="2000" height="1260" fill="#F6F1E8"/>
+
+  <!-- Title block -->
+  <text x="1000" y="86" text-anchor="middle" class="display" font-size="52" font-weight="bold">AI Fluency: From Asking to Supervising</text>
+  <text x="1000" y="126" text-anchor="middle" class="sans" font-size="22">What learners practice, what faculty teach and assess, and what the institution provides</text>
+  <text x="1000" y="172" text-anchor="middle" class="sans" font-size="19" font-style="italic" fill="#0A2242">Fluency grows as learners move from asking AI for help to delegating bounded work, judging results, codifying methods, and supervising AI-supported systems.</text>
+
+  <!-- Arc group brackets -->
+  <g stroke="#CFC7B8" stroke-width="2" fill="none">
+    <path d="M 285 246 L 285 232 L 814 232 L 814 246"/>
+    <path d="M 855 246 L 855 232 L 1384 232 L 1384 246"/>
+    <path d="M 1425 246 L 1425 232 L 1954 232 L 1954 246"/>
+  </g>
+  <rect x="474" y="218" width="152" height="26" fill="#F6F1E8"/>
+  <rect x="1034" y="218" width="152" height="26" fill="#F6F1E8"/>
+  <rect x="1544" y="218" width="292" height="26" fill="#F6F1E8"/>
+  <text x="549" y="238" text-anchor="middle" class="eyebrow" font-size="19" font-weight="bold">LEARN WITH AI</text>
+  <text x="1119" y="238" text-anchor="middle" class="eyebrow" font-size="19" font-weight="bold">WORK WITH AI</text>
+  <text x="1689" y="238" text-anchor="middle" class="eyebrow" font-size="19" font-weight="bold">GOVERN AI-SUPPORTED WORK</text>
+
+  <!-- Hinge marker over phase 5 -->
+  <text x="1547" y="286" text-anchor="middle" class="eyebrow" font-size="17" font-weight="bold" style="fill:#D82032">WHERE SCALE BEGINS</text>
+
+  <!-- Spine line -->
+  <line x1="300" y1="316" x2="1940" y2="316" stroke="#CFC7B8" stroke-width="2"/>
+  <path d="M 1940 316 l -14 -7 l 0 14 z" fill="#CFC7B8"/>
+
+  <!-- Phase nodes -->
+  <g>
+    <circle cx="407" cy="316" r="24" fill="#8093AD"/>
+    <text x="407" y="325" text-anchor="middle" font-family="IBM Plex Mono" font-size="24" font-weight="bold" fill="#F6F1E8">1</text>
+    <text x="407" y="362" text-anchor="middle" class="eyebrow" font-size="14" font-weight="bold" fill="#677C99">ASK</text>
+    <text x="407" y="396" text-anchor="middle" class="display" font-size="25" font-weight="bold">Responsible Use</text>
+    <text x="407" y="424" text-anchor="middle" class="sans" font-size="19">Use AI safely and verify</text>
+    <text x="407" y="446" text-anchor="middle" class="sans" font-size="19">before relying on it.</text>
+
+    <circle cx="692" cy="316" r="24" fill="#677C99"/>
+    <text x="692" y="325" text-anchor="middle" font-family="IBM Plex Mono" font-size="24" font-weight="bold" fill="#F6F1E8">2</text>
+    <text x="692" y="362" text-anchor="middle" class="eyebrow" font-size="14" font-weight="bold" fill="#677C99">UNDERSTAND</text>
+    <text x="692" y="396" text-anchor="middle" class="display" font-size="25" font-weight="bold">AI for Learning</text>
+    <text x="692" y="424" text-anchor="middle" class="sans" font-size="19">Build understanding</text>
+    <text x="692" y="446" text-anchor="middle" class="sans" font-size="19">before production.</text>
+
+    <circle cx="977" cy="316" r="24" fill="#4E6485"/>
+    <text x="977" y="325" text-anchor="middle" font-family="IBM Plex Mono" font-size="24" font-weight="bold" fill="#F6F1E8">3</text>
+    <text x="977" y="362" text-anchor="middle" class="eyebrow" font-size="14" font-weight="bold" fill="#4E6485">PRODUCE</text>
+    <text x="977" y="396" text-anchor="middle" class="display" font-size="25" font-weight="bold">Work Products</text>
+    <text x="977" y="424" text-anchor="middle" class="sans" font-size="19">Delegate bounded work.</text>
+    <text x="977" y="446" text-anchor="middle" class="sans" font-size="19">Own the result.</text>
+
+    <circle cx="1262" cy="316" r="24" fill="#374D71"/>
+    <text x="1262" y="325" text-anchor="middle" font-family="IBM Plex Mono" font-size="24" font-weight="bold" fill="#F6F1E8">4</text>
+    <text x="1262" y="362" text-anchor="middle" class="eyebrow" font-size="14" font-weight="bold" fill="#374D71">JUDGE</text>
+    <text x="1262" y="396" text-anchor="middle" class="display" font-size="25" font-weight="bold">Judgment / Revision</text>
+    <text x="1262" y="424" text-anchor="middle" class="sans" font-size="19">Improve the work</text>
+    <text x="1262" y="446" text-anchor="middle" class="sans" font-size="19">before trusting it.</text>
+
+    <circle cx="1547" cy="316" r="24" fill="#22395C"/>
+    <text x="1547" y="325" text-anchor="middle" font-family="IBM Plex Mono" font-size="24" font-weight="bold" fill="#F6F1E8">5</text>
+    <text x="1547" y="362" text-anchor="middle" class="eyebrow" font-size="14" font-weight="bold" fill="#22395C">CODIFY</text>
+    <text x="1547" y="396" text-anchor="middle" class="display" font-size="25" font-weight="bold">Repeatable Practice</text>
+    <text x="1547" y="424" text-anchor="middle" class="sans" font-size="19">Codify methods once.</text>
+    <text x="1547" y="446" text-anchor="middle" class="sans" font-size="19">Stop re-explaining the task.</text>
+
+    <circle cx="1832" cy="316" r="24" fill="#0A2242"/>
+    <text x="1832" y="325" text-anchor="middle" font-family="IBM Plex Mono" font-size="24" font-weight="bold" fill="#F6F1E8">6</text>
+    <text x="1832" y="362" text-anchor="middle" class="eyebrow" font-size="14" font-weight="bold" fill="#0A2242">SUPERVISE</text>
+    <text x="1832" y="396" text-anchor="middle" class="display" font-size="25" font-weight="bold">Supervised Systems</text>
+    <text x="1832" y="424" text-anchor="middle" class="sans" font-size="19">Direct bounded work.</text>
+    <text x="1832" y="446" text-anchor="middle" class="sans" font-size="19">Keep judgment human.</text>
+  </g>
+
+          
+  <!-- Role bands -->
+  <line x1="60" y1="512" x2="1940" y2="512" stroke="#DED6C8" stroke-width="1.5"/>
+  <rect x="60" y="511" width="30" height="2.5" style="fill:#D82032"/>
+  <line x1="60" y1="672" x2="1940" y2="672" stroke="#DED6C8" stroke-width="1.5"/>
+  <line x1="60" y1="832" x2="1940" y2="832" stroke="#DED6C8" stroke-width="1.5"/>
+  <line x1="60" y1="992" x2="1940" y2="992" stroke="#DED6C8" stroke-width="1.5"/>
+
+  <!-- LEARNERS band -->
+  <text x="72" y="578" class="display" font-size="26" font-weight="bold">Learners</text>
+  <text x="72" y="606" class="sans" font-size="15" font-style="italic">practice it and</text>
+  <text x="72" y="626" class="sans" font-size="15" font-style="italic">produce with it</text>
+  <g class="sans" font-size="19" text-anchor="middle" fill="#242A31">
+    <text x="407" y="580">Know when AI is</text>
+    <text x="407" y="603">answering vs acting</text>
+    <text x="692" y="580">Quiz, compare,</text>
+    <text x="692" y="603">and surface gaps</text>
+    <text x="977" y="580">Delegate bounded drafts</text>
+    <text x="977" y="603">with sources and disclosure</text>
+    <text x="1262" y="580">Inspect intermediate work;</text>
+    <text x="1262" y="603">accept, revise, reject</text>
+    <text x="1547" y="580">Turn repeated work</text>
+    <text x="1547" y="603">into reusable methods</text>
+    <text x="1832" y="580">Direct, monitor,</text>
+    <text x="1832" y="603">escalate, integrate</text>
+  </g>
+  <g>
+    <rect x="391" y="544" width="32" height="4" fill="#8093AD"/>
+    <rect x="676" y="544" width="32" height="4" fill="#677C99"/>
+    <rect x="961" y="544" width="32" height="4" fill="#4E6485"/>
+    <rect x="1246" y="544" width="32" height="4" fill="#374D71"/>
+    <rect x="1531" y="544" width="32" height="4" fill="#22395C"/>
+    <rect x="1816" y="544" width="32" height="4" fill="#0A2242"/>
+  </g>
+
+  <!-- FACULTY band -->
+  <text x="72" y="738" class="display" font-size="26" font-weight="bold">Faculty</text>
+  <text x="72" y="766" class="sans" font-size="15" font-style="italic">teach, coach,</text>
+  <text x="72" y="786" class="sans" font-size="15" font-style="italic">and assess it</text>
+  <g class="sans" font-size="19" text-anchor="middle" fill="#242A31">
+    <text x="407" y="740">Model safe use</text>
+    <text x="407" y="763">and safe delegation</text>
+    <text x="692" y="740">Design practice,</text>
+    <text x="692" y="763">not substitution</text>
+    <text x="977" y="740">Assess process,</text>
+    <text x="977" y="763">not only product</text>
+    <text x="1262" y="740">Require critique</text>
+    <text x="1262" y="763">and revision logs</text>
+    <text x="1547" y="740">Assign, test, and</text>
+    <text x="1547" y="763">peer-review workflows</text>
+    <text x="1832" y="740">Assess whether judgment</text>
+    <text x="1832" y="763">survives delegation</text>
+  </g>
+  <g>
+    <rect x="391" y="704" width="32" height="4" fill="#8093AD"/>
+    <rect x="676" y="704" width="32" height="4" fill="#677C99"/>
+    <rect x="961" y="704" width="32" height="4" fill="#4E6485"/>
+    <rect x="1246" y="704" width="32" height="4" fill="#374D71"/>
+    <rect x="1531" y="704" width="32" height="4" fill="#22395C"/>
+    <rect x="1816" y="704" width="32" height="4" fill="#0A2242"/>
+  </g>
+
+  <!-- INSTITUTION band -->
+  <text x="72" y="898" class="display" font-size="26" font-weight="bold">Institution</text>
+  <text x="72" y="926" class="sans" font-size="15" font-style="italic">enables it, governs it,</text>
+  <text x="72" y="946" class="sans" font-size="15" font-style="italic">and compounds it</text>
+  <g class="sans" font-size="19" text-anchor="middle" fill="#242A31">
+    <text x="407" y="900">Approved tools, permissions,</text>
+    <text x="407" y="923">data boundaries</text>
+    <text x="692" y="900">Trusted sources and</text>
+    <text x="692" y="923">learning-use norms</text>
+    <text x="977" y="900">Disclosure norms</text>
+    <text x="977" y="923">and rubrics</text>
+    <text x="1262" y="900">Review gates and</text>
+    <text x="1262" y="923">critique standards</text>
+    <text x="1547" y="900">Workflow and</text>
+    <text x="1547" y="923">skill libraries</text>
+    <text x="1832" y="900">Governed harnesses, review</text>
+    <text x="1832" y="923">gates, compounding knowledge</text>
+  </g>
+  <g>
+    <rect x="391" y="864" width="32" height="4" fill="#8093AD"/>
+    <rect x="676" y="864" width="32" height="4" fill="#677C99"/>
+    <rect x="961" y="864" width="32" height="4" fill="#4E6485"/>
+    <rect x="1246" y="864" width="32" height="4" fill="#374D71"/>
+    <rect x="1531" y="864" width="32" height="4" fill="#22395C"/>
+    <rect x="1816" y="864" width="32" height="4" fill="#0A2242"/>
+  </g>
+
+  <!-- Asking-to-acting axis: the synthesis -->
+  <text x="1000" y="1030" text-anchor="middle" class="sans" font-size="16" font-style="italic" fill="#4D5360">The unit of work shifts from a conversation to a delegated, reviewable workflow.</text>
+  <text x="285" y="1063" text-anchor="end" class="eyebrow" font-size="15" font-weight="bold" fill="#677C99">AI ANSWERS</text>
+  <rect x="300" y="1052" width="1496" height="6" rx="3" fill="url(#askToAct)"/>
+  <path d="M 1812 1055 l -18 -10 l 0 20 z" fill="#0A2242"/>
+  <text x="1826" y="1063" class="eyebrow" font-size="15" font-weight="bold" style="fill:#D82032">AI ACTS</text>
+
+  <!-- Footer core idea -->
+  <text x="1118" y="1124" text-anchor="end" class="display" font-size="24" font-weight="bold">Capability grows left to right. Responsibility grows with it.&#160;</text><text x="1118" y="1124" text-anchor="start" class="display" font-size="24" font-weight="bold" style="fill:#D82032">Judgment stays human at every phase.</text>
+  <text x="1000" y="1160" text-anchor="middle" class="sans" font-size="19">Not every learner becomes a system builder. Every learner becomes a capable supervisor and judge of AI-supported work.</text>
+  <!-- Audience bar -->
+  <line x1="60" y1="1192" x2="1940" y2="1192" stroke="#DED6C8" stroke-width="1.5"/>
+  <rect x="60" y="1191" width="30" height="2.5" style="fill:#D82032"/>
+  <text x="60" y="1226" class="eyebrow" font-size="14" font-weight="bold" style="fill:#D82032">APPLIES TO</text>
+  <text x="185" y="1226" class="sans" font-size="16" fill="#242A31">Subject matter experts&#160;&#160;&#183;&#160;&#160;Higher education (students, faculty, staff)&#160;&#160;&#183;&#160;&#160;Professional military education</text>
+  <text x="1940" y="1226" text-anchor="end" class="sans" font-size="16" font-style="italic">Context, mission, and constraints change. The core progression stays the same.</text>
+</svg>

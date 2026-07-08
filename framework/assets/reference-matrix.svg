@@ -1,0 +1,175 @@
+<svg width="2000" height="1100" viewBox="0 0 2000 1100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .display { font-family: "Fraunces", Georgia, serif; fill: #0A2242; }
+      .sans { font-family: "Newsreader", Georgia, serif; fill: #4D5360; font-weight: 500; }
+      .eyebrow { font-family: "IBM Plex Mono", monospace; fill: #7A7264; letter-spacing: 3px; }
+    </style>
+  </defs>
+  <rect width="2000" height="1100" fill="#F6F1E8"/>
+  <text x="1000" y="84" text-anchor="middle" class="display" font-size="48" font-weight="bold">AI Fluency Progression: Reference Matrix</text>
+  <text x="1000" y="122" text-anchor="middle" class="sans" font-size="21">The complete competency map behind the progression visuals</text>
+  <circle cx="407" cy="230" r="20" fill="#8093AD"/><text x="407" y="238" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" font-weight="bold" fill="#F6F1E8">1</text><text x="407" y="272" text-anchor="middle" class="eyebrow" font-size="13" font-weight="bold" fill="#677C99">ASK</text><text x="407" y="300" text-anchor="middle" class="display" font-size="23" font-weight="bold">Responsible Use</text><circle cx="692" cy="230" r="20" fill="#677C99"/><text x="692" y="238" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" font-weight="bold" fill="#F6F1E8">2</text><text x="692" y="272" text-anchor="middle" class="eyebrow" font-size="13" font-weight="bold" fill="#677C99">UNDERSTAND</text><text x="692" y="300" text-anchor="middle" class="display" font-size="23" font-weight="bold">AI for Learning</text><circle cx="977" cy="230" r="20" fill="#4E6485"/><text x="977" y="238" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" font-weight="bold" fill="#F6F1E8">3</text><text x="977" y="272" text-anchor="middle" class="eyebrow" font-size="13" font-weight="bold" fill="#4E6485">PRODUCE</text><text x="977" y="300" text-anchor="middle" class="display" font-size="23" font-weight="bold">Work Products</text><circle cx="1262" cy="230" r="20" fill="#374D71"/><text x="1262" y="238" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" font-weight="bold" fill="#F6F1E8">4</text><text x="1262" y="272" text-anchor="middle" class="eyebrow" font-size="13" font-weight="bold" fill="#374D71">JUDGE</text><text x="1262" y="300" text-anchor="middle" class="display" font-size="23" font-weight="bold">Judgment / Revision</text><circle cx="1547" cy="230" r="20" fill="#22395C"/><text x="1547" y="238" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" font-weight="bold" fill="#F6F1E8">5</text><text x="1547" y="272" text-anchor="middle" class="eyebrow" font-size="13" font-weight="bold" fill="#22395C">CODIFY</text><text x="1547" y="300" text-anchor="middle" class="display" font-size="23" font-weight="bold">Repeatable Practice</text><circle cx="1832" cy="230" r="20" fill="#0A2242"/><text x="1832" y="238" text-anchor="middle" font-family="IBM Plex Mono" font-size="20" font-weight="bold" fill="#F6F1E8">6</text><text x="1832" y="272" text-anchor="middle" class="eyebrow" font-size="13" font-weight="bold" fill="#0A2242">SUPERVISE</text><text x="1832" y="300" text-anchor="middle" class="display" font-size="23" font-weight="bold">Supervised Systems</text><text x="1547" y="196" text-anchor="middle" class="eyebrow" font-size="13" font-weight="bold" style="fill:#D82032">WHERE SCALE BEGINS</text>
+  <line x1="60" y1="330" x2="1940" y2="330" stroke="#DED6C8" stroke-width="1.5"/><text x="72" y="376" class="display" font-size="26" font-weight="bold">Learners</text><text x="72" y="404" class="sans" font-size="15" font-style="italic">practice it and</text><text x="72" y="424" class="sans" font-size="15" font-style="italic">produce with it</text><rect x="391" y="354" width="32" height="4" fill="#8093AD"/><circle cx="282" cy="383" r="3" fill="#918D89"/>
+<text x="296" y="388" class="sans" font-size="15" fill="#242A31">Know when AI is answering</text>
+<text x="296" y="410" class="sans" font-size="15" fill="#242A31">vs acting</text>
+<circle cx="282" cy="427" r="3" fill="#918D89"/>
+<text x="296" y="432" class="sans" font-size="15" fill="#242A31">Ask, summarize, and draft</text>
+<circle cx="282" cy="449" r="3" fill="#918D89"/>
+<text x="296" y="454" class="sans" font-size="15" fill="#242A31">Verify claims and sources</text>
+<circle cx="282" cy="471" r="3" fill="#918D89"/>
+<text x="296" y="476" class="sans" font-size="15" fill="#242A31">Protect sensitive information</text>
+<circle cx="282" cy="493" r="3" fill="#918D89"/>
+<text x="296" y="498" class="sans" font-size="15" fill="#242A31">Check whether AI used files,</text>
+<text x="296" y="520" class="sans" font-size="15" fill="#242A31">tools, or external actions</text><rect x="676" y="354" width="32" height="4" fill="#677C99"/><circle cx="567" cy="383" r="3" fill="#918D89"/>
+<text x="581" y="388" class="sans" font-size="15" fill="#242A31">Ask for explanations and</text>
+<text x="581" y="410" class="sans" font-size="15" fill="#242A31">worked examples</text>
+<circle cx="567" cy="427" r="3" fill="#918D89"/>
+<text x="581" y="432" class="sans" font-size="15" fill="#242A31">Quiz understanding and</text>
+<text x="581" y="454" class="sans" font-size="15" fill="#242A31">surface gaps</text>
+<circle cx="567" cy="471" r="3" fill="#918D89"/>
+<text x="581" y="476" class="sans" font-size="15" fill="#242A31">Track misconceptions</text>
+<circle cx="567" cy="493" r="3" fill="#918D89"/>
+<text x="581" y="498" class="sans" font-size="15" fill="#242A31">Restate ideas without</text>
+<text x="581" y="520" class="sans" font-size="15" fill="#242A31">the model</text><rect x="961" y="354" width="32" height="4" fill="#4E6485"/><circle cx="852" cy="383" r="3" fill="#918D89"/>
+<text x="866" y="388" class="sans" font-size="15" fill="#242A31">Produce bounded outputs:</text>
+<text x="866" y="410" class="sans" font-size="15" fill="#242A31">outlines, drafts, briefs,</text>
+<text x="866" y="432" class="sans" font-size="15" fill="#242A31">analyses, decision aids</text>
+<circle cx="852" cy="449" r="3" fill="#918D89"/>
+<text x="866" y="454" class="sans" font-size="15" fill="#242A31">State task, context, sources,</text>
+<text x="866" y="476" class="sans" font-size="15" fill="#242A31">and constraints</text>
+<circle cx="852" cy="493" r="3" fill="#918D89"/>
+<text x="866" y="498" class="sans" font-size="15" fill="#242A31">Define the standard for</text>
+<text x="866" y="520" class="sans" font-size="15" fill="#242A31">a usable output</text><rect x="1246" y="354" width="32" height="4" fill="#374D71"/><circle cx="1137" cy="383" r="3" fill="#918D89"/>
+<text x="1151" y="388" class="sans" font-size="15" fill="#242A31">Review outputs and</text>
+<text x="1151" y="410" class="sans" font-size="15" fill="#242A31">intermediate work</text>
+<circle cx="1137" cy="427" r="3" fill="#918D89"/>
+<text x="1151" y="432" class="sans" font-size="15" fill="#242A31">Check sources and find</text>
+<text x="1151" y="454" class="sans" font-size="15" fill="#242A31">weak claims</text>
+<circle cx="1137" cy="471" r="3" fill="#918D89"/>
+<text x="1151" y="476" class="sans" font-size="15" fill="#242A31">Compare alternatives and</text>
+<text x="1151" y="498" class="sans" font-size="15" fill="#242A31">correct errors</text>
+<circle cx="1137" cy="515" r="3" fill="#918D89"/>
+<text x="1151" y="520" class="sans" font-size="15" fill="#242A31">Decide what to accept,</text>
+<text x="1151" y="542" class="sans" font-size="15" fill="#242A31">revise, or reject</text><rect x="1531" y="354" width="32" height="4" fill="#22395C"/><circle cx="1422" cy="383" r="3" fill="#918D89"/>
+<text x="1436" y="388" class="sans" font-size="15" fill="#242A31">Turn recurring work into</text>
+<text x="1436" y="410" class="sans" font-size="15" fill="#242A31">a reusable method</text>
+<circle cx="1422" cy="427" r="3" fill="#918D89"/>
+<text x="1436" y="432" class="sans" font-size="15" fill="#242A31">Task brief, prompt pattern,</text>
+<text x="1436" y="454" class="sans" font-size="15" fill="#242A31">checklist, source list</text>
+<circle cx="1422" cy="471" r="3" fill="#918D89"/>
+<text x="1436" y="476" class="sans" font-size="15" fill="#242A31">Steps, review criteria,</text>
+<text x="1436" y="498" class="sans" font-size="15" fill="#242A31">and stop rules</text>
+<circle cx="1422" cy="515" r="3" fill="#918D89"/>
+<text x="1436" y="520" class="sans" font-size="15" fill="#242A31">Keep examples of good</text>
+<text x="1436" y="542" class="sans" font-size="15" fill="#242A31">and bad outputs</text><rect x="1816" y="354" width="32" height="4" fill="#0A2242"/><circle cx="1707" cy="383" r="3" fill="#918D89"/>
+<text x="1721" y="388" class="sans" font-size="15" fill="#242A31">Write task briefs, assign</text>
+<text x="1721" y="410" class="sans" font-size="15" fill="#242A31">roles, set constraints</text>
+<circle cx="1707" cy="427" r="3" fill="#918D89"/>
+<text x="1721" y="432" class="sans" font-size="15" fill="#242A31">Inspect intermediate outputs</text>
+<text x="1721" y="454" class="sans" font-size="15" fill="#242A31">and compare results</text>
+<circle cx="1707" cy="471" r="3" fill="#918D89"/>
+<text x="1721" y="476" class="sans" font-size="15" fill="#242A31">Define stop rules and</text>
+<text x="1721" y="498" class="sans" font-size="15" fill="#242A31">escalate uncertainty</text>
+<circle cx="1707" cy="515" r="3" fill="#918D89"/>
+<text x="1721" y="520" class="sans" font-size="15" fill="#242A31">Integrate results into</text>
+<text x="1721" y="542" class="sans" font-size="15" fill="#242A31">finished work</text><line x1="60" y1="566" x2="1940" y2="566" stroke="#DED6C8" stroke-width="1.5"/><text x="72" y="612" class="display" font-size="26" font-weight="bold">Faculty</text><text x="72" y="640" class="sans" font-size="15" font-style="italic">teach, coach,</text><text x="72" y="660" class="sans" font-size="15" font-style="italic">and assess it</text><rect x="391" y="590" width="32" height="4" fill="#8093AD"/><circle cx="282" cy="619" r="3" fill="#918D89"/>
+<text x="296" y="624" class="sans" font-size="15" fill="#242A31">Model safe use and</text>
+<text x="296" y="646" class="sans" font-size="15" fill="#242A31">safe delegation</text>
+<circle cx="282" cy="663" r="3" fill="#918D89"/>
+<text x="296" y="668" class="sans" font-size="15" fill="#242A31">Show the difference between</text>
+<text x="296" y="690" class="sans" font-size="15" fill="#242A31">an answer and an action</text>
+<circle cx="282" cy="707" r="3" fill="#918D89"/>
+<text x="296" y="712" class="sans" font-size="15" fill="#242A31">Require marking what was</text>
+<text x="296" y="734" class="sans" font-size="15" fill="#242A31">trusted, rejected, verified</text><rect x="676" y="590" width="32" height="4" fill="#677C99"/><circle cx="567" cy="619" r="3" fill="#918D89"/>
+<text x="581" y="624" class="sans" font-size="15" fill="#242A31">Design AI support for under-</text>
+<text x="581" y="646" class="sans" font-size="15" fill="#242A31">standing, not substitution</text>
+<circle cx="567" cy="663" r="3" fill="#918D89"/>
+<text x="581" y="668" class="sans" font-size="15" fill="#242A31">Compare AI explanations</text>
+<text x="581" y="690" class="sans" font-size="15" fill="#242A31">with course materials</text>
+<circle cx="567" cy="707" r="3" fill="#918D89"/>
+<text x="581" y="712" class="sans" font-size="15" fill="#242A31">Ask what changed in</text>
+<text x="581" y="734" class="sans" font-size="15" fill="#242A31">the student’s thinking</text><rect x="961" y="590" width="32" height="4" fill="#4E6485"/><circle cx="852" cy="619" r="3" fill="#918D89"/>
+<text x="866" y="624" class="sans" font-size="15" fill="#242A31">Require process notes: what was</text>
+<text x="866" y="646" class="sans" font-size="15" fill="#242A31">delegated, revised, sourced</text>
+<circle cx="852" cy="663" r="3" fill="#918D89"/>
+<text x="866" y="668" class="sans" font-size="15" fill="#242A31">Assess the artifact and</text>
+<text x="866" y="690" class="sans" font-size="15" fill="#242A31">the choices behind it</text>
+<circle cx="852" cy="707" r="3" fill="#918D89"/>
+<text x="866" y="712" class="sans" font-size="15" fill="#242A31">Keep the student responsible</text>
+<text x="866" y="734" class="sans" font-size="15" fill="#242A31">for the result</text><rect x="1246" y="590" width="32" height="4" fill="#374D71"/><circle cx="1137" cy="619" r="3" fill="#918D89"/>
+<text x="1151" y="624" class="sans" font-size="15" fill="#242A31">Use critique logs, source</text>
+<text x="1151" y="646" class="sans" font-size="15" fill="#242A31">audits, revision records</text>
+<circle cx="1137" cy="663" r="3" fill="#918D89"/>
+<text x="1151" y="668" class="sans" font-size="15" fill="#242A31">Run oral defense and</text>
+<text x="1151" y="690" class="sans" font-size="15" fill="#242A31">checkpoint reviews</text>
+<circle cx="1137" cy="707" r="3" fill="#918D89"/>
+<text x="1151" y="712" class="sans" font-size="15" fill="#242A31">Grade judgment, not</text>
+<text x="1151" y="734" class="sans" font-size="15" fill="#242A31">just polish</text><rect x="1531" y="590" width="32" height="4" fill="#22395C"/><circle cx="1422" cy="619" r="3" fill="#918D89"/>
+<text x="1436" y="624" class="sans" font-size="15" fill="#242A31">Have students document</text>
+<text x="1436" y="646" class="sans" font-size="15" fill="#242A31">a workflow</text>
+<circle cx="1422" cy="663" r="3" fill="#918D89"/>
+<text x="1436" y="668" class="sans" font-size="15" fill="#242A31">Test it on more than one</text>
+<text x="1436" y="690" class="sans" font-size="15" fill="#242A31">case, then peer review</text>
+<circle cx="1422" cy="707" r="3" fill="#918D89"/>
+<text x="1436" y="712" class="sans" font-size="15" fill="#242A31">Ask where human review</text>
+<text x="1436" y="734" class="sans" font-size="15" fill="#242A31">belongs, and why</text><rect x="1816" y="590" width="32" height="4" fill="#0A2242"/><circle cx="1707" cy="619" r="3" fill="#918D89"/>
+<text x="1721" y="624" class="sans" font-size="15" fill="#242A31">Teach supervision before</text>
+<text x="1721" y="646" class="sans" font-size="15" fill="#242A31">automation</text>
+<circle cx="1707" cy="663" r="3" fill="#918D89"/>
+<text x="1721" y="668" class="sans" font-size="15" fill="#242A31">Use small, bounded</text>
+<text x="1721" y="690" class="sans" font-size="15" fill="#242A31">delegation exercises</text>
+<circle cx="1707" cy="707" r="3" fill="#918D89"/>
+<text x="1721" y="712" class="sans" font-size="15" fill="#242A31">Assess monitoring,</text>
+<text x="1721" y="734" class="sans" font-size="15" fill="#242A31">integration, and judgment</text><line x1="60" y1="762" x2="1940" y2="762" stroke="#DED6C8" stroke-width="1.5"/><text x="72" y="808" class="display" font-size="26" font-weight="bold">Institution</text><text x="72" y="836" class="sans" font-size="15" font-style="italic">enables it, governs it,</text><text x="72" y="856" class="sans" font-size="15" font-style="italic">and compounds it</text><rect x="391" y="786" width="32" height="4" fill="#8093AD"/><circle cx="282" cy="815" r="3" fill="#918D89"/>
+<text x="296" y="820" class="sans" font-size="15" fill="#242A31">Approved tools with</text>
+<text x="296" y="842" class="sans" font-size="15" fill="#242A31">role permissions</text>
+<circle cx="282" cy="859" r="3" fill="#918D89"/>
+<text x="296" y="864" class="sans" font-size="15" fill="#242A31">Data boundaries and</text>
+<text x="296" y="886" class="sans" font-size="15" fill="#242A31">safe-use examples</text>
+<circle cx="282" cy="903" r="3" fill="#918D89"/>
+<text x="296" y="908" class="sans" font-size="15" fill="#242A31">Guidance on when AI may</text>
+<text x="296" y="930" class="sans" font-size="15" fill="#242A31">inspect files or act</text><rect x="676" y="786" width="32" height="4" fill="#677C99"/><circle cx="567" cy="815" r="3" fill="#918D89"/>
+<text x="581" y="820" class="sans" font-size="15" fill="#242A31">Trusted source packets</text>
+<circle cx="567" cy="837" r="3" fill="#918D89"/>
+<text x="581" y="842" class="sans" font-size="15" fill="#242A31">Course-level AI guidance</text>
+<circle cx="567" cy="859" r="3" fill="#918D89"/>
+<text x="581" y="864" class="sans" font-size="15" fill="#242A31">Sample learning prompts</text>
+<text x="581" y="886" class="sans" font-size="15" fill="#242A31">and faculty examples</text><rect x="961" y="786" width="32" height="4" fill="#4E6485"/><circle cx="852" cy="815" r="3" fill="#918D89"/>
+<text x="866" y="820" class="sans" font-size="15" fill="#242A31">Assignment expectations</text>
+<text x="866" y="842" class="sans" font-size="15" fill="#242A31">and disclosure norms</text>
+<circle cx="852" cy="859" r="3" fill="#918D89"/>
+<text x="866" y="864" class="sans" font-size="15" fill="#242A31">Rubrics and sample artifacts</text>
+<circle cx="852" cy="881" r="3" fill="#918D89"/>
+<text x="866" y="886" class="sans" font-size="15" fill="#242A31">Rules for acceptable</text>
+<text x="866" y="908" class="sans" font-size="15" fill="#242A31">AI-assisted production</text><rect x="1246" y="786" width="32" height="4" fill="#374D71"/><circle cx="1137" cy="815" r="3" fill="#918D89"/>
+<text x="1151" y="820" class="sans" font-size="15" fill="#242A31">Review standards and</text>
+<text x="1151" y="842" class="sans" font-size="15" fill="#242A31">critique rubrics</text>
+<circle cx="1137" cy="859" r="3" fill="#918D89"/>
+<text x="1151" y="864" class="sans" font-size="15" fill="#242A31">Source-audit practices</text>
+<text x="1151" y="886" class="sans" font-size="15" fill="#242A31">and approval gates</text>
+<circle cx="1137" cy="903" r="3" fill="#918D89"/>
+<text x="1151" y="908" class="sans" font-size="15" fill="#242A31">Norms for making AI-supported</text>
+<text x="1151" y="930" class="sans" font-size="15" fill="#242A31">reasoning visible</text><rect x="1531" y="786" width="32" height="4" fill="#22395C"/><circle cx="1422" cy="815" r="3" fill="#918D89"/>
+<text x="1436" y="820" class="sans" font-size="15" fill="#242A31">Shared prompt and</text>
+<text x="1436" y="842" class="sans" font-size="15" fill="#242A31">workflow libraries</text>
+<circle cx="1422" cy="859" r="3" fill="#918D89"/>
+<text x="1436" y="864" class="sans" font-size="15" fill="#242A31">Skill-card templates and</text>
+<text x="1436" y="886" class="sans" font-size="15" fill="#242A31">approved knowledge sources</text>
+<circle cx="1422" cy="903" r="3" fill="#918D89"/>
+<text x="1436" y="908" class="sans" font-size="15" fill="#242A31">Examples of good and bad</text>
+<text x="1436" y="930" class="sans" font-size="15" fill="#242A31">outputs; light evaluations</text><rect x="1816" y="786" width="32" height="4" fill="#0A2242"/><circle cx="1707" cy="815" r="3" fill="#918D89"/>
+<text x="1721" y="820" class="sans" font-size="15" fill="#242A31">Governed tools and bounded</text>
+<text x="1721" y="842" class="sans" font-size="15" fill="#242A31">agent templates</text>
+<circle cx="1707" cy="859" r="3" fill="#918D89"/>
+<text x="1721" y="864" class="sans" font-size="15" fill="#242A31">Logs, permissions, escalation</text>
+<text x="1721" y="886" class="sans" font-size="15" fill="#242A31">rules, review gates</text>
+<circle cx="1707" cy="903" r="3" fill="#918D89"/>
+<text x="1721" y="908" class="sans" font-size="15" fill="#242A31">Staff training, evaluation</text>
+<text x="1721" y="930" class="sans" font-size="15" fill="#242A31">metrics, risk management</text>
+<circle cx="1707" cy="947" r="3" fill="#918D89"/>
+<text x="1721" y="952" class="sans" font-size="15" fill="#242A31">An AI-native knowledge layer</text>
+<text x="1721" y="974" class="sans" font-size="15" fill="#242A31">feeding models, when warranted</text><line x1="60" y1="1002" x2="1940" y2="1002" stroke="#DED6C8" stroke-width="1.5"/>
+  <rect x="60" y="1001" width="30" height="2.5" style="fill:#D82032"/>
+  <text x="1027" y="1058" text-anchor="end" class="display" font-size="23" font-weight="bold">Context, mission, and constraints change.&#160;</text><text x="1027" y="1058" text-anchor="start" class="display" font-size="23" font-weight="bold" style="fill:#D82032">The core progression stays the same.</text>
+</svg>

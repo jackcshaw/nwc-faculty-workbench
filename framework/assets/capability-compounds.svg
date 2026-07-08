@@ -1,0 +1,110 @@
+<svg width="1800" height="1150" viewBox="0 0 1800 1150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .display { font-family: "Fraunces", Georgia, serif; fill: #0A2242; }
+      .sans { font-family: "Newsreader", Georgia, serif; fill: #4D5360; font-weight: 500; }
+      .eyebrow { font-family: "IBM Plex Mono", monospace; fill: #7A7264; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <rect width="1800" height="1150" fill="#F6F1E8"/>
+
+  <!-- Title block -->
+  <text x="900" y="82" text-anchor="middle" class="display" font-size="50" font-weight="bold">How Institutional AI Capability Compounds</text>
+  <text x="900" y="122" text-anchor="middle" class="sans" font-size="22">From reviewed practice to governed systems to an AI-native knowledge layer</text>
+  <text x="900" y="166" text-anchor="middle" class="sans" font-size="19" font-style="italic" fill="#0A2242">An institution earns its AI-native knowledge layer by climbing these steps first.</text>
+
+  <!-- Governance test callout, upper left -->
+  <g>
+    <rect x="120" y="236" width="560" height="252" rx="10" fill="#FBF8F2" stroke="#D82032" stroke-width="1.5"/>
+    <text x="150" y="282" class="display" font-size="26" font-weight="bold" style="fill:#D82032">The governance gate</text>
+    <text x="150" y="310" class="sans" font-size="16" font-style="italic">Pass every test before training or tuning anything.</text>
+    <g class="sans" font-size="17" fill="#242A31">
+      <text x="150" y="346">A stable task definition</text>
+      <text x="150" y="374">Validated institutional knowledge</text>
+      <text x="150" y="402">Examples of success and failure</text>
+      <text x="150" y="430">An evaluation set built before any model change</text>
+      <text x="150" y="458">Human review, access control, and an audit trail</text>
+    </g>
+    <g style="fill:#D82032">
+      <rect x="132" y="338" width="8" height="8"/>
+      <rect x="132" y="366" width="8" height="8"/>
+      <rect x="132" y="394" width="8" height="8"/>
+      <rect x="132" y="422" width="8" height="8"/>
+      <rect x="132" y="450" width="8" height="8"/>
+    </g>
+    <!-- dotted connector to the gate -->
+    <path d="M 690 400 C 900 400 1150 385 1340 378" fill="none" stroke="#D82032" stroke-width="1.5" stroke-dasharray="2 6"/>
+  </g>
+
+  <!-- Systematization eyebrow over steps 2-3 -->
+  <g stroke="#CFC7B8" stroke-width="2" fill="none"><path d="M 404 578 L 404 564 L 1000 564 L 1000 578"/></g>
+  <rect x="597" y="552" width="210" height="22" fill="#F6F1E8"/>
+  <text x="702" y="570" text-anchor="middle" class="eyebrow" font-size="14" font-weight="bold" fill="#0A2242">SYSTEMATIZATION</text>
+
+  <!-- Staircase: baseline y=920 -->
+  <!-- Step 1 -->
+  <rect x="90" y="800" width="300" height="120" fill="#8093AD" fill-opacity="0.14"/>
+  <rect x="90" y="800" width="300" height="6" fill="#8093AD"/>
+  <circle cx="120" cy="836" r="15" fill="#8093AD"/>
+  <text x="120" y="842" text-anchor="middle" font-family="IBM Plex Mono" font-size="17" font-weight="bold" fill="#F6F1E8">1</text>
+  <text x="146" y="843" class="display" font-size="23" font-weight="bold">Reviewed practice</text>
+  <text x="106" y="874" class="sans" font-size="16">Work, feedback, critiques, and</text>
+  <text x="106" y="896" class="sans" font-size="16">revisions from real courses and tasks</text>
+
+  <!-- Step 2 -->
+  <rect x="398" y="700" width="300" height="220" fill="#677C99" fill-opacity="0.14"/>
+  <rect x="398" y="700" width="300" height="6" fill="#677C99"/>
+  <circle cx="428" cy="736" r="15" fill="#677C99"/>
+  <text x="428" y="742" text-anchor="middle" font-family="IBM Plex Mono" font-size="17" font-weight="bold" fill="#F6F1E8">2</text>
+  <text x="454" y="743" class="display" font-size="23" font-weight="bold">Reusable assets</text>
+  <text x="414" y="774" class="sans" font-size="16">Prompt patterns, skill cards,</text>
+  <text x="414" y="796" class="sans" font-size="16">source packs, and review gates</text>
+
+  <!-- Step 3 -->
+  <rect x="706" y="600" width="300" height="320" fill="#4E6485" fill-opacity="0.14"/>
+  <rect x="706" y="600" width="300" height="6" fill="#4E6485"/>
+  <circle cx="736" cy="636" r="15" fill="#4E6485"/>
+  <text x="736" y="642" text-anchor="middle" font-family="IBM Plex Mono" font-size="17" font-weight="bold" fill="#F6F1E8">3</text>
+  <text x="762" y="643" class="display" font-size="23" font-weight="bold">Evaluation</text>
+  <text x="722" y="674" class="sans" font-size="16">Good and bad examples, pass and</text>
+  <text x="722" y="696" class="sans" font-size="16">fail tests, source-audit standards</text>
+
+  <!-- Step 4 -->
+  <rect x="1014" y="500" width="300" height="420" fill="#374D71" fill-opacity="0.14"/>
+  <rect x="1014" y="500" width="300" height="6" fill="#374D71"/>
+  <circle cx="1044" cy="536" r="15" fill="#374D71"/>
+  <text x="1044" y="542" text-anchor="middle" font-family="IBM Plex Mono" font-size="17" font-weight="bold" fill="#F6F1E8">4</text>
+  <text x="1070" y="543" class="display" font-size="23" font-weight="bold">Governed systems</text>
+  <text x="1030" y="574" class="sans" font-size="16">Approved retrieval, bounded</text>
+  <text x="1030" y="596" class="sans" font-size="16">workflows, logs, and permissions</text>
+
+  <!-- The gate -->
+  <rect x="1322" y="372" width="70" height="548" style="fill:#D82032"/>
+  <text x="1357" y="646" text-anchor="middle" transform="rotate(-90 1357 646)" font-family="IBM Plex Mono" font-size="21" font-weight="bold" fill="#F6F1E8" letter-spacing="4">THE GOVERNANCE GATE</text>
+
+  <!-- Step 5 -->
+  <rect x="1400" y="400" width="300" height="520" fill="#0A2242" fill-opacity="0.14"/>
+  <rect x="1400" y="400" width="300" height="6" fill="#0A2242"/>
+  <circle cx="1430" cy="436" r="15" fill="#0A2242"/>
+  <text x="1430" y="442" text-anchor="middle" font-family="IBM Plex Mono" font-size="17" font-weight="bold" fill="#F6F1E8">5</text>
+  <text x="1456" y="443" class="display" font-size="23" font-weight="bold">AI-native</text>
+  <text x="1456" y="471" class="display" font-size="23" font-weight="bold">knowledge layer</text>
+  <text x="1416" y="502" class="sans" font-size="16">Validated institutional knowledge,</text>
+  <text x="1416" y="524" class="sans" font-size="16">structured to power retrieval,</text>
+  <text x="1416" y="546" class="sans" font-size="16">evaluation, and custom or</text>
+  <text x="1416" y="568" class="sans" font-size="16">domain-specific models</text>
+  <text x="1416" y="600" class="sans" font-size="15" font-style="italic" fill="#0A2242">Models come and go.</text>
+  <text x="1416" y="620" class="sans" font-size="15" font-style="italic" fill="#0A2242">The knowledge compounds.</text>
+
+  <!-- Baseline -->
+  <line x1="90" y1="920" x2="1700" y2="920" stroke="#0A2242" stroke-width="2.5"/>
+
+  <!-- Feedback loop -->
+  <path d="M 1620 932 C 1620 1000 1200 1010 900 1010 C 600 1010 220 1010 190 1010" fill="none" stroke="#918D89" stroke-width="2"/>
+  <path d="M 192 1010 l 16 -8 l 0 16 z" fill="#918D89"/>
+  <text x="900" y="1046" text-anchor="middle" class="sans" font-size="18" font-style="italic">Better systems feed back into teaching, assessment, and daily work.</text>
+
+  <!-- Footer -->
+  <text x="900" y="1108" text-anchor="middle" class="display" font-size="23" font-weight="bold">Capture reviewed practice. Turn it into shared assets. Test it. Govern it. Only then apply it to models.</text>
+</svg>
