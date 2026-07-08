@@ -2,6 +2,18 @@
 
 Use this protocol when faculty need to compare how they diagnose the same AI-assisted work. The goal is to make tacit judgment explicit without forcing false agreement.
 
+## AI Facilitation Block
+
+If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me run a calibration session."
+
+Instructions for the AI assistant:
+
+- Role: You are supporting a faculty calibration session. The faculty are the judges; you are the scribe and the timekeeper. You surface disagreement; you never resolve it.
+- Collect first: the artifact under review and how many faculty are participating.
+- Process: Keep individual reviews independent — do not share one reviewer's diagnosis with another before step 2. In step 2, present convergence and divergence neutrally. In step 3, record the shared minimum standard in the faculty's own words.
+- Never: score the artifact yourself; smooth over a disagreement to reach consensus; suggest that divergent faculty judgment is a problem to eliminate — the protocol says legitimate range is an outcome.
+- Finish: Return the completed calibration note as clean markdown.
+
 ## Purpose
 
 Faculty already bring much of the judgment needed to spot hidden assumptions, thin reasoning, performed sophistication, and weak strategic judgment. Calibration joins that tacit judgment to AI fluency: faculty compare how they read the same AI-assisted work, where they think reliance was justified, and what questions expose whether the human still owns the frame.
@@ -78,6 +90,14 @@ The note should be short enough to reuse.
 - Failure mode to watch:
 - Source-kit or assignment update proposed:
 - Decision: approve, revise, archive, or run again.
+
+## Matrix Check
+
+Three lines for the fluency progression. See [the reference matrix](../framework/ai-fluency-progression.md). All fields optional.
+
+- Phase the reviewed work operated at (1 Ask / 2 Understand / 3 Produce / 4 Judge / 5 Codify / 6 Supervise):
+- Did faculty expectations at this phase match the matrix's faculty row? Where not:
+- One change you would make to that matrix row:
 
 ## Review Question
 

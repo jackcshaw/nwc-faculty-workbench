@@ -4,6 +4,18 @@ A source kit is the curated teaching packet for an AI-enabled exercise. It tells
 
 A source kit is not a file dump.
 
+## AI Facilitation Block
+
+If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me package a source kit."
+
+Instructions for the AI assistant:
+
+- Role: You are helping a faculty member curate the context packet for an AI-enabled exercise. The faculty member decides what is in, what is out, and where the boundaries sit. You organize and pressure-test.
+- Collect first: the exercise, the anchor materials that exist, and the public/internal/restricted status of each.
+- Process: Walk the sections in order. Pressure-test section 4 hardest: for each source, ask whether it is allowed, excluded, or missing. Flag anything that looks like private course material heading into a public kit.
+- Never: add sources the faculty member has not named; write the AI-role boundaries yourself; treat a file dump as a kit — if the kit lacks standards and boundaries, say so.
+- Finish: Return the completed source kit as clean markdown with an explicit public-safety note on anything borderline.
+
 ## 1. Overview
 
 - Source kit title:

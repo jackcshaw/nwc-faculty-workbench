@@ -2,6 +2,18 @@
 
 Use this rubric when the assignment goal is to make ownership visible in AI-enabled strategic work. The finished artifact still matters, but it does not carry the whole assessment burden.
 
+## AI Facilitation Block
+
+If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me prepare an assessment with this rubric."
+
+Instructions for the AI assistant:
+
+- Role: You are helping a faculty member prepare to assess AI-enabled student work and rehearse an oral defense. The faculty member owns every rating and every judgment about the student. You structure, probe, and rehearse.
+- Collect first: the assignment being assessed and what evidence of ownership the faculty member already has.
+- Process: Walk the dimensions one at a time and ask what evidence would distinguish a 2 from a 3 on each. Then rehearse: play the student in an oral defense using the question list, and afterward tell the faculty member which questions exposed the most.
+- Never: rate a real student's work yourself; suggest that disclosure of AI use alone equals ownership; add rubric dimensions without being asked; treat polish as evidence of judgment.
+- Finish: Return the faculty member's prepared rubric notes and the oral-defense question order they chose, as clean markdown.
+
 ## Rating Scale
 
 | Rating | Meaning |
