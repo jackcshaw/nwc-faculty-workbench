@@ -27,16 +27,26 @@ The workbench grew out of the argument in **The Irreducible Officer**, but it sh
 
 ## Start Here
 
-| I want to... | Use this |
-| --- | --- |
-| Design an AI-enabled assignment | [templates/assignment-design-worksheet.md](templates/assignment-design-worksheet.md) |
-| Assess ownership and run oral defense | [templates/assessment-and-oral-defense-rubric.md](templates/assessment-and-oral-defense-rubric.md) |
-| Build a reusable flawed AI output | [templates/flawed-output-library-template.md](templates/flawed-output-library-template.md) |
-| Calibrate faculty judgment | [templates/faculty-calibration-protocol.md](templates/faculty-calibration-protocol.md) |
-| Package exercise context for an AI assistant | [templates/source-kit-template.md](templates/source-kit-template.md) |
-| Capture lessons after an exercise | [templates/after-action-note-template.md](templates/after-action-note-template.md) |
-| Understand future context curation | [roadmap/context-curation-roadmap.md](roadmap/context-curation-roadmap.md) |
-| Keep surfaces separate | [docs/ecosystem-boundaries.md](docs/ecosystem-boundaries.md) |
+**With an AI assistant (recommended):** give your assistant the [workbench source kit](workbench-source-kit.md) — or the full workbench bundle from the public site — and say: "Run the phase placement diagnostic with me." The assistant will place your assignment on the fluency progression and route you to the right template. Every template contains an AI Facilitation Block, so the assistant can run it as a guided session.
+
+**On paper:** every template works as a plain worksheet. Start with the table below.
+
+| I want to... | Use this | Phase |
+| --- | --- | --- |
+| Find where to start | [templates/phase-placement-diagnostic.md](templates/phase-placement-diagnostic.md) | Entry |
+| Design an AI-enabled assignment | [templates/assignment-design-worksheet.md](templates/assignment-design-worksheet.md) | 2–4 |
+| Assess ownership and run oral defense | [templates/assessment-and-oral-defense-rubric.md](templates/assessment-and-oral-defense-rubric.md) | 4 |
+| Build a reusable flawed AI output | [templates/flawed-output-library-template.md](templates/flawed-output-library-template.md) | 4 |
+| Calibrate faculty judgment | [templates/faculty-calibration-protocol.md](templates/faculty-calibration-protocol.md) | 4–5 |
+| Codify a recurring method | [templates/method-card-template.md](templates/method-card-template.md) | 5 |
+| Design a supervised delegation exercise | [templates/supervised-delegation-exercise.md](templates/supervised-delegation-exercise.md) | 6 |
+| Package exercise context for an AI assistant | [templates/source-kit-template.md](templates/source-kit-template.md) | 5–6 |
+| Capture lessons after an exercise | [templates/after-action-note-template.md](templates/after-action-note-template.md) | 5 |
+| See the full fluency progression and matrix | [framework/ai-fluency-progression.md](framework/ai-fluency-progression.md) | All |
+| Understand future context curation | [roadmap/context-curation-roadmap.md](roadmap/context-curation-roadmap.md) | Future |
+| Keep surfaces separate | [docs/ecosystem-boundaries.md](docs/ecosystem-boundaries.md) | — |
+
+The phase column refers to the six-phase AI fluency progression (Ask, Understand, Produce, Judge, Codify, Supervise). The workbench's maturity levels below and the progression map onto each other; see the [crosswalk](framework/ai-fluency-progression.md#crosswalk).
 
 ## Maturity Levels
 
@@ -76,10 +86,13 @@ Future direction. A Librarian-style architecture could support a faculty-governe
 
 These can be used immediately as markdown artifacts:
 
+- phase placement diagnostic;
 - assignment design worksheet;
 - assessment and oral-defense rubric;
 - flawed-output library template;
 - faculty calibration protocol;
+- method card template;
+- supervised delegation exercise;
 - source-kit template;
 - after-action note template.
 
