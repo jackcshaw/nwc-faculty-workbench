@@ -13,7 +13,7 @@
 ## Global Constraints
 
 - Two repos: **workbench** (`/Users/jackcshaw-2/dev/comprendo-clients/nwc/workbench`, branch `ai-fluency-operationalization`, already exists) and **site** (`/Users/jackcshaw-2/dev/comprendo-clients/nwc/site`, create branch `workbench-ai-integration` in Task 12). Never commit to `main` in either repo.
-- Every commit message ends with: `Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>`
+- Commit messages must not contain any Claude or AI-authorship references (no Co-Authored-By trailers, no tool names).
 - Public-safe only: no private NWC course material, no security/deployment claims, no personal data beyond the maintainer contact line specified in Task 8.
 - Match workbench voice: short declarative sentences, Title Case H2s (`## What This Is For`), field lists as `- Label:` bullets, list items ending in semicolons only where existing files do.
 - Matrix content is **hypothesis, not doctrine**: every persona row published with status `Hypothesis — awaiting NWC validation`. Never present matrix cells as validated.
@@ -56,9 +56,7 @@ Expected: four files, each > 5KB, first bytes contain `<svg` (possibly after an 
 
 ```bash
 git add framework/assets
-git commit -m "Add AI fluency framework visuals as SVG sources
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add AI fluency framework visuals as SVG sources"
 ```
 
 ---
@@ -194,9 +192,7 @@ Expected: `5` H2 headings and `4` status strings (legend paragraph mentions `Hyp
 
 ```bash
 git add framework/ai-fluency-progression.md
-git commit -m "Add framework reference doc with matrix at hypothesis status
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add framework reference doc with matrix at hypothesis status"
 ```
 
 ---
@@ -257,9 +253,7 @@ Expected: nine template paths. Note `phase-placement-diagnostic.md`, `method-car
 
 ```bash
 git add framework/ai-fluency-progression.md
-git commit -m "Add crosswalk mapping templates and maturity levels to phases
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add crosswalk mapping templates and maturity levels to phases"
 ```
 
 ---
@@ -346,9 +340,7 @@ Expected: `5` and `1`.
 
 ```bash
 git add templates/phase-placement-diagnostic.md
-git commit -m "Add phase placement diagnostic as workbench front door
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add phase placement diagnostic as workbench front door"
 ```
 
 ---
@@ -403,9 +395,7 @@ Expected: `1` in each file.
 
 ```bash
 git add templates/assignment-design-worksheet.md templates/assessment-and-oral-defense-rubric.md
-git commit -m "Add AI facilitation blocks to assignment worksheet and rubric
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add AI facilitation blocks to assignment worksheet and rubric"
 ```
 
 ---
@@ -511,9 +501,7 @@ Expected: `10`.
 
 ```bash
 git add templates/method-card-template.md
-git commit -m "Add method card template for phase 5 codification
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add method card template for phase 5 codification"
 ```
 
 ---
@@ -623,9 +611,7 @@ Expected: `10`.
 
 ```bash
 git add templates/supervised-delegation-exercise.md
-git commit -m "Add supervised delegation exercise template for phase 6
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add supervised delegation exercise template for phase 6"
 ```
 
 ---
@@ -680,9 +666,7 @@ Expected: `1` in each file.
 
 ```bash
 git add templates/after-action-note-template.md templates/faculty-calibration-protocol.md
-git commit -m "Add matrix checks and feedback return path to capture instruments
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add matrix checks and feedback return path to capture instruments"
 ```
 
 ---
@@ -771,9 +755,7 @@ Expected: `9` (six original templates + diagnostic + method card + supervised de
 
 ```bash
 git add templates/
-git commit -m "Add AI facilitation blocks to remaining templates
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add AI facilitation blocks to remaining templates"
 ```
 
 ---
@@ -878,9 +860,7 @@ Expected: `6` and `README.md`.
 
 ```bash
 git add workbench-source-kit.md examples/
-git commit -m "Add workbench source kit and transcripts directory
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Add workbench source kit and transcripts directory"
 ```
 
 ---
@@ -955,9 +935,7 @@ Expected: at least `1` per file for each pattern. Also verify every link target 
 
 ```bash
 git add README.md AGENTS.md
-git commit -m "Route README and agent instructions through the fluency progression
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Route README and agent instructions through the fluency progression"
 ```
 
 ---
@@ -1094,9 +1072,7 @@ git add scripts/build-site.mjs tests/site-contract.test.mjs
 git commit -m "Read workbench templates from the workbench repo instead of inlining
 
 Ends template drift between site and workbench; facilitation blocks
-now flow through automatically.
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+now flow through automatically."
 ```
 
 ---
@@ -1199,9 +1175,7 @@ Expected: PASS.
 
 ```bash
 git add scripts/build-site.mjs tests/site-contract.test.mjs
-git commit -m "Emit workbench-context.md bundle for one-paste AI assistant use
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Emit workbench-context.md bundle for one-paste AI assistant use"
 ```
 
 ---
@@ -1361,9 +1335,7 @@ Expected: diagnostic card first and selected by default; setup prompt panel with
 
 ```bash
 git add scripts/build-site.mjs tests/site-contract.test.mjs
-git commit -m "Refresh workbench mode: diagnostic entry, setup prompt, progression visual
-
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>"
+git commit -m "Refresh workbench mode: diagnostic entry, setup prompt, progression visual"
 ```
 
 ---
