@@ -64,3 +64,15 @@ Proposals require faculty approval before they become shared context.
 - Source-kit update:
 - New flawed output needed:
 - Faculty calibration needed:
+
+## Matrix Check
+
+Three lines for the fluency progression. See [the reference matrix](../framework/ai-fluency-progression.md). All fields optional.
+
+- Phase this exercise operated at (1 Ask / 2 Understand / 3 Produce / 4 Judge / 5 Codify / 6 Supervise):
+- Did the matrix's expectations for learners and faculty at this phase match what happened? What did not:
+- One change you would make to that matrix row:
+
+## Sending This Note
+
+Completed notes make the workbench better. Send a copy (with private course material removed) to the workbench maintainer: jackcshaw@gmail.com.

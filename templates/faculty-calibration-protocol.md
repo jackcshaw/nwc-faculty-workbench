@@ -79,6 +79,14 @@ The note should be short enough to reuse.
 - Source-kit or assignment update proposed:
 - Decision: approve, revise, archive, or run again.
 
+## Matrix Check
+
+Three lines for the fluency progression. See [the reference matrix](../framework/ai-fluency-progression.md). All fields optional.
+
+- Phase the reviewed work operated at (1 Ask / 2 Understand / 3 Produce / 4 Judge / 5 Codify / 6 Supervise):
+- Did faculty expectations at this phase match the matrix's faculty row? Where not:
+- One change you would make to that matrix row:
+
 ## Review Question
 
 Did this calibration make future faculty judgment easier to explain, teach, and reuse?
