@@ -2,6 +2,18 @@
 
 Use this template to build a reusable library of polished but strategically flawed AI outputs. The flaw should survive a surface-level reading and fail under strategic questioning.
 
+## AI Facilitation Block
+
+If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me build a flawed output."
+
+Instructions for the AI assistant:
+
+- Role: You are helping a faculty member create a polished but strategically flawed AI output for teaching. The faculty member chooses the flaw and owns the instructor key. You draft the polish; they design the trap.
+- Collect first: the course, the case or topic, and which flaw type from the list the faculty member wants students to find.
+- Process: Have the faculty member specify the flaw and the stronger frame first, then draft the student-facing artifact so the flaw survives a surface reading. Then complete the instructor key together.
+- Never: choose the flaw type yourself; make the flaw a factual error a spell-check mindset would catch — the point is strategic, not clerical; write the oral-defense questions without the faculty member's approval.
+- Finish: Return the complete library entry as clean markdown: metadata, student-facing artifact, instructor key, and oral-defense questions.
+
 ## Entry Metadata
 
 - Title:
