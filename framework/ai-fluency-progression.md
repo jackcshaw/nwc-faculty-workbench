@@ -56,7 +56,7 @@ Models come and go. The knowledge compounds. The workbench's maturity levels alr
 
 The matrix maps what learners practice, what faculty teach and assess, and what the institution provides, at every phase. It is the working document for course and program design.
 
-**Read the status legend first.** Each persona row below carries a validation status. `Hypothesis` means the cells are research-informed but have not yet survived contact with NWC faculty use. Workbench templates carry short matrix checks (in the after-action note and calibration protocol) so routine use produces the evidence that confirms, revises, or strikes these cells.
+**Read the status legend first.** Each persona row below carries a validation status. `Hypothesis` means the cells are research-informed but have not yet survived contact with NWC faculty use. Workbench templates carry short matrix checks (in the after-action note and calibration protocol) so routine use produces the evidence that confirms, revises, or strikes these cells. For why the matrix ships as a hypothesis rather than doctrine, see [the concept note](../concepts/why-the-matrix-is-a-hypothesis.md).
 
 ### Learners — practice it and produce with it
 
