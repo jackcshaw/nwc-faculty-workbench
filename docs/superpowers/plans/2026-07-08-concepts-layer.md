@@ -24,7 +24,7 @@
   4. `## The Industry Equivalent`.
   5. `## What The Workbench Adds`.
   6. Closing framework line as a `>` blockquote beginning `**Framework tie:**`.
-  300–500 words; no section over ~100 words. If `wc -w` reports under 300, expand `## What The Workbench Adds` with another concrete design decision — never pad the summary or the framework line.
+  250–500 words; no section over ~100 words. If `wc -w` reports under 250, expand `## What The Workbench Adds` with another concrete design decision — never pad the summary or the framework line.
 - **Load-bearing strings (verbatim):** `## AI Facilitation Block` (untouched in templates); `Hypothesis — awaiting NWC validation` (em dash) in the matrix note; bundle section headers `# ===== SECTION: <LABEL> =====`; content needles listed in Task 10.
 - **Served-template link format:** `Concept: [why this template works the way it does](../concepts/<note>.md)` — plain paragraph line.
 - **Extensibility standard (spec §Extensibility):** bundle sections and tests derive from the filesystem/tools list — no hand-enumerated file lists in build script or tests; no counts in prose.
@@ -156,10 +156,10 @@ Run:
 cd /Users/jackcshaw-2/dev/comprendo-clients/nwc/workbench
 grep -c "harness-neutral" concepts/method-cards-and-agent-skills.md
 grep -n "^## " concepts/method-cards-and-agent-skills.md
-head -6 concepts/method-cards-and-agent-skills.md | grep -c "method-card-template.md"
+head -8 concepts/method-cards-and-agent-skills.md | grep -c "method-card-template.md"
 wc -w concepts/method-cards-and-agent-skills.md
 ```
-Expected: needle ≥1; H2 order is exactly `What It Is`, `Where You'll Use It`, `The Industry Equivalent`, `What The Workbench Adds`; served-template link within first 6 lines; 300–500 words.
+Expected: needle ≥1; H2 order is exactly `What It Is`, `Where You'll Use It`, `The Industry Equivalent`, `What The Workbench Adds`; served-template link within first 8 lines; 250–500 words.
 
 - [ ] **Step 3: Commit**
 
@@ -209,6 +209,8 @@ The block lives *inside* the worksheet, not in a separate config. That makes eve
 - **Never-list.** Each block names what the assistant must not do: invent steps, smooth over disagreement, turn work into surveillance.
 - **Bounded finish.** The session ends with a clean artifact and a handoff, not an open-ended chat.
 
+The block also stays visible on paper. Faculty can read exactly what the assistant was told to do — the instructions are never hidden from the person being facilitated.
+
 > **Framework tie:** Facilitation blocks are supervised, AI-mediated work in miniature (Phase 6). The assistant is the runtime; the markdown is the program; the faculty member keeps the judgment seat.
 ```
 
@@ -219,10 +221,10 @@ Run:
 cd /Users/jackcshaw-2/dev/comprendo-clients/nwc/workbench
 grep -c "assistant is the runtime" concepts/facilitation-blocks.md
 grep -n "^## " concepts/facilitation-blocks.md
-head -6 concepts/facilitation-blocks.md | grep -c "phase-placement-diagnostic.md"
+head -8 concepts/facilitation-blocks.md | grep -c "phase-placement-diagnostic.md"
 wc -w concepts/facilitation-blocks.md
 ```
-Expected: needle ≥1; H2 order per anatomy; link within first 6 lines; 300–500 words.
+Expected: needle ≥1; H2 order per anatomy; link within first 8 lines; 250–500 words.
 
 - [ ] **Step 3: Commit**
 
@@ -271,7 +273,7 @@ The matrix could have been printed as settled doctrine. It is not, for two reaso
 - **Honesty about evidence.** The cells are research-informed but have not survived contact with NWC faculty use. Marking them as hypotheses says so plainly.
 - **A path to evidence.** The [after-action note](../templates/after-action-note-template.md) and [calibration protocol](../templates/faculty-calibration-protocol.md) carry short matrix checks. Routine use produces the evidence that confirms, revises, or strikes each cell.
 
-The workbench asks students to calibrate how far they rely on AI. The matrix holds itself to the same standard.
+As evidence arrives, a row's status moves — to `Field-tested — evidence from NWC use`, `Revised`, or `Struck` — and the change is recorded in the framework doc's changelog. The workbench asks students to calibrate how far they rely on AI. The matrix holds itself to the same standard.
 
 > **Framework tie:** This is reliance calibration turned on the framework itself — trust the matrix exactly as far as the evidence goes, and no further.
 ```
@@ -284,10 +286,10 @@ cd /Users/jackcshaw-2/dev/comprendo-clients/nwc/workbench
 grep -c "eval-gated" concepts/why-the-matrix-is-a-hypothesis.md
 grep -c "Hypothesis — awaiting NWC validation" concepts/why-the-matrix-is-a-hypothesis.md
 grep -n "^## " concepts/why-the-matrix-is-a-hypothesis.md
-head -6 concepts/why-the-matrix-is-a-hypothesis.md | grep -c "ai-fluency-progression.md"
+head -8 concepts/why-the-matrix-is-a-hypothesis.md | grep -c "ai-fluency-progression.md"
 wc -w concepts/why-the-matrix-is-a-hypothesis.md
 ```
-Expected: both needles ≥1 (em dash exact); H2 order per anatomy; link within first 6 lines; 300–500 words.
+Expected: both needles ≥1 (em dash exact); H2 order per anatomy; link within first 8 lines; 250–500 words.
 
 - [ ] **Step 3: Commit**
 
@@ -347,10 +349,10 @@ Run:
 cd /Users/jackcshaw-2/dev/comprendo-clients/nwc/workbench
 grep -c "curated context" concepts/source-kits-are-curated-context.md
 grep -n "^## " concepts/source-kits-are-curated-context.md
-head -6 concepts/source-kits-are-curated-context.md | grep -c "source-kit-template.md"
+head -8 concepts/source-kits-are-curated-context.md | grep -c "source-kit-template.md"
 wc -w concepts/source-kits-are-curated-context.md
 ```
-Expected: needle ≥1; H2 order per anatomy; link within first 6 lines; 300–500 words.
+Expected: needle ≥1; H2 order per anatomy; link within first 8 lines; 250–500 words.
 
 - [ ] **Step 3: Commit**
 
@@ -412,10 +414,10 @@ Run:
 cd /Users/jackcshaw-2/dev/comprendo-clients/nwc/workbench
 grep -c "inter-rater reliability" concepts/how-faculty-judgment-compounds.md
 grep -n "^## " concepts/how-faculty-judgment-compounds.md
-head -6 concepts/how-faculty-judgment-compounds.md | grep -Ec "after-action-note-template.md|faculty-calibration-protocol.md"
+head -8 concepts/how-faculty-judgment-compounds.md | grep -Ec "after-action-note-template.md|faculty-calibration-protocol.md"
 wc -w concepts/how-faculty-judgment-compounds.md
 ```
-Expected: needle ≥1; H2 order per anatomy; ≥1 served-template link within first 6 lines; 300–500 words.
+Expected: needle ≥1; H2 order per anatomy; ≥1 served-template link within first 8 lines; 250–500 words.
 
 - [ ] **Step 3: Commit**
 

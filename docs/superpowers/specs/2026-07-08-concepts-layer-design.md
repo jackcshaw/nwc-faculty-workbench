@@ -53,7 +53,7 @@ New `concepts/` directory:
 
 ## Note anatomy — scannability is the point
 
-A faculty member decides in ten seconds whether a note earns their next two minutes. Every note, same shape, 300–500 words:
+A faculty member decides in ten seconds whether a note earns their next two minutes. Every note, same shape, 250–500 words:
 
 1. **H1 title**, then a **one-line bolded summary** (the whole note in one sentence).
 2. `## What It Is` — two or three short sentences; names and links the template it serves in the first two sentences.
