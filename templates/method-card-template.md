@@ -4,6 +4,8 @@ Use this template to turn a recurring AI-enabled task into a reusable method. A 
 
 Codify only what has worked at least twice. A method card for a task you have done once is a guess wearing a uniform.
 
+Concept: [why this template works the way it does](../concepts/method-cards-and-agent-skills.md)
+
 ## AI Facilitation Block
 
 If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me write a method card."
