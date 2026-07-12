@@ -39,7 +39,7 @@ New `concepts/` directory:
 | `README.md` (index) | Everything | — | The bridge itself |
 | `method-cards-and-agent-skills.md` | Method card template | Agent skill / SKILL.md | Phase 5; knowledge outlasts the tool |
 | `facilitation-blocks.md` | All templates | System prompt / agent instructions | Supervised AI-mediated work; assistant as runtime |
-| `why-the-matrix-is-a-hypothesis.md` | Framework doc; after-action + calibration matrix checks | Eval-gated claims | Reliance calibration, modeled by the workbench itself |
+| `why-the-matrix-is-a-hypothesis.md` | Framework doc; after-action + calibration matrix checks | Evals; claims gated on results | Reliance calibration, modeled by the workbench itself |
 | `source-kits-are-curated-context.md` | Source kit template | Curated context / RAG corpus | Phase 5–6; Level 6→8 lineage |
 | `how-faculty-judgment-compounds.md` | After-action note + calibration protocol | Eval sets; inter-rater reliability | The staircase: reviewed practice → shared assets → evaluation |
 
@@ -114,7 +114,7 @@ Deliberately manual (editorial content, not bookkeeping): README rows, AGENTS.md
 
 ## Testing
 
-- **Site contract tests (PR A)**: filesystem-derived section coverage for every `templates/*.md` and `concepts/*.md`; plus content needles: `SECTION: CONCEPTS`, `Vocabulary Bridge`, `Start From Your Question`, `the card is the source`, `assistant is the runtime`, `eval-gated`, `curated context`, `inter-rater reliability`, `Hypothesis — awaiting NWC validation`.
+- **Site contract tests (PR A)**: filesystem-derived section coverage for every `templates/*.md` and `concepts/*.md`; plus content needles: `SECTION: CONCEPTS`, `Vocabulary Bridge`, `Start From Your Question`, `the card is the source`, `assistant is the runtime`, `gated on evals`, `curated context`, `inter-rater reliability`, `Hypothesis — awaiting NWC validation`.
 - **Site contract tests (PR B)**: rendered-surface assertions (a rendered table from the index, a rendered blockquote framework line, no raw `../` markdown links in displayed HTML); two-doors presence on both modes; status caption; completeness assertion firing on a deliberate mismatch (test-of-the-test).
 - **Workbench sweep**: all concept links resolve in both directions (template → note, note → template, index → both).
 - **Scannability check** (manual, at Jack's review): each note passes the ten-second test.

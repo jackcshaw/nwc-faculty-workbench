@@ -20,7 +20,7 @@ Each row links a concept note to the template it explains and the industry idea 
 | --- | --- | --- |
 | [Method cards and agent skills](method-cards-and-agent-skills.md) | [Method card](../templates/method-card-template.md) | Agent skill / SKILL.md |
 | [Facilitation blocks](facilitation-blocks.md) | [All templates](../templates/) | System prompt / agent instructions |
-| [Why the matrix is a hypothesis](why-the-matrix-is-a-hypothesis.md) | [Framework doc](../framework/ai-fluency-progression.md) | Eval-gated claims |
+| [Why the matrix is a hypothesis](why-the-matrix-is-a-hypothesis.md) | [Framework doc](../framework/ai-fluency-progression.md) | Evals; claims gated on results |
 | [Source kits are curated context](source-kits-are-curated-context.md) | [Source kit](../templates/source-kit-template.md) | Curated context / RAG corpus |
 | [How faculty judgment compounds](how-faculty-judgment-compounds.md) | [After-action note](../templates/after-action-note-template.md) · [Calibration protocol](../templates/faculty-calibration-protocol.md) | Eval sets; inter-rater reliability |
 

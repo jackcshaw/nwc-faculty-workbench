@@ -12,7 +12,7 @@ A faculty member reads a matrix cell that does not match her classroom. Instead 
 
 ## The Industry Equivalent
 
-This is an eval-gated claim. Serious AI teams do not call a capability proven until an evaluation set backs it; until then it is a hypothesis under test. The matrix status line is that same discipline applied to a teaching framework.
+AI teams call them evals: test sets that measure a capability against success criteria before anyone relies on it. A claim gated on evals stays a hypothesis until the results back it. The matrix status line is that same discipline applied to a teaching framework.
 
 ## What The Workbench Adds
 

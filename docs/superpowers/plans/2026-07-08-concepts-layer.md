@@ -70,7 +70,7 @@ Each row links a concept note to the template it explains and the industry idea 
 | --- | --- | --- |
 | [Method cards and agent skills](method-cards-and-agent-skills.md) | [Method card](../templates/method-card-template.md) | Agent skill / SKILL.md |
 | [Facilitation blocks](facilitation-blocks.md) | [All templates](../templates/) | System prompt / agent instructions |
-| [Why the matrix is a hypothesis](why-the-matrix-is-a-hypothesis.md) | [Framework doc](../framework/ai-fluency-progression.md) | Eval-gated claims |
+| [Why the matrix is a hypothesis](why-the-matrix-is-a-hypothesis.md) | [Framework doc](../framework/ai-fluency-progression.md) | Evals; claims gated on results |
 | [Source kits are curated context](source-kits-are-curated-context.md) | [Source kit](../templates/source-kit-template.md) | Curated context / RAG corpus |
 | [How faculty judgment compounds](how-faculty-judgment-compounds.md) | [After-action note](../templates/after-action-note-template.md) · [Calibration protocol](../templates/faculty-calibration-protocol.md) | Eval sets; inter-rater reliability |
 
@@ -244,7 +244,7 @@ git commit -m "Add concept note: facilitation blocks"
 
 **Interfaces:**
 - Consumes: `../framework/ai-fluency-progression.md`, `../templates/after-action-note-template.md`, `../templates/faculty-calibration-protocol.md` (exist).
-- Produces: contract needles `eval-gated` and exact string `Hypothesis — awaiting NWC validation` (Task 10); anchored from the framework doc in Task 8 and the site status caption in Task 15.
+- Produces: contract needles `gated on evals` and exact string `Hypothesis — awaiting NWC validation` (Task 10); anchored from the framework doc in Task 8 and the site status caption in Task 15.
 
 - [ ] **Step 1: Write the note**
 
@@ -265,7 +265,7 @@ A faculty member reads a matrix cell that does not match her classroom. Instead 
 
 ## The Industry Equivalent
 
-This is an eval-gated claim. Serious AI teams do not call a capability proven until an evaluation set backs it; until then it is a hypothesis under test. The matrix status line is that same discipline applied to a teaching framework.
+AI teams call them evals: test sets that measure a capability against success criteria before anyone relies on it. A claim gated on evals stays a hypothesis until the results back it. The matrix status line is that same discipline applied to a teaching framework.
 
 ## What The Workbench Adds
 
@@ -284,7 +284,7 @@ As evidence arrives, a row's status moves — to `Field-tested — evidence from
 Run:
 ```bash
 cd /Users/jackcshaw-2/dev/comprendo-clients/nwc/workbench
-grep -c "eval-gated" concepts/why-the-matrix-is-a-hypothesis.md
+grep -c "gated on evals" concepts/why-the-matrix-is-a-hypothesis.md
 grep -c "Hypothesis — awaiting NWC validation" concepts/why-the-matrix-is-a-hypothesis.md
 grep -n "^## " concepts/why-the-matrix-is-a-hypothesis.md
 head -8 concepts/why-the-matrix-is-a-hypothesis.md | grep -c "ai-fluency-progression.md"
@@ -655,7 +655,7 @@ In `tests/site-contract.test.mjs`: add `readdirSync` to the `node:fs` import. Re
   "Vocabulary Bridge",
   "the card is the source",
   "assistant is the runtime",
-  "eval-gated",
+  "gated on evals",
   "curated context",
   "inter-rater reliability",
   "AI Facilitation Block",
