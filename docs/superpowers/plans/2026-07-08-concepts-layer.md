@@ -330,7 +330,7 @@ A faculty member building a wargame-analysis exercise assembles the readings, th
 
 ## The Industry Equivalent
 
-This is curated context — the RAG corpus, the retrieval set, the material a team assembles so a model answers from the right sources instead of guessing. Deciding what goes in is the real work.
+This is curated context — the material a team assembles so a model answers from the right sources instead of guessing. At scale it becomes a retrieval corpus (the "RAG" an AI team maintains); in a single session, it is the files you attach to the chat. Either way, deciding what goes in is the real work.
 
 ## What The Workbench Adds
 
