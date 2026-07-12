@@ -12,7 +12,7 @@ The workbench has three layers: **do** (templates), **what** (the framework doc)
 
 The concept notes' jobs, ranked: (1) **retain the faculty user** — mid-use confusion finds a two-minute bridge instead of a wall; (2) **orient the evaluator** — the design reads as translation-with-governance, not naive reinvention.
 
-The seed example: the method-card-vs-agent-skill explanation. A method card is what a SKILL.md is compiled *from* — harness-neutral on purpose, with governance fields (evidence gate, review points, revision log) that deployment formats drop. That explanation does three jobs at once: locates the unfamiliar against the familiar, justifies the design, and teaches a framework piece. Every concept note must do all three.
+The seed example: the method-card-vs-agent-skill explanation. A method card contains everything a skill file needs — the instructions travel into the skill; the accountability (owner, times run, review points, revision log) stays on the card, because the skill format has no field for it. That explanation does three jobs at once: locates the unfamiliar against the familiar, justifies the design, and teaches a framework piece. Every concept note must do all three.
 
 ## Goals
 
@@ -114,7 +114,7 @@ Deliberately manual (editorial content, not bookkeeping): README rows, AGENTS.md
 
 ## Testing
 
-- **Site contract tests (PR A)**: filesystem-derived section coverage for every `templates/*.md` and `concepts/*.md`; plus content needles: `SECTION: CONCEPTS`, `Vocabulary Bridge`, `Start From Your Question`, `harness-neutral`, `assistant is the runtime`, `eval-gated`, `curated context`, `inter-rater reliability`, `Hypothesis — awaiting NWC validation`.
+- **Site contract tests (PR A)**: filesystem-derived section coverage for every `templates/*.md` and `concepts/*.md`; plus content needles: `SECTION: CONCEPTS`, `Vocabulary Bridge`, `Start From Your Question`, `the card is the source`, `assistant is the runtime`, `eval-gated`, `curated context`, `inter-rater reliability`, `Hypothesis — awaiting NWC validation`.
 - **Site contract tests (PR B)**: rendered-surface assertions (a rendered table from the index, a rendered blockquote framework line, no raw `../` markdown links in displayed HTML); two-doors presence on both modes; status caption; completeness assertion firing on a deliberate mismatch (test-of-the-test).
 - **Workbench sweep**: all concept links resolve in both directions (template → note, note → template, index → both).
 - **Scannability check** (manual, at Jack's review): each note passes the ten-second test.
