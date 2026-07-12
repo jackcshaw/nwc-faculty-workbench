@@ -22,4 +22,4 @@ A source kit is curated context with the governance a teaching setting needs:
 - **Standards and inspection points.** The kit names what "good" looks like and what faculty will actually check — not just what to feed the model.
 - **Faculty ownership of the cut.** The faculty member decides what is in and what is out. The assistant organizes and pressure-tests; it does not curate for them.
 
-> **Framework tie:** Source kits are Phase 5–6 (Codify → Supervise) and the seed of the Level 6→8 lineage — from a curated packet to a governed institutional context vault.
+> **Framework tie:** Source kits are Phase 5–6 (Codify → Supervise) — and the seed of the Level 6→8 lineage: today's curated packet is what a future faculty-governed context vault would grow from.
