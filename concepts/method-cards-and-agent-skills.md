@@ -1,6 +1,6 @@
 # Method Cards And Agent Skills
 
-**A method card is what a SKILL.md is compiled from — the same reusable procedure, kept harness-neutral and carrying the governance an engineer would strip out.**
+**A method card captures a working AI-enabled task completely enough that a skill file — the industry's format for reusable AI procedures — can be created straight from it.**
 
 ## What It Is
 
@@ -12,13 +12,14 @@ A faculty member has walked three cohorts through the same AI-assisted intellige
 
 ## The Industry Equivalent
 
-Software teams write agent skills: a `SKILL.md` file that tells an AI assistant how to perform a repeatable job. If you have seen one, a method card will feel familiar — same idea, a named procedure an assistant can follow.
+Software teams package repeatable AI tasks as **skills**. A skill is a folder built around one markdown file: a short description that tells the assistant when to act, step-by-step instructions, and examples. The assistant finds it and follows it automatically when a matching task appears.
 
 ## What The Workbench Adds
 
-A method card is what a `SKILL.md` is compiled *from*, not a copy of one. Two deliberate differences:
+A completed method card contains everything a skill file needs — plus what the skill format has no field for:
 
-- **Harness-neutral.** A skill file is written for one tool's runtime. A method card names no tool, so it survives the next model, vendor, or interface. Knowledge outlasts the tool.
-- **Governance stays in.** Deployment formats drop what slows the machine down. The method card keeps it: an evidence gate (codify only what has worked twice), explicit review points, and a revision log. Those fields are the point — they are where faculty judgment lives.
+- **The instructions travel.** The card's steps, review criteria, and examples map straight into a skill file. Hand a finished card to an assistant and ask it to package one; that is the whole conversion.
+- **The accountability stays.** Owner, times run, human review points, and the revision log have no home in a skill file. They live on the card because they are for the faculty managing the method, not the machine running it.
+- **The evidence gate comes first.** Codify only what has worked twice. No skill gets created from a method that has not earned it.
 
-> **Framework tie:** Method cards are Phase 5 (Codify). They are how individual fluency becomes shared capability — and why that capability does not evaporate when the tool changes.
+> **Framework tie:** Method cards are Phase 5 (Codify). The skill file is the deployment; the card is the source — and the record of judgment that outlasts any one tool.
