@@ -4,6 +4,8 @@ A source kit is the curated teaching packet for an AI-enabled exercise. It tells
 
 A source kit is not a file dump.
 
+Concept: [why this template works the way it does](../concepts/source-kits-are-curated-context.md)
+
 ## AI Facilitation Block
 
 If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me package a source kit."

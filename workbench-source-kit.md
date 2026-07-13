@@ -19,7 +19,9 @@ This is the NWC Faculty Workbench packaged with its own source-kit template — 
 
 - [The AI fluency progression](framework/ai-fluency-progression.md) — six phases, tools, staircase, and the reference matrix (hypothesis status).
 - [Phase placement diagnostic](templates/phase-placement-diagnostic.md) — start here to find the right phase and template.
-- The nine templates in [templates/](templates/), each with its own facilitation block.
+- The templates in [templates/](templates/), each with its own facilitation block.
+- [Facilitation blocks](concepts/facilitation-blocks.md) — the pattern behind every AI Facilitation Block, so you know how the assistant runs a template.
+- [The concepts layer](concepts/README.md) — why each artifact has the fields it does.
 - [README.md](README.md) — what the workbench is and is not.
 
 ## 4. Allowed And Excluded Sources

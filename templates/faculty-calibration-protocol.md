@@ -2,6 +2,8 @@
 
 Use this protocol when faculty need to compare how they diagnose the same AI-assisted work. The goal is to make tacit judgment explicit without forcing false agreement.
 
+Concept: [why this template works the way it does](../concepts/how-faculty-judgment-compounds.md)
+
 ## AI Facilitation Block
 
 If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me run a calibration session."

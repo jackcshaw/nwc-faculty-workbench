@@ -2,6 +2,8 @@
 
 Use this note after running an AI-enabled exercise. The goal is to preserve lesson rationale, faculty judgment, and useful revisions before they disappear.
 
+Concept: [why this template works the way it does](../concepts/how-faculty-judgment-compounds.md)
+
 ## AI Facilitation Block
 
 If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Debrief this exercise with me."

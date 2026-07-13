@@ -43,6 +43,7 @@ The workbench grew out of the argument in **The Irreducible Officer**, but it sh
 | Package exercise context for an AI assistant | [templates/source-kit-template.md](templates/source-kit-template.md) | 3, 5–6 |
 | Capture lessons after an exercise | [templates/after-action-note-template.md](templates/after-action-note-template.md) | 5 |
 | See the full fluency progression and matrix | [framework/ai-fluency-progression.md](framework/ai-fluency-progression.md) | All |
+| Understand the design behind the tools | [concepts/README.md](concepts/README.md) | — |
 | Understand future context curation | [roadmap/context-curation-roadmap.md](roadmap/context-curation-roadmap.md) | Future |
 | Keep surfaces separate | [docs/ecosystem-boundaries.md](docs/ecosystem-boundaries.md) | — |
 

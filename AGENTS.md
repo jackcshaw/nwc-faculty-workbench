@@ -12,6 +12,7 @@ Start from the faculty member's instructional problem. Do not turn the workbench
 - Use [templates/supervised-delegation-exercise.md](templates/supervised-delegation-exercise.md) when faculty are designing bounded student supervision of multi-step AI work.
 - Use [framework/ai-fluency-progression.md](framework/ai-fluency-progression.md) to explain phases, tools, the staircase, or the matrix. Present matrix cells as hypotheses under validation, never as doctrine.
 - Every template contains an AI Facilitation Block. Follow it exactly when facilitating.
+- Use [concepts/](concepts/README.md) when the faculty member asks why an artifact works the way it does — each note bridges a template to a familiar industry idea.
 - Use [templates/assignment-design-worksheet.md](templates/assignment-design-worksheet.md) when faculty are designing or revising an assignment.
 - Use [templates/assessment-and-oral-defense-rubric.md](templates/assessment-and-oral-defense-rubric.md) when faculty need to assess ownership or run oral defense.
 - Use [templates/flawed-output-library-template.md](templates/flawed-output-library-template.md) when faculty need a polished but strategically flawed AI output.
