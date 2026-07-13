@@ -1086,16 +1086,16 @@ git commit -m "Add rendered concepts section to workbench mode"
 
 ---
 
-### Task 14: Two equal doors — workbench and companion entries
+### Task 14: Two equal doors — workbench and companion entries (attach-first, proof-of-read handshake)
 
 **Files:**
-- Modify: `scripts/build-site.mjs` — `buildWorkbenchMode()` hero/action-row, `buildCompanionMode()` hero paragraph + action-row, `css()`.
+- Modify: `scripts/build-site.mjs` — `buildWorkbenchMode()` hero/action-row, `buildCompanionMode()` hero paragraph + action-row, `workbenchSetupPrompt()`, `setupPrompt()` (companion), `css()`.
 
 **Interfaces:**
-- Consumes: existing `copyBlock`/setup prompts (unchanged — the prompt text already covers both doors via its built-in fallback line).
-- Produces: door-choice UI on both modes; contract needles `How will your assistant get the file?` ×2.
+- Consumes: `buildWorkbenchContext()`/`buildCompanionContext()` section counts (compute at build time — see Step 3).
+- Produces: door-choice UI on both modes, attach door FIRST (field learning: institutional networks filter the site; attach always works); setup prompts gain a proof-of-read handshake. Contract needles `Attach the file` ×2 and `SECTION:` handshake copy.
 
-- [ ] **Step 1: Workbench doors**
+- [ ] **Step 1: Workbench doors — attach door leads**
 
 In `buildWorkbenchMode()`, replace the hero's "Fastest path…" paragraph and `action-row` div with:
 
@@ -1108,22 +1108,36 @@ In `buildWorkbenchMode()`, replace the hero's "Fastest path…" paragraph and `a
       <p class="eyebrow">How will your assistant get the file?</p>
       <div class="door-grid">
         <div class="door">
-          <h3>My assistant reads the web</h3>
-          <p>Copy the setup prompt and paste it into ChatGPT, Claude, or Gemini. It fetches the workbench itself.</p>
-          <button class="copy-button primary" type="button" data-copy-target="workbench-setup-prompt">Copy setup prompt</button>
+          <h3>Attach the file — works everywhere</h3>
+          <p>Download the context file, attach it to a new chat, then paste the setup prompt. Works on filtered networks and with assistants that cannot browse.</p>
+          <a class="copy-button primary" href="assets/${workbenchContextFilename}" download>Download context file</a>
+          <button class="quiet-action" type="button" data-copy-target="workbench-setup-prompt">Copy the prompt</button>
         </div>
         <div class="door">
-          <h3>Attach a file instead</h3>
-          <p>Download the context file, attach it to a new chat, then paste the same prompt.</p>
-          <a class="copy-button" href="assets/${workbenchContextFilename}" download>Download context file</a>
-          <button class="quiet-action" type="button" data-copy-target="workbench-setup-prompt">Copy the prompt</button>
+          <h3>My assistant reads the web</h3>
+          <p>Copy the setup prompt and paste it into ChatGPT, Claude, or Gemini. It fetches the workbench itself.</p>
+          <button class="copy-button" type="button" data-copy-target="workbench-setup-prompt">Copy setup prompt</button>
         </div>
       </div>
 ```
 
 - [ ] **Step 2: Companion doors**
 
-In `buildCompanionMode()`, replace the "Running this needs an assistant that can read a web page…" paragraph and its `action-row` with the same door structure (`data-copy-target` and download href pointing at the companion prompt/`companionContextFilename`; door copy otherwise identical).
+In `buildCompanionMode()`, replace the "Running this needs an assistant that can read a web page…" paragraph and its `action-row` with the same door structure (`data-copy-target` and download href pointing at the companion prompt/`companionContextFilename`; door copy otherwise identical, attach door first).
+
+- [ ] **Step 3: Proof-of-read handshake in both setup prompts**
+
+"Say ready" is unverifiable — an assistant can summarize a large fetched file and believe it read it. Both setup prompt functions gain a handshake whose expected answer the BUILD computes, so it never rots as sections are added.
+
+Make the section count available: have `buildWorkbenchContext()` and `buildCompanionContext()` each expose their section count (e.g., return `{ text, sectionCount }` or compute the count where the prompts are built by counting `# ===== SECTION:` occurrences in the generated bundle text — implementer's choice, but the count must come from the generated artifact, not a hardcoded number).
+
+In `workbenchSetupPrompt()`, after the existing fetch instruction and before the diagnostic instruction, insert (with `${count}` interpolated from the build):
+
+```text
+After reading, tell me exactly how many "===== SECTION:" headers the file contains and the name of the last section — it should be ${count}. If your count differs or you cannot see the whole file, say so and ask me to attach the file instead; do not continue from a partial read.
+```
+
+Apply the same pattern to the companion `setupPrompt()` with the companion bundle's count.
 
 - [ ] **Step 3: CSS**
 
@@ -1143,8 +1157,10 @@ Run:
 cd /Users/jackcshaw-2/dev/comprendo-clients/nwc/site
 npm run build
 grep -c "How will your assistant get the file?" dist/index.html
+grep -c "Attach the file — works everywhere" dist/index.html
+grep -c 'headers the file contains' dist/index.html
 ```
-Expected: `2` (workbench + companion).
+Expected: `2`, `2`, `2` (workbench + companion each).
 
 - [ ] **Step 5: Commit**
 
