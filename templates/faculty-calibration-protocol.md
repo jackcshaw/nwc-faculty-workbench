@@ -26,7 +26,7 @@ Instructions for the AI assistant:
 
 ## Purpose
 
-Faculty already bring much of the judgment needed to spot hidden assumptions, thin reasoning, performed sophistication, and weak strategic judgment. Calibration joins that tacit judgment to AI fluency: faculty compare how they read the same AI-assisted work, where they think reliance was justified, and what questions expose whether the human still owns the frame.
+Faculty already bring much of the judgment needed to spot hidden assumptions, thin reasoning, performed sophistication, and weak disciplinary or professional reasoning. Calibration joins that tacit judgment to AI fluency: faculty compare how they read the same AI-assisted work, where they think reliance was justified, and what questions expose whether the human still owns the frame.
 
 ## Materials
 

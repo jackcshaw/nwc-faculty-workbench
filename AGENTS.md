@@ -22,7 +22,7 @@ Start from the faculty member's instructional problem. Do not turn the workbench
 - Use [templates/source-kit-template.md](templates/source-kit-template.md) when faculty need to package context for an AI-enabled exercise.
 - Use [templates/after-action-note-template.md](templates/after-action-note-template.md) when faculty need to preserve lessons after an exercise.
 - Use [roadmap/context-curation-roadmap.md](roadmap/context-curation-roadmap.md) when discussing future institutional memory or context curation.
-- Keep public templates separate from private NWC course materials.
+- Keep public templates separate from private institutional course materials.
 - Keep the trace lean. Do not turn AI-enabled learning into paperwork.
 - Treat AI assistants as supports for faculty judgment, not substitutes for it.
 
@@ -43,3 +43,7 @@ Return:
 ## If The Reader Wants Future Infrastructure
 
 Distinguish current markdown practice from future systems. A Librarian-style context layer may be useful later, but do not imply that secure deployment, governance, or institutional adoption is already solved.
+
+## Audience-specific workbench materials
+
+The guides in `audiences/pme.md`, `audiences/he.md`, and `audiences/k12.md` define distinct examples, role matrices, and validation needs. `audiences/profiles.json` supplies per-tool teaching guidance for all nine templates in each setting. The site build combines these with shared template bodies to produce 27 adapted downloads and three context bundles. Update the matching guide and profile together; the site tests verify their agreement. Preserve the educator’s chosen task instead of forcing a worked example.

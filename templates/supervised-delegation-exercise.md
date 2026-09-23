@@ -2,7 +2,7 @@
 
 Use this template to design a bounded exercise where students direct a multi-step AI workflow and faculty assess whether judgment survives delegation. This is phase 6 of the fluency progression. Teach inspection and interruption before increasing autonomy. Require evidence of the capabilities this task needs; the phase numbers are not a universal prerequisite ladder.
 
-The exercise is not "build an agent." It is "supervise delegated work you remain accountable for."
+The exercise rehearses inspection and interruption of bounded assistance. The educator decides which responsibilities learners can own; institutional duties remain with the responsible adults.
 
 ## Audience and readiness
 

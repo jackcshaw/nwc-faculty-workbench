@@ -2,15 +2,15 @@
 
 > Audience scope: this framework originated in PME. Use the [audience guide](../audiences/guide.md) for HE and high school. Phases are a design lens, not a validated developmental or age scale. Task readiness, modeling, and accessible evidence determine the next step; supervision is not a universal endpoint.
 
-This document is the workbench's public rendition of the **Building AI Fluency** framework (Jack C. Shaw, July 2026). It carries the framework's three solid structures — the six-phase progression, the tool progression, and the compounding staircase — plus the reference matrix, which is published here as a **hypothesis under validation**, not settled doctrine.
+This document is the workbench's public rendition of the **Building AI Fluency** framework (Jack C. Shaw, July 2026). It carries the framework's three proposed structures — the six-phase progression, the tool progression, and the compounding staircase — plus the reference matrix, which is published here as a **hypothesis under validation**, not settled doctrine.
 
-The framework applies to subject matter experts, higher education, and professional military education. Context, mission, and constraints change. The core progression stays the same. One thread runs through everything: **judgment stays human at every phase.**
+The framework originated in professional education. Its proposed HE and high-school uses require changes to examples, roles, prerequisites, and evidence of learning. One thread runs through everything: **judgment stays human at every phase.**
 
 ## The Six Phases
 
 ![AI Fluency: From Asking to Supervising](assets/asking-to-supervising.svg)
 
-Fluency grows as learners move from asking AI for help to delegating bounded work, judging results, codifying methods, and supervising AI-supported systems. The unit of work shifts from a conversation to a delegated, reviewable workflow.
+The six practices describe different tasks, from asking a question to inspecting delegated work. They are not a demonstrated sequence of learner development. A student may inspect a supplied contribution before producing or delegating anything.
 
 | # | Phase | Name | The move |
 | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Fluency grows as learners move from asking AI for help to delegating bounded wor
 | 5 | Codify | Repeatable Practice | Codify methods once. Stop re-explaining the task. **Where scale begins.** |
 | 6 | Supervise | Supervised Systems | Direct bounded work. Keep judgment human. |
 
-Phases 1–2 are **learning with AI**. Phases 3–4 are **working with AI**. Phases 5–6 are **governing AI-supported work**. The ordering reflects the research: unguided AI use can raise performance without producing learning, so safe use and learning come before production, and production is paired with judgment. Not every learner becomes a system builder. Every learner becomes a capable supervisor and judge of AI-supported work.
+Phases 1–2 are **learning with AI**. Phases 3–4 are **working with AI**. Phases 5–6 are **governing AI-supported work**. The ordering is a design proposal, not a sequence established by the source evidence. Teach the capabilities each task needs and pair AI-supported production with appropriate human inspection. Not every learner becomes a system builder. Supervision is an optional task design, not an endpoint for every learner. Learners practice only the judgments the objective, readiness, and assigned responsibilities warrant.
 
 ## The Tools Behind The Progression
 
@@ -56,13 +56,13 @@ Models come and go. The knowledge compounds. The workbench's maturity levels alr
 
 ![AI Fluency Progression: Reference Matrix](assets/reference-matrix.svg)
 
-The matrix maps what learners practice, what faculty teach and assess, and what the institution provides, at every phase. It is the working document for course and program design.
+This shared matrix names design questions. Use the [PME matrix](../audiences/pme.md), [HE matrix](../audiences/he.md), or [high-school matrix](../audiences/k12.md) for setting-specific roles, examples, and evidence needed. No audience has completed validation.
 
-**Read the status legend first.** Each persona row below carries a validation status. `Hypothesis` means the cells are research-informed but have not yet survived contact with NWC faculty use. Workbench templates carry short matrix checks (in the after-action note and calibration protocol) so routine use produces the evidence that confirms, revises, or strikes these cells. For why the matrix ships as a hypothesis rather than doctrine, see [the concept note](../concepts/why-the-matrix-is-a-hypothesis.md).
+**Read the status legend first.** Each persona row below carries a validation status. `Hypothesis` means the cells are research-informed but have not yet survived documented educator and classroom use in the intended setting. Workbench templates carry short matrix checks (in the after-action note and calibration protocol) so routine use produces the evidence that confirms, revises, or strikes these cells. For why the matrix ships as a hypothesis rather than doctrine, see [the concept note](../concepts/why-the-matrix-is-a-hypothesis.md).
 
 ### Learners — practice it and produce with it
 
-Status: Hypothesis — awaiting NWC validation.
+Status: Hypothesis — evidence required in the intended setting.
 
 | Phase | Learners |
 | --- | --- |
@@ -75,7 +75,7 @@ Status: Hypothesis — awaiting NWC validation.
 
 ### Faculty — teach, coach, and assess it
 
-Status: Hypothesis — awaiting NWC validation.
+Status: Hypothesis — evidence required in the intended setting.
 
 | Phase | Faculty |
 | --- | --- |
@@ -88,7 +88,7 @@ Status: Hypothesis — awaiting NWC validation.
 
 ### Institution — enables it, governs it, and compounds it
 
-Status: Hypothesis — awaiting NWC validation.
+Status: Hypothesis — evidence required in the intended setting.
 
 | Phase | Institution |
 | --- | --- |
@@ -101,7 +101,7 @@ Status: Hypothesis — awaiting NWC validation.
 
 ## Validation Status And Changelog
 
-Statuses: `Hypothesis — awaiting NWC validation` | `Field-tested — evidence from NWC use` | `Revised` | `Struck`.
+Statuses: `Hypothesis — evidence required in the intended setting` | `Field-tested — setting and evidence documented` | `Revised` | `Struck`.
 
 Evidence arrives through the matrix checks in the after-action note template and the faculty calibration protocol. Changes to matrix cells are recorded here.
 

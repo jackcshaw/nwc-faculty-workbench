@@ -38,7 +38,7 @@ Apply only dimensions the objective and learner-owned choices warrant; record no
 | Dimension | What Faculty Look For | Rating | Notes |
 | --- | --- | --- | --- |
 | Purpose through frame | Student explains the task purpose, distinguishes supplied from chosen framing, and justifies the choices they were asked to own. |  |  |
-| Inherited AI-shaped inputs | Student can identify reports, summaries, planning tools, staff processes, or prior analytic products that may have already shaped the work. |  |  |
+| Inherited AI-shaped inputs | Student can identify supplied summaries, datasets, worked examples, search results, or prior analyses that may have already shaped the work. |  |  |
 | Assumptions | Student identifies explicit, inherited, AI-suggested, and revised assumptions. |  |  |
 | Evidence standard | Student explains what evidence would strengthen, weaken, or change the judgment. |  |  |
 | Reliance | Student can say where AI helped, where it was verified, where it was rejected, and why. |  |  |

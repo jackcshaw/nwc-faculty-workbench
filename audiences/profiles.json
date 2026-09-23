@@ -1,0 +1,275 @@
+[
+  {
+    "id": "pme",
+    "label": "PME",
+    "title": "PME Educator Workbench",
+    "summary": "Design practice in professional judgment, inherited inputs, risk, and accountable authority.",
+    "status": "Proposed PME design — awaiting faculty trials and evidence from use.",
+    "readiness": "Check understanding of the professional task, source limitations, authority, and causal inference. Seniority does not establish readiness. Model unfamiliar analysis before expecting independent critique.",
+    "responsibility": "Learners own recommendations and the decisions assigned in the exercise. Faculty own pedagogy and assessment; actual operational authority remains outside this fictional exercise.",
+    "case": "Fictional outage brief",
+    "facts": "A fictional report records 12 outages: 8 followed equipment updates and 4 have unexplained causes. The proposed AI contribution attributes all 12 to updates and recommends a fleet-wide rollback. Timing alone does not establish cause, and the 4 unexplained cases do not support that attribution.",
+    "baseline": "Before showing the contribution, ask which conclusions the report supports and what additional evidence a rollback decision requires.",
+    "change": "Replace the report with independent diagnostic evidence identifying a software defect in 10 outages; 2 remain unexplained. Ask what now warrants action, what uncertainty remains, and who has authority to act.",
+    "record": "Save the initial judgment, inspected assumption, accepted or revised recommendation, residual risk, and response to the changed evidence.",
+    "trial": "Two faculty reviewers inspect the same fictional decision record. Compare causal reasoning, authority boundaries, and how the learner handles residual uncertainty. Record disagreements and actual review time. Later test transfer to another professional case; do not infer operational competence from this exercise.",
+    "rows": [
+      [
+        "Ask",
+        "Ask a bounded question about the report; distinguish answering from taking action.",
+        "Model source checking and the limits of an operational analogy.",
+        "Provide approved public or synthetic materials and tool boundaries."
+      ],
+      [
+        "Understand",
+        "Explain association versus cause using the outage evidence.",
+        "Check the explanation without requiring new strategic vocabulary.",
+        "Make prerequisite primers and review time available."
+      ],
+      [
+        "Produce",
+        "Draft a limited recommendation from supplied evidence.",
+        "Specify what the officer must decide and what may be delegated.",
+        "Define disclosure, source handling, and exercise authority."
+      ],
+      [
+        "Judge",
+        "Accept, revise, or refuse the rollback proposal with reasons.",
+        "Probe uncertainty and the changed diagnostic evidence.",
+        "Support review of reasoning, not only finished briefs."
+      ],
+      [
+        "Codify",
+        "Save a reusable causal-check method with exceptions.",
+        "Test the method on a second professional case.",
+        "Retain reviewed versions, provenance, and unresolved disagreement."
+      ],
+      [
+        "Supervise",
+        "Direct bounded analysis with checkpoints and a stop rule.",
+        "Inspect whether the learner can interrupt unsupported recommendations.",
+        "Keep operational permissions and human approval outside classroom automation."
+      ]
+    ],
+    "tools": {
+      "phase-placement-diagnostic": {
+        "title": "Place the professional task",
+        "guidance": "Use the outage brief to distinguish explaining a report from authorizing a response. Ask what judgment the exercise teaches before choosing a phase. Record missing causal-analysis knowledge and authority assumptions."
+      },
+      "assignment-design-worksheet": {
+        "title": "Design a recommendation under uncertainty",
+        "guidance": "Sequence an initial interpretation of the outage report, inspection of the rollback proposal, and the changed diagnostic evidence. Decide which authority and risk questions officers must own. Keep the decision record brief."
+      },
+      "assessment-and-oral-defense-rubric": {
+        "title": "Assess professional reasoning",
+        "guidance": "Look for warranted causal inference, explicit authority, and a defensible response to residual risk. Ask: which evidence supports rollback, and which decision is yours to recommend? Use the changed diagnostic evidence to test revision."
+      },
+      "flawed-output-library-template": {
+        "title": "Build a balanced recommendation set",
+        "guidance": "Pair the unsupported fleet-wide rollback with a warranted contribution that reports 8 update-associated outages and 4 unexplained cases. Label both as authored examples. Test whether officers accept useful bounded analysis as well as reject overreach."
+      },
+      "source-kit-template": {
+        "title": "Bound the professional evidence",
+        "guidance": "Include the fictional outage report, exercise authority, relevant definitions, and the changed diagnostic evidence. Keep the changed case in educator notes until needed. Exclude operational or private course information from public artifacts."
+      },
+      "faculty-calibration-protocol": {
+        "title": "Compare professional judgments",
+        "guidance": "Have faculty independently inspect the same fictional recommendation and rationale. Compare the evidence supporting rollback, authority boundaries, and treatment of unknown causes. Preserve reasonable disagreement; do not score agreement with a model answer."
+      },
+      "after-action-note-template": {
+        "title": "Record the professional trial",
+        "guidance": "Record the actual causal claim the learner defended, support supplied, revised recommendation, and remaining uncertainty. Identify which PME matrix cell the observation bears on. Leave unobserved outcomes open; do not claim operational certification."
+      },
+      "method-card-template": {
+        "title": "Capture a reusable evidence check",
+        "guidance": "Write a method for separating timing, causal diagnosis, and response authority. Include a stop rule when the evidence cannot support the proposed action. Test the card on a second fictional professional case before treating it as reusable."
+      },
+      "supervised-delegation-exercise": {
+        "title": "Rehearse bounded professional delegation",
+        "guidance": "Let the assistant organize outage evidence, then draft options only after the officer approves the causal interpretation. Set a stop rule for unsupported attribution. Inspect both checkpoints; no operational action is authorized by the exercise."
+      }
+    }
+  },
+  {
+    "id": "he",
+    "label": "Higher education",
+    "title": "Higher Education Workbench",
+    "summary": "Design AI-supported work around disciplinary evidence, course objectives, and defensible student choices.",
+    "status": "Proposed HE adaptation — awaiting discipline-specific educator trials and classroom evidence.",
+    "readiness": "Identify the course level and taught concepts. Check the particular inference before expecting critique: in this example, distinguish a sample, respondents, and the population. Model missing foundations and record support.",
+    "responsibility": "Students own the inference and source choices assigned by the course. Instructors own assessment and academic expectations; a classroom survey analysis does not confer authority to make campus policy.",
+    "case": "Fictional campus shuttle survey",
+    "facts": "A fictional survey invites 1,000 students, receives 100 responses, and finds 80 respondents favor an evening shuttle. The proposed AI contribution says 80% of all students favor it and recommends adopting the service. The responses describe respondents; representativeness and the policy decision require further evidence.",
+    "baseline": "Before showing the contribution, ask what the 80 responses establish and which population the claim can describe.",
+    "change": "Replace the voluntary responses with a random sample of 100 from the 1,000 students, with all sampled students responding and 80 favoring the shuttle. Ask how the sampling change affects the inference. Sampling uncertainty and policy costs still matter.",
+    "record": "Save the population claim, reason for accepting or revising it, assistance used, changed-sample reasoning, and remaining policy questions.",
+    "trial": "Course instructors compare anonymized or synthetic reasoning records against the actual course objective. Check that disciplinary understanding, rather than generic AI vocabulary, explains the assessment. Record marking time and reviewer disagreement. A later task with new evidence is needed to examine transfer.",
+    "rows": [
+      [
+        "Ask",
+        "Ask what the survey can establish; inspect the supplied source.",
+        "State the course construct and distinguish questions from actions.",
+        "Provide approved access and assignment expectations."
+      ],
+      [
+        "Understand",
+        "Explain respondents, sample, population, and possible nonresponse bias.",
+        "Use a worked example if sampling concepts are missing.",
+        "Provide accessible source formats and appropriate learning support."
+      ],
+      [
+        "Produce",
+        "Draft a bounded interpretation with an explicit denominator.",
+        "Keep the target inference with the student; permit other assistance deliberately.",
+        "Clarify source attribution and allowed assistance for the course."
+      ],
+      [
+        "Judge",
+        "Revise the population claim and reconsider the random-sample case.",
+        "Probe reasoning using the discipline’s evidence standards.",
+        "Allow usable evidence of process without excessive marking burden."
+      ],
+      [
+        "Codify",
+        "Write a reusable survey-claim check with limits.",
+        "Test it on a different dataset or course problem.",
+        "Support shared exemplars with instructor review and version history."
+      ],
+      [
+        "Supervise",
+        "Direct a bounded analysis whose intermediate steps can be checked.",
+        "Use only when inspecting the analysis serves the course objective.",
+        "Set data, tool, and review boundaries; retain instructor assessment authority."
+      ]
+    ],
+    "tools": {
+      "phase-placement-diagnostic": {
+        "title": "Place the disciplinary task",
+        "guidance": "Use the shuttle survey to identify whether the objective is understanding sampling or evaluating an inference. Place this assignment, not the student’s overall AI ability. If population and sample are unclear, plan instruction first."
+      },
+      "assignment-design-worksheet": {
+        "title": "Design a disciplinary inference",
+        "guidance": "Sequence a student interpretation of the 100 survey responses, inspection of the 80%-of-all-students claim, and the changed sampling method. Specify the course evidence standard and what a feasible instructor review will inspect."
+      },
+      "assessment-and-oral-defense-rubric": {
+        "title": "Assess the course construct",
+        "guidance": "Look for the correct denominator, a warranted population claim, and revision when the sampling method changes. Ask: who do these responses represent? Rate only the course objective; do not substitute polished delivery or generic strategic language."
+      },
+      "flawed-output-library-template": {
+        "title": "Build a balanced inference set",
+        "guidance": "Pair the population overclaim with the warranted statement that 80 of 100 respondents favor the shuttle. Include source and sampling context. Label authored examples and actual model outputs separately; acceptance with reasons is a successful response."
+      },
+      "source-kit-template": {
+        "title": "Bound the disciplinary evidence",
+        "guidance": "Include the fictional survey question, invitations, respondent counts, and course sampling definitions. Separate the changed random-sample case from the initial task. Record sources and allowed assistance; exclude identifiable student information."
+      },
+      "faculty-calibration-protocol": {
+        "title": "Compare disciplinary judgments",
+        "guidance": "Have instructors independently inspect the same survey interpretation. Compare how they distinguish descriptive accuracy, population inference, and policy recommendation. Record discrepancies against course criteria and time required per response."
+      },
+      "after-action-note-template": {
+        "title": "Record the disciplinary trial",
+        "guidance": "Record the actual denominator and population reasoning, assistance used, changed-case response, and marking workload. Name the HE matrix cell being examined. Keep educator rehearsal distinct from classroom evidence and later transfer."
+      },
+      "method-card-template": {
+        "title": "Capture a reusable inference check",
+        "guidance": "Write a method that asks who was invited, who responded, what population is claimed, and what the sampling design permits. Include the method’s limits; test it with a new dataset before sharing it as a course resource."
+      },
+      "supervised-delegation-exercise": {
+        "title": "Rehearse bounded analytic delegation",
+        "guidance": "Let the assistant tabulate supplied survey counts, then propose interpretations only after the student checks the denominator and sampling method. Keep policy decisions separate. Use this only when students can inspect each step and it serves the course objective."
+      }
+    }
+  },
+  {
+    "id": "k12",
+    "label": "High school",
+    "title": "High School Workbench",
+    "summary": "Start with taught concepts, teacher modeling, and a bounded choice students can explain.",
+    "status": "Proposed high-school adaptation — awaiting teacher trials and classroom evidence. Younger-grade adaptations remain pending.",
+    "readiness": "For the science example, check that students can read temperatures, calculate a difference, and distinguish a changed variable from a controlled one. Model any missing concept with a simple comparison before asking for critique. Offer spoken, written, visual, or other accessible ways to explain. For a different subject, agree its prerequisites and response options with the teacher first.",
+    "responsibility": "Students own an evidence-based explanation within a teacher-supplied task. Teachers and schools retain tool access, privacy, safeguarding, assessment, and instructional decisions. Student AI accounts are not assumed; teacher-mediated use is sufficient.",
+    "case": "Fictional shade and temperature comparison",
+    "facts": "A fictional observation finds sunlit asphalt at 36°C and shaded grass at 28°C. The proposed AI contribution says shade always lowers temperature by 8°C. Both shade and surface changed; this comparison cannot isolate the effect of shade or establish an always claim.",
+    "baseline": "Before showing the contribution, ask what changed between the two measurements and what the comparison can establish. If needed, model identifying variables first and record that support.",
+    "change": "Use matched tiles both initially at 30°C: after the same interval, the shaded tile is 31°C and the sunlit tile is 37°C. Ask what this better-controlled, single trial supports and what still needs repetition. Do not carry the original 8°C difference into this new case.",
+    "record": "Save the initial explanation, support supplied, accept/check/revise decision, explanation of the changed comparison, and the teacher’s next instructional step.",
+    "trial": "Teachers first rehearse with constructed responses, then test the activity only in an appropriate classroom setting. Check prerequisite understanding, access to explanation, and whether the student can explain a new comparison with the recorded support. Track preparation and review time. Do not claim independent mastery from a supported response.",
+    "rows": [
+      [
+        "Ask",
+        "Ask about the teacher-supplied observations; distinguish asking from acting.",
+        "Use a shared screen or prepared contribution and model how to question it.",
+        "Set age-appropriate access and data boundaries; no individual AI account is assumed."
+      ],
+      [
+        "Understand",
+        "Identify changed variables and explain a temperature difference.",
+        "Teach or model the missing concept before critique.",
+        "Provide accessible materials and ordinary learning supports."
+      ],
+      [
+        "Produce",
+        "Make a short claim from the observations and show its evidence.",
+        "Supply the task frame; keep the taught inference with the learner.",
+        "Protect time for learning and define permitted assistance."
+      ],
+      [
+        "Judge",
+        "Explain why the first comparison is confounded and reconsider matched tiles.",
+        "Accept a sound contribution when warranted; use a short changed case.",
+        "Support subject-aligned evidence of learning, not automatic AI scores."
+      ],
+      [
+        "Codify",
+        "With guidance, record a simple fair-comparison check.",
+        "Decide whether making a reusable method serves this lesson.",
+        "Share teacher-reviewed examples with support and context recorded."
+      ],
+      [
+        "Supervise",
+        "Optionally inspect a teacher-led two-step example; independent supervision is not required.",
+        "Retain control of tool actions and stop the activity when prerequisites are missing.",
+        "Adults retain permissions, safeguarding, and institutional decisions."
+      ]
+    ],
+    "tools": {
+      "phase-placement-diagnostic": {
+        "title": "Check readiness for the comparison",
+        "guidance": "Ask the teacher how students will identify the two changed variables. If they cannot yet do so, plan modeling and a supported comparison. A teacher-supplied contribution can support judgment practice without a prior AI-production task."
+      },
+      "assignment-design-worksheet": {
+        "title": "Design a supported science explanation",
+        "guidance": "Begin with reading the temperatures and identifying variables. Model if needed, then ask for the student’s explanation before the constructed contribution. Use matched tiles for the changed case and record support rather than penalizing it."
+      },
+      "assessment-and-oral-defense-rubric": {
+        "title": "Inspect a short explanation",
+        "guidance": "Ask what changed between asphalt and grass, then what the matched tiles let us infer. Accept accessible equivalent explanations. Record hints and modeling; distinguish a supported explanation from an independent one. Do not assign a low rating for adult responsibilities or untaught concepts."
+      },
+      "flawed-output-library-template": {
+        "title": "Build an inspectable comparison set",
+        "guidance": "Pair the always-8°C claim with the accurate statement that the two observed surfaces differ by 8°C. Keep the temperatures visible and concepts already taught. A student may accept the observation while rejecting the causal generalization."
+      },
+      "source-kit-template": {
+        "title": "Prepare teacher-controlled materials",
+        "guidance": "Include the two temperatures, surface and shade labels, a taught-variable example, and accessible response options. Hold matched-tile observations for the changed case. Use synthetic observations and teacher-controlled AI access; do not package student personal data."
+      },
+      "faculty-calibration-protocol": {
+        "title": "Compare teacher interpretations",
+        "guidance": "Use the same constructed student explanation with its support record. Compare whether teachers distinguish subtraction, variable control, and generalization. Do not equate short wording, language fluency, or use of normal supports with weak reasoning."
+      },
+      "after-action-note-template": {
+        "title": "Record the teaching trial",
+        "guidance": "Record readiness evidence, modeling or hints, the student’s actual explanation, and the next teaching step. Identify the high-school matrix cell tested. Keep teacher rehearsal, supported performance, and independent transfer distinct; younger grades remain outside this trial."
+      },
+      "method-card-template": {
+        "title": "Capture a fair-comparison check",
+        "guidance": "With teacher guidance, record a short check: what changed, what stayed the same, what the evidence supports, and what needs another trial. Keep it in language students can explain. The teacher tests it with a different comparison before reuse."
+      },
+      "supervised-delegation-exercise": {
+        "title": "Model inspection with the teacher in control",
+        "guidance": "The teacher may show two steps: organize the temperature observations, then propose a claim. Students inspect the comparison before the teacher permits the second step. Stop for instruction if variables are unclear. Independent agent use is not a requirement or a learning endpoint."
+      }
+    }
+  }
+]

@@ -22,7 +22,7 @@ The workbench grew out of the argument in **The Irreducible Officer**, but it sh
 - It is not the public AI companion.
 - It is not a website source repo.
 - It is not an institutional memory system yet.
-- It is not a secure NWC deployment plan.
+- It is not a secure institutional deployment plan.
 - It is not a replacement for faculty judgment.
 - It is not a prompt-log compliance regime.
 - It should not absorb private course material into a public repo.
@@ -83,7 +83,7 @@ Future direction. Faculty preserve lesson rationale, rubric changes, after-actio
 
 ### Level 8: Context Curation And Operational Sandbox
 
-Future direction. A Librarian-style architecture could support a faculty-governed context vault, proposal queue, handoffs, diffs, and rollback. This is a reference pattern, not a current NWC implementation claim.
+Future direction. A Librarian-style architecture could support a faculty-governed context vault, proposal queue, handoffs, diffs, and rollback. This is a reference pattern, not a current institutional implementation claim.
 
 ## Build Now
 
@@ -104,3 +104,7 @@ These can be used immediately as markdown artifacts:
 The future workbench could become an institutional context system. That would require security review, governance, faculty ownership, versioning, and clear approval paths before any student or faculty artifact becomes shared institutional context.
 
 The design principle is simple: AI assistants can propose, organize, compare, and retrieve. Faculty approve what counts.
+
+## Audience-specific workbench materials
+
+The guides in `audiences/pme.md`, `audiences/he.md`, and `audiences/k12.md` define distinct examples, role matrices, and validation needs. `audiences/profiles.json` supplies per-tool teaching guidance for all nine templates in each setting. The site build combines these with shared template bodies to produce 27 adapted downloads and three context bundles. Update the matching guide and profile together; the site tests verify their agreement. Preserve the educator’s chosen task instead of forcing a worked example.

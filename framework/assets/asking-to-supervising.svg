@@ -182,7 +182,7 @@
 
   <!-- Footer core idea -->
   <text x="1118" y="1124" text-anchor="end" class="display" font-size="24" font-weight="bold">Capability grows left to right. Responsibility grows with it.&#160;</text><text x="1118" y="1124" text-anchor="start" class="display" font-size="24" font-weight="bold" style="fill:#D82032">Judgment stays human at every phase.</text>
-  <text x="1000" y="1160" text-anchor="middle" class="sans" font-size="19">Not every learner becomes a system builder. Every learner becomes a capable supervisor and judge of AI-supported work.</text>
+  <text x="1000" y="1160" text-anchor="middle" class="sans" font-size="19">Choose practices by objective and readiness. Supervision is optional; these phases are not a developmental ladder.</text>
   <!-- Audience bar -->
   <line x1="60" y1="1192" x2="1940" y2="1192" stroke="#DED6C8" stroke-width="1.5"/>
   <rect x="60" y="1191" width="30" height="2.5" style="fill:#D82032"/>
