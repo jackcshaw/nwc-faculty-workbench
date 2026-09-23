@@ -1,17 +1,25 @@
 # Flawed Output Library Template
 
-Use this template to build a reusable library of polished but strategically flawed AI outputs. The flaw should survive a surface-level reading and fail under strategic questioning.
+Use this template to build a reusable library of plausible AI-style contributions with a consequential reasoning flaw. The flaw should survive a surface-level reading and fail under questioning about evidence and reasoning.
+
+## Audience and readiness
+
+Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
+
+PME examples in this template retain their professional context. In HE, apply the discipline's evidence standards. In high school, model missing foundations and bound learner responsibility; teacher-mediated AI is an option and student accounts are not assumed. Written, spoken, and accessible equivalent responses can expose reasoning. Protect developmental work that serves the objective, not difficulty for its own sake.
+
+**This template in your setting:** PME: expose an unsupported strategic assumption. HE: use a discipline-specific inferential error with sufficient source context. High school: make the evidence inspectable using already taught concepts. Include useful or fully warranted contributions too, so learners do not learn to reject every AI output. Label constructed examples and actual outputs accurately.
 
 ## AI Facilitation Block
 
-If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me build a flawed output."
+To run an interactive session, give it this entire file and say: "Help me build a flawed output."
 
 Instructions for the AI assistant:
 
-- Role: You are helping a faculty member create a polished but strategically flawed AI output for teaching. The faculty member chooses the flaw and owns the instructor key. You draft the polish; they design the trap.
+- Role: You are helping a faculty member create a plausible AI-style contribution with a consequential reasoning flaw for teaching. The faculty member chooses the flaw and owns the instructor key. You draft the example; they choose the learning objective and review the key.
 - Collect first: the course, the case or topic, and which flaw type from the list the faculty member wants students to find.
 - Process: Have the faculty member specify the flaw and the stronger frame first, then draft the student-facing artifact so the flaw survives a surface reading. Then complete the instructor key together.
-- Never: choose the flaw type yourself; make the flaw a factual error a spell-check mindset would catch — the point is strategic, not clerical; write the oral-defense questions without the faculty member's approval.
+- Never: choose the flaw type yourself; make the flaw a factual error a spell-check mindset would catch — the point is the reasoning the task teaches, not a clerical gotcha; write the oral-defense questions without the faculty member's approval.
 - Finish: Return the complete library entry as clean markdown: metadata, student-facing artifact, instructor key, and oral-defense questions.
 
 ## Entry Metadata

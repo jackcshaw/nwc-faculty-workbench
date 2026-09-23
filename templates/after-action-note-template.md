@@ -4,9 +4,17 @@ Use this note after running an AI-enabled exercise. The goal is to preserve less
 
 Concept: [why this template works the way it does](../concepts/how-faculty-judgment-compounds.md)
 
+## Audience and readiness
+
+Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
+
+PME examples in this template retain their professional context. In HE, apply the discipline's evidence standards. In high school, model missing foundations and bound learner responsibility; teacher-mediated AI is an option and student accounts are not assumed. Written, spoken, and accessible equivalent responses can expose reasoning. Protect developmental work that serves the objective, not difficulty for its own sake.
+
+**This template in your setting:** PME: record where inherited framing or delegated analysis changed the decision. HE: record the reasoning revealed and review workload. High school: record readiness gaps, supports used, and the next teaching move. Separate observations from predictions, simulated responses, and claims about learning.
+
 ## AI Facilitation Block
 
-If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Debrief this exercise with me."
+To run an interactive session, give it this entire file and say: "Debrief this exercise with me."
 
 Instructions for the AI assistant:
 

@@ -1,10 +1,18 @@
 # Assignment Design Worksheet
 
-Use this worksheet when designing or revising an assignment for AI-enabled strategic judgment. The goal is to decide where AI helps, where it harms, and what faculty need to observe.
+Use this worksheet when designing or revising an assignment for judgment in AI-enabled work. The goal is to decide where AI helps, where it harms, and what faculty need to observe.
+
+## Audience and readiness
+
+Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
+
+PME examples in this template retain their professional context. In HE, apply the discipline's evidence standards. In high school, model missing foundations and bound learner responsibility; teacher-mediated AI is an option and student accounts are not assumed. Written, spoken, and accessible equivalent responses can expose reasoning. Protect developmental work that serves the objective, not difficulty for its own sake.
+
+**This template in your setting:** PME: distinguish inherited intelligence framing from the officer’s choice. HE: identify the disciplinary inference the assignment teaches. High school: choose a taught, bounded inference and plan modeling before independent critique.
 
 ## AI Facilitation Block
 
-If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Facilitate this worksheet with me."
+To run an interactive session, give it this entire file and say: "Facilitate this worksheet with me."
 
 Instructions for the AI assistant:
 
@@ -20,14 +28,14 @@ What is this assignment for?
 
 - Course or seminar:
 - Learning objective:
-- Strategic judgment students should practice:
-- Why this task matters for future AI-enabled leadership:
+- Disciplinary or professional judgment students should practice:
+- Why this task matters for the course or professional practice:
 
 ## 2. Problem Frame Students Must Own
 
-What must students define before AI enters?
+Which frame or criteria will the educator supply, and which decisions can learners meaningfully own?
 
-- Strategic problem:
+- Problem or disciplinary question:
 - AI-shaped inputs students inherit before direct AI use:
 - Purpose of the work:
 - Key actors:
@@ -41,7 +49,7 @@ What must students define before AI enters?
 What struggle should be preserved because it builds judgment?
 
 - Work students should do without AI:
-- First-frame activity:
+- Initial response or teacher-modeled frame, based on readiness:
 - Ambiguity or uncertainty students should face:
 - Seminar challenge or peer critique:
 - What failure should teach:
@@ -50,7 +58,7 @@ What struggle should be preserved because it builds judgment?
 
 What work can AI reduce without weakening judgment?
 
-- Formatting or synthesis work:
+- Formatting, search, synthesis, or drafting only when it is not the learning objective:
 - Search or retrieval work:
 - Alternative framing:
 - Counterargument generation:
@@ -63,7 +71,7 @@ Design the sequence deliberately.
 
 | Phase | Student action | AI role | Faculty observation |
 | --- | --- | --- | --- |
-| AI-free first frame |  | None |  |
+| Readiness and initial framing |  | None, teacher modeling, or stated support |  |
 | AI-mediated challenge |  | Challenge, critique, expand, or compare |  |
 | Human revision |  | Optional support |  |
 | Oral defense or seminar challenge |  | None or limited |  |
@@ -98,9 +106,9 @@ What will faculty inspect?
 Does the assignment avoid making the easy AI answer the wrong lesson?
 
 - Could a student complete the task by polishing AI output?
-- Does the assignment require a choice among plausible frames?
+- Does the assignment give learners a meaningful choice appropriate to their readiness, within or between frames?
 - Does it include a flawed or incomplete AI output to critique?
-- Does oral defense reveal ownership?
+- Does a written, spoken, or accessible equivalent explanation reveal the intended reasoning?
 - Does the trace stay lean enough to use?
 
 ## 9. Reusable Artifact

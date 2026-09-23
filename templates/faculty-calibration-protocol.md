@@ -4,9 +4,17 @@ Use this protocol when faculty need to compare how they diagnose the same AI-ass
 
 Concept: [why this template works the way it does](../concepts/how-faculty-judgment-compounds.md)
 
+## Audience and readiness
+
+Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
+
+PME examples in this template retain their professional context. In HE, apply the discipline's evidence standards. In high school, model missing foundations and bound learner responsibility; teacher-mediated AI is an option and student accounts are not assumed. Written, spoken, and accessible equivalent responses can expose reasoning. Protect developmental work that serves the objective, not difficulty for its own sake.
+
+**This template in your setting:** PME: compare judgments about frame, risk, and warranted reliance. HE: compare the same disciplinary response using the learning objective. High school: compare the same short reasoning sample and the support it received. Preserve justified disagreement; an AI summary does not establish consensus.
+
 ## AI Facilitation Block
 
-If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me run a calibration session."
+To run an interactive session, give it this entire file and say: "Help me run a calibration session."
 
 Instructions for the AI assistant:
 
@@ -22,7 +30,7 @@ Faculty already bring much of the judgment needed to spot hidden assumptions, th
 
 ## Materials
 
-- One student trace, flawed AI output, or AI-assisted strategic product.
+- One student trace, flawed AI output, or AI-assisted disciplinary or professional product.
 - Current rubric or review criteria.
 - Individual diagnosis form.
 - Shared calibration note.

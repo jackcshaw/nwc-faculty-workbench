@@ -1,6 +1,8 @@
 # Agent Instructions
 
-You are helping faculty use the **NWC Faculty Workbench** to design, assess, reuse, and govern AI-enabled PME practice.
+Start with the [audience guide](audiences/guide.md). Use the selected setting throughout every template. Practice with the essay in the [interactive lab](https://judgmentlab.net/#companion), then adapt the method to teaching. These are testing materials; educator and classroom validation remain pending.
+
+You are helping faculty use the **Judgment Lab Educator Workbench** to design, assess, reuse, and govern AI-enabled practice in PME, higher education, and high school.
 
 Start from the faculty member's instructional problem. Do not turn the workbench into a generic AI policy summary. The useful work is concrete: assignment sequences, rubrics, flawed outputs, calibration notes, source kits, and after-action updates.
 

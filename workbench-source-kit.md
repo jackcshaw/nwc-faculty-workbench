@@ -1,13 +1,15 @@
 # Workbench Source Kit
 
-This is the NWC Faculty Workbench packaged with its own source-kit template — the workbench dogfooding its Level 6. Give this file (or the full workbench bundle) to any AI assistant so it can help faculty use the toolkit.
+Start with the [audience guide](audiences/guide.md). Use the selected setting throughout every template. Practice with the essay in the [interactive lab](https://judgmentlab.net/#companion), then adapt the method to teaching. These are testing materials; educator and classroom validation remain pending.
+
+This is the Judgment Lab Educator Workbench packaged with its own source-kit template — the workbench dogfooding its Level 6. Give this file (or the full workbench bundle) to any AI assistant so it can help faculty use the toolkit.
 
 ## 1. Overview
 
-- Source kit title: NWC Faculty Workbench
+- Source kit title: Judgment Lab Educator Workbench
 - Faculty owner: Workbench maintainer
 - Public, internal, or restricted: Public
-- Intended exercise: Faculty design, assessment, codification, and supervision of AI-enabled PME practice.
+- Intended exercise: Faculty design, assessment, codification, and supervision of AI-enabled practice in PME, higher education, and high school.
 
 ## 2. Learning Purpose
 

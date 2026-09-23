@@ -6,9 +6,17 @@ A source kit is not a file dump.
 
 Concept: [why this template works the way it does](../concepts/source-kits-are-curated-context.md)
 
+## Audience and readiness
+
+Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
+
+PME examples in this template retain their professional context. In HE, apply the discipline's evidence standards. In high school, model missing foundations and bound learner responsibility; teacher-mediated AI is an option and student accounts are not assumed. Written, spoken, and accessible equivalent responses can expose reasoning. Protect developmental work that serves the objective, not difficulty for its own sake.
+
+**This template in your setting:** PME: use approved sources and keep context boundaries visible. HE: include actual disciplinary sources and the claim standard. High school: include enough subject context to inspect the contribution, plus teacher guidance on prerequisites and access. Keep any educator key separate from a student-facing excerpt; the full educator bundle is not a secure assessment key.
+
 ## AI Facilitation Block
 
-If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me package a source kit."
+To run an interactive session, give it this entire file and say: "Help me package a source kit."
 
 Instructions for the AI assistant:
 
@@ -30,7 +38,7 @@ Instructions for the AI assistant:
 ## 2. Learning Purpose
 
 - Course objective:
-- Strategic judgment students should practice:
+- Disciplinary or professional judgment students should practice:
 - Why AI belongs in this exercise:
 - What students must own:
 
@@ -41,7 +49,7 @@ List only the materials the AI assistant and students should use.
 - Essay, prompt, or assignment:
 - Case materials:
 - AI-shaped inputs already present in the materials:
-- Doctrine or primer materials:
+- Disciplinary reference, doctrine, or primer materials, as appropriate:
 - Public sources:
 - Course-specific sources:
 
@@ -58,7 +66,9 @@ List only the materials the AI assistant and students should use.
 - Source or category:
 - Reason:
 
-## 5. NWC Vocabulary And Standards
+## 5. Disciplinary Vocabulary And Standards
+
+Choose terms and standards for the actual learning objective. PME may use ends, ways, means, risk, costs, and reassessment; HE uses the discipline’s methods and evidence standards; high school uses concepts already taught or explicitly modeled. Do not impose every PME term on every exercise.
 
 Terms or concepts the AI assistant should preserve:
 

@@ -1,5 +1,7 @@
 # The AI Fluency Progression
 
+> Audience scope: this framework originated in PME. Use the [audience guide](../audiences/guide.md) for HE and high school. Phases are a design lens, not a validated developmental or age scale. Task readiness, modeling, and accessible evidence determine the next step; supervision is not a universal endpoint.
+
 This document is the workbench's public rendition of the **Building AI Fluency** framework (Jack C. Shaw, July 2026). It carries the framework's three solid structures — the six-phase progression, the tool progression, and the compounding staircase — plus the reference matrix, which is published here as a **hypothesis under validation**, not settled doctrine.
 
 The framework applies to subject matter experts, higher education, and professional military education. Context, mission, and constraints change. The core progression stays the same. One thread runs through everything: **judgment stays human at every phase.**

@@ -1,17 +1,25 @@
 # Supervised Delegation Exercise
 
-Use this template to design a bounded exercise where students direct a multi-step AI workflow and faculty assess whether judgment survives delegation. This is phase 6 of the fluency progression. Teach supervision before automation: students should have practiced phases 1–5 on this kind of task first.
+Use this template to design a bounded exercise where students direct a multi-step AI workflow and faculty assess whether judgment survives delegation. This is phase 6 of the fluency progression. Teach inspection and interruption before increasing autonomy. Require evidence of the capabilities this task needs; the phase numbers are not a universal prerequisite ladder.
 
 The exercise is not "build an agent." It is "supervise delegated work you remain accountable for."
 
+## Audience and readiness
+
+Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
+
+PME examples in this template retain their professional context. In HE, apply the discipline's evidence standards. In high school, model missing foundations and bound learner responsibility; teacher-mediated AI is an option and student accounts are not assumed. Written, spoken, and accessible equivalent responses can expose reasoning. Protect developmental work that serves the objective, not difficulty for its own sake.
+
+**This template in your setting:** PME: students may direct bounded multi-step assistance with explicit review and interruption. HE: delegate only work whose criteria learners can inspect. High school: teacher modeling or shared-screen supervision may be the appropriate extent; phase 6 is not a destination for every learner. Readiness is task-specific, and adult duties cannot be transferred to children.
+
 ## AI Facilitation Block
 
-If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me design a supervised delegation exercise."
+To run an interactive session, give it this entire file and say: "Help me design a supervised delegation exercise."
 
 Instructions for the AI assistant:
 
 - Role: You are helping a faculty member design a phase 6 exercise. The faculty member owns the pedagogy, the task choice, and the assessment standard. You structure and stress-test the design.
-- Collect first: the course, the strategic task being delegated, and what evidence exists that students have phase 4–5 habits on this task.
+- Collect first: the course, the task being delegated, and evidence that learners can inspect its criteria and interrupt or escalate when needed.
 - Process: Walk the sections in order. Stress-test the boundedness: if the delegated task cannot fail safely inside one session, push for a smaller task. Make the faculty member define the escalation rule before the inspection points.
 - Never: design the exercise around a specific vendor or product; let "students supervise AI" become "students watch AI"; write assessment criteria that reward output volume over judgment; imply operational or classified use.
 - Finish: Return the completed exercise design as clean markdown, with an explicit list of what could go wrong in the first run.
@@ -21,7 +29,7 @@ Instructions for the AI assistant:
 - Course or seminar:
 - Judgment this exercise develops:
 - Why supervision, not direct production, is the right practice here:
-- Prerequisite phases students have already practiced, and the evidence:
+- Required knowledge and inspection skills, readiness evidence, and support:
 
 ## The Delegated Task
 
@@ -33,9 +41,9 @@ Bounded, multi-step, inspectable, safe to fail.
 - Time box:
 - What a good final product looks like:
 
-## Task Brief Students Must Write
+## Task Brief Learners Must Understand
 
-Students write this before touching AI. Faculty review it first.
+Decide which parts learners can write and which the educator supplies or models. Learners explain the choices they own. The educator reviews the brief before delegated work begins.
 
 - Goal and audience:
 - Steps and the AI role in each:
@@ -55,9 +63,9 @@ Students write this before touching AI. Faculty review it first.
 - What students do when uncertain (escalate, verify, or refuse):
 - What may never be delegated in this exercise:
 
-## Final Integration Without AI
+## Final Integration And Stated Support
 
-- What students must do unaided after the run (integrate, judge, defend):
+- What reasoning students must demonstrate after the run, and what support is permitted:
 - Final judgment students state in first person:
 
 ## Assessment: Does Judgment Survive Delegation?
@@ -65,7 +73,7 @@ Students write this before touching AI. Faculty review it first.
 | Dimension | Thin (1) | Strong (4) |
 | --- | --- | --- |
 | Task brief quality | Vague goal, no stop rules | Bounded goal, explicit criteria and stop rules |
-| Inspection rigor | Accepted intermediate work unread | Caught and corrected a real problem mid-run |
+| Inspection rigor | Accepted intermediate work unread | Checks consequential work and justifies accepting, revising, or stopping it |
 | Stop-rule discipline | Kept going on momentum | Halted or escalated when conditions were met |
 | Ownership of result | "The AI did it" | Defends the final judgment in first person |
 | Transfer | Cannot adapt the method | Explains how the brief changes for a changed case |
