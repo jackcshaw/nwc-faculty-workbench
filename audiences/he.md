@@ -5,28 +5,28 @@ Read [Judgment in Higher Education](https://judgmentlab.net/?audience=he#he-essa
 
 Status: Proposed HE adaptation — awaiting discipline-specific educator trials and classroom evidence.
 
-Design AI-supported work around disciplinary evidence, course objectives, and defensible student choices.
+Design work where students direct AI toward a standard they choose and defend it with disciplinary evidence.
 
 ## Readiness and responsibility
 
-Identify the course level and taught concepts. Check the particular inference before expecting critique: in this example, distinguish a sample, respondents, and the population. Model missing foundations and record support.
+Identify the course level and what students can already read in a source: what a study measured, whom it followed, and for how long. Check this in the learner's unaided frame, teach it there when it is missing, then continue. Directing several agents is an advanced target, not an entry requirement.
 
-Students own the inference and source choices assigned by the course. Instructors own assessment and academic expectations; a classroom survey analysis does not confer authority to make campus policy.
+Students own the standard their work uses and the claims that follow from it. Instructors own the reading list, the assignment, and assessment. The firm's policy decision is outside the exercise.
 
 ## Worked teaching example
 
-### Fictional campus shuttle survey
+### Return-to-office research memo
 
-This is an authored, fictional design example, not a classroom result or a captured model response. Offer it as an optional starting point; the educator may supply a different task.
+This is an authored design example built on real, cited sources; the AI output is constructed for practice, not a captured model response or a classroom result. Offer it as an optional starting point; the educator may supply a different task.
 
-A fictional survey invites 1,000 students, receives 100 responses, and finds 80 respondents favor an evening shuttle. The proposed AI contribution says 80% of all students favor it and recommends adopting the service. The responses describe respondents; representativeness and the policy decision require further evidence.
+A mid-sized software firm, most of whose recent hires are new graduates, is deciding whether to require office work. The reading list: Bloom et al. (2015), where Ctrip call-center volunteers working from home performed 13% better and were promoted less at equal performance; Bloom, Han & Liang (2024), where a hybrid trial with 1,612 Trip.com employees cut quits by a third with no effect on performance reviews; and Emanuel, Harrington & Pallais (2023), where junior engineers received less code feedback when teammates were not nearby. The constructed AI synthesis summarizes each accurately and concludes that the evidence is mixed and hybrid is the balance. Its frame treats productivity as short-run output averaged across workers; for this firm, the feedback and promotion findings decide the question.
 
 ### Interactive sequence
 
-1. Before showing the contribution, ask what the 80 responses establish and which population the claim can describe.
-2. Ask one question at a time and wait. Show the constructed contribution after the initial judgment; let the educator accept, check, revise, or refuse with reasons. Provide assistance when requested and record it.
-3. Replace the voluntary responses with a random sample of 100 from the 1,000 students, with all sampled students responding and 80 favoring the shuttle. Ask how the sampling change affects the inference. Sampling uncertainty and policy costs still matter.
-4. Save the population claim, reason for accepting or revising it, assistance used, changed-sample reasoning, and remaining policy questions.
+1. Before AI enters, ask the learner what productivity should mean for this firm and what evidence would decide the question. Then have the learner direct AI against that frame, for example by sorting the studies by what they measured and whom they followed, or by having one agent argue for managers and another for new hires, and record what they kept.
+2. Ask one question at a time and wait. Show the constructed misframed answer after the learner's own frame and AI-directing step; let the educator accept, check, revise, or refuse with reasons. Provide assistance when requested and record it.
+3. The firm is instead an established call center whose staff average ten years of experience and are rarely promoted out of their roles. Ask which evidence matters most now and whether the recommendation changes. Do not accept a repeated "juniors need proximity" answer.
+4. Save the unaided frame, one AI contribution kept and one refused with reasons, the diagnosis of the synthesis's frame, the changed-case response, and the educator's follow-up.
 
 ## Reference matrix
 
@@ -34,16 +34,16 @@ These are proposed practices for this setting. Choose by learning objective and 
 
 | Practice | Learner | Educator | Institution |
 | --- | --- | --- | --- |
-| Ask | Ask what the survey can establish; inspect the supplied source. | State the course construct and distinguish questions from actions. | Provide approved access and assignment expectations. |
-| Understand | Explain respondents, sample, population, and possible nonresponse bias. | Use a worked example if sampling concepts are missing. | Provide accessible source formats and appropriate learning support. |
-| Produce | Draft a bounded interpretation with an explicit denominator. | Keep the target inference with the student; permit other assistance deliberately. | Clarify source attribution and allowed assistance for the course. |
-| Judge | Revise the population claim and reconsider the random-sample case. | Probe reasoning using the discipline’s evidence standards. | Allow usable evidence of process without excessive marking burden. |
-| Codify | Write a reusable survey-claim check with limits. | Test it on a different dataset or course problem. | Support shared exemplars with instructor review and version history. |
-| Supervise | Direct a bounded analysis whose intermediate steps can be checked. | Use only when inspecting the analysis serves the course objective. | Set data, tool, and review boundaries; retain instructor assessment authority. |
+| Ask | State what the key term should mean for this case before asking AI anything. | Supply the case and reading list; leave the standard open. | Provide approved access and assignment expectations. |
+| Understand | Explain what each source measured, whom it followed, and for how long. | Teach study design inside the unaided frame step when it is missing. | Provide accessible source formats and learning support. |
+| Produce | Direct AI with a stated purpose and criteria; record what was kept and why. | Model a structured request and an evaluator loop on a different question. | Clarify allowed assistance and attribution. |
+| Judge | Diagnose the misframed synthesis, revise, and defend the result against a changed case. | Grade the defended frame, not the conclusion. | Allow process evidence without excessive marking burden. |
+| Codify | Write a reusable check: what question did each source answer? | Test it on another assignment or discipline. | Keep a reviewed library of misframed answers with each frame flaw named. |
+| Supervise | Advanced: assign agents distinct roles and moderate their disagreement. | Use once students direct a structured request well. | Set tool and data boundaries; retain instructor assessment authority. |
 
 ## Evidence needed before broader use
 
-Course instructors compare anonymized or synthetic reasoning records against the actual course objective. Check that disciplinary understanding, rather than generic AI vocabulary, explains the assessment. Record marking time and reviewer disagreement. A later task with new evidence is needed to examine transfer.
+Two instructors review a handful of records from one assignment against the course objective. Check that the learner's defended standard, rather than generic AI vocabulary, explains the assessment. Record marking time and reviewer disagreement. A later task with a different firm or discipline is needed to examine transfer.
 
 Record the setting, subject, task, participants’ roles, support, observed evidence, reviewer disagreement, and limits. Evidence from one audience does not validate another. A software check or an educator rehearsal does not establish student learning.
 

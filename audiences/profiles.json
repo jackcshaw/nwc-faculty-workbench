@@ -94,90 +94,90 @@
     "id": "he",
     "label": "Higher education",
     "title": "Higher Education Workbench",
-    "summary": "Design AI-supported work around disciplinary evidence, course objectives, and defensible student choices.",
+    "summary": "Design work where students direct AI toward a standard they choose and defend it with disciplinary evidence.",
     "status": "Proposed HE adaptation — awaiting discipline-specific educator trials and classroom evidence.",
-    "readiness": "Identify the course level and taught concepts. Check the particular inference before expecting critique: in this example, distinguish a sample, respondents, and the population. Model missing foundations and record support.",
-    "responsibility": "Students own the inference and source choices assigned by the course. Instructors own assessment and academic expectations; a classroom survey analysis does not confer authority to make campus policy.",
-    "case": "Fictional campus shuttle survey",
-    "facts": "A fictional survey invites 1,000 students, receives 100 responses, and finds 80 respondents favor an evening shuttle. The proposed AI contribution says 80% of all students favor it and recommends adopting the service. The responses describe respondents; representativeness and the policy decision require further evidence.",
-    "baseline": "Before showing the contribution, ask what the 80 responses establish and which population the claim can describe.",
-    "change": "Replace the voluntary responses with a random sample of 100 from the 1,000 students, with all sampled students responding and 80 favoring the shuttle. Ask how the sampling change affects the inference. Sampling uncertainty and policy costs still matter.",
-    "record": "Save the population claim, reason for accepting or revising it, assistance used, changed-sample reasoning, and remaining policy questions.",
-    "trial": "Course instructors compare anonymized or synthetic reasoning records against the actual course objective. Check that disciplinary understanding, rather than generic AI vocabulary, explains the assessment. Record marking time and reviewer disagreement. A later task with new evidence is needed to examine transfer.",
+    "readiness": "Identify the course level and what students can already read in a source: what a study measured, whom it followed, and for how long. Check this in the learner's unaided frame, teach it there when it is missing, then continue. Directing several agents is an advanced target, not an entry requirement.",
+    "responsibility": "Students own the standard their work uses and the claims that follow from it. Instructors own the reading list, the assignment, and assessment. The firm's policy decision is outside the exercise.",
+    "case": "Return-to-office research memo",
+    "facts": "A mid-sized software firm, most of whose recent hires are new graduates, is deciding whether to require office work. The reading list: Bloom et al. (2015), where Ctrip call-center volunteers working from home performed 13% better and were promoted less at equal performance; Bloom, Han & Liang (2024), where a hybrid trial with 1,612 Trip.com employees cut quits by a third with no effect on performance reviews; and Emanuel, Harrington & Pallais (2023), where junior engineers received less code feedback when teammates were not nearby. The constructed AI synthesis summarizes each accurately and concludes that the evidence is mixed and hybrid is the balance. Its frame treats productivity as short-run output averaged across workers; for this firm, the feedback and promotion findings decide the question.",
+    "baseline": "Before AI enters, ask the learner what productivity should mean for this firm and what evidence would decide the question. Then have the learner direct AI against that frame, for example by sorting the studies by what they measured and whom they followed, or by having one agent argue for managers and another for new hires, and record what they kept.",
+    "change": "The firm is instead an established call center whose staff average ten years of experience and are rarely promoted out of their roles. Ask which evidence matters most now and whether the recommendation changes. Do not accept a repeated \"juniors need proximity\" answer.",
+    "record": "Save the unaided frame, one AI contribution kept and one refused with reasons, the diagnosis of the synthesis's frame, the changed-case response, and the educator's follow-up.",
+    "trial": "Two instructors review a handful of records from one assignment against the course objective. Check that the learner's defended standard, rather than generic AI vocabulary, explains the assessment. Record marking time and reviewer disagreement. A later task with a different firm or discipline is needed to examine transfer.",
     "rows": [
       [
         "Ask",
-        "Ask what the survey can establish; inspect the supplied source.",
-        "State the course construct and distinguish questions from actions.",
+        "State what the key term should mean for this case before asking AI anything.",
+        "Supply the case and reading list; leave the standard open.",
         "Provide approved access and assignment expectations."
       ],
       [
         "Understand",
-        "Explain respondents, sample, population, and possible nonresponse bias.",
-        "Use a worked example if sampling concepts are missing.",
-        "Provide accessible source formats and appropriate learning support."
+        "Explain what each source measured, whom it followed, and for how long.",
+        "Teach study design inside the unaided frame step when it is missing.",
+        "Provide accessible source formats and learning support."
       ],
       [
         "Produce",
-        "Draft a bounded interpretation with an explicit denominator.",
-        "Keep the target inference with the student; permit other assistance deliberately.",
-        "Clarify source attribution and allowed assistance for the course."
+        "Direct AI with a stated purpose and criteria; record what was kept and why.",
+        "Model a structured request and an evaluator loop on a different question.",
+        "Clarify allowed assistance and attribution."
       ],
       [
         "Judge",
-        "Revise the population claim and reconsider the random-sample case.",
-        "Probe reasoning using the discipline’s evidence standards.",
-        "Allow usable evidence of process without excessive marking burden."
+        "Diagnose the misframed synthesis, revise, and defend the result against a changed case.",
+        "Grade the defended frame, not the conclusion.",
+        "Allow process evidence without excessive marking burden."
       ],
       [
         "Codify",
-        "Write a reusable survey-claim check with limits.",
-        "Test it on a different dataset or course problem.",
-        "Support shared exemplars with instructor review and version history."
+        "Write a reusable check: what question did each source answer?",
+        "Test it on another assignment or discipline.",
+        "Keep a reviewed library of misframed answers with each frame flaw named."
       ],
       [
         "Supervise",
-        "Direct a bounded analysis whose intermediate steps can be checked.",
-        "Use only when inspecting the analysis serves the course objective.",
-        "Set data, tool, and review boundaries; retain instructor assessment authority."
+        "Advanced: assign agents distinct roles and moderate their disagreement.",
+        "Use once students direct a structured request well.",
+        "Set tool and data boundaries; retain instructor assessment authority."
       ]
     ],
     "tools": {
       "phase-placement-diagnostic": {
         "title": "Place the disciplinary task",
-        "guidance": "Use the shuttle survey to identify whether the objective is understanding sampling or evaluating an inference. Place this assignment, not the student’s overall AI ability. If population and sample are unclear, plan instruction first."
+        "guidance": "Use the memo case to place the assignment: is the objective choosing a standard, reading study designs, or directing AI through a literature? Place this assignment, not the student's overall AI ability. If students cannot yet say what a study measured, teach that inside the unaided frame."
       },
       "assignment-design-worksheet": {
         "title": "Design a disciplinary inference",
-        "guidance": "Sequence a student interpretation of the 100 survey responses, inspection of the 80%-of-all-students claim, and the changed sampling method. Specify the course evidence standard and what a feasible instructor review will inspect."
+        "guidance": "Sequence the five steps: an unaided frame for what productivity should mean, a student-directed AI challenge, the misframed synthesis, diagnosis and revision, then a defense with the call-center case. Specify the course evidence standard and what a feasible instructor review will inspect."
       },
       "assessment-and-oral-defense-rubric": {
         "title": "Assess the course construct",
-        "guidance": "Look for the correct denominator, a warranted population claim, and revision when the sampling method changes. Ask: who do these responses represent? Rate only the course objective; do not substitute polished delivery or generic strategic language."
+        "guidance": "Look for a stated standard that fits the firm, evidence that bears on it, and a coherent re-frame when the workforce changes. Ask: what does productivity mean here, and who decided? Grade the defense, not the conclusion; do not reward balance or suspicion for their own sake."
       },
       "flawed-output-library-template": {
         "title": "Build a balanced inference set",
-        "guidance": "Pair the population overclaim with the warranted statement that 80 of 100 respondents favor the shuttle. Include source and sampling context. Label authored examples and actual model outputs separately; acceptance with reasons is a successful response."
+        "guidance": "Pair the misframed \"evidence is mixed\" synthesis with its accurate study summaries, which a learner should accept after checking the abstracts. Name the frame flaw for each entry. Label authored examples and actual model outputs separately; warranted acceptance is a successful response."
       },
       "source-kit-template": {
         "title": "Bound the disciplinary evidence",
-        "guidance": "Include the fictional survey question, invitations, respondent counts, and course sampling definitions. Separate the changed random-sample case from the initial task. Record sources and allowed assistance; exclude identifiable student information."
+        "guidance": "Include the firm description, the three studies or their abstracts, and the assignment standard. Hold the call-center case for the changed step. Record sources and allowed assistance; exclude identifiable student information."
       },
       "faculty-calibration-protocol": {
         "title": "Compare disciplinary judgments",
-        "guidance": "Have instructors independently inspect the same survey interpretation. Compare how they distinguish descriptive accuracy, population inference, and policy recommendation. Record discrepancies against course criteria and time required per response."
+        "guidance": "Have instructors independently run the same misframed synthesis and compare the questions they would ask. Agree on what a strong defended frame looks like and where two different standards could both earn full credit. Record disagreements and review time per response."
       },
       "after-action-note-template": {
         "title": "Record the disciplinary trial",
-        "guidance": "Record the actual denominator and population reasoning, assistance used, changed-case response, and marking workload. Name the HE matrix cell being examined. Keep educator rehearsal distinct from classroom evidence and later transfer."
+        "guidance": "Record the standard the learner actually defended, the AI contributions kept and refused, the changed-case response, and marking workload. Name the HE matrix cell being examined. Keep educator rehearsal distinct from classroom evidence and later transfer."
       },
       "method-card-template": {
         "title": "Capture a reusable inference check",
-        "guidance": "Write a method that asks who was invited, who responded, what population is claimed, and what the sampling design permits. Include the method’s limits; test it with a new dataset before sharing it as a course resource."
+        "guidance": "Write a method that asks, for each source in a synthesis, what question it answered, what it measured, and whom it studied, before accepting any combined verdict. Include the method's limits; test it on a synthesis from another discipline before sharing it."
       },
       "supervised-delegation-exercise": {
         "title": "Rehearse bounded analytic delegation",
-        "guidance": "Let the assistant tabulate supplied survey counts, then propose interpretations only after the student checks the denominator and sampling method. Keep policy decisions separate. Use this only when students can inspect each step and it serves the course objective."
+        "guidance": "Advanced students assign agents distinct roles, such as one per study design or stakeholder, then moderate their disagreement and synthesize against the standard they chose. Use this only when students already direct a structured request well and can inspect each agent's claims."
       }
     }
   },
@@ -185,90 +185,90 @@
     "id": "k12",
     "label": "High school",
     "title": "High School Workbench",
-    "summary": "Start with taught concepts, teacher modeling, and a bounded choice students can explain.",
+    "summary": "Students direct AI toward a question they own, check it against sources, and defend the standard they chose.",
     "status": "Proposed high-school adaptation — awaiting teacher trials and classroom evidence. Younger-grade adaptations remain pending.",
-    "readiness": "For the science example, check that students can read temperatures, calculate a difference, and distinguish a changed variable from a controlled one. Model any missing concept with a simple comparison before asking for critique. Offer spoken, written, visual, or other accessible ways to explain. For a different subject, agree its prerequisites and response options with the teacher first.",
-    "responsibility": "Students own an evidence-based explanation within a teacher-supplied task. Teachers and schools retain tool access, privacy, safeguarding, assessment, and instructional decisions. Student AI accounts are not assumed; teacher-mediated use is sufficient.",
-    "case": "Fictional shade and temperature comparison",
-    "facts": "A fictional observation finds sunlit asphalt at 36°C and shaded grass at 28°C. The proposed AI contribution says shade always lowers temperature by 8°C. Both shade and surface changed; this comparison cannot isolate the effect of shade or establish an always claim.",
-    "baseline": "Before showing the contribution, ask what changed between the two measurements and what the comparison can establish. If needed, model identifying variables first and record that support.",
-    "change": "Use matched tiles both initially at 30°C: after the same interval, the shaded tile is 31°C and the sunlit tile is 37°C. Ask what this better-controlled, single trial supports and what still needs repetition. Do not carry the original 8°C difference into this new case.",
-    "record": "Save the initial explanation, support supplied, accept/check/revise decision, explanation of the changed comparison, and the teacher’s next instructional step.",
-    "trial": "Teachers first rehearse with constructed responses, then test the activity only in an appropriate classroom setting. Check prerequisite understanding, access to explanation, and whether the student can explain a new comparison with the recorded support. Track preparation and review time. Do not claim independent mastery from a supported response.",
+    "readiness": "For the history example, check that students can source a document: who wrote it, when, and why. Check this in the unaided first step, teach sourcing there when it is missing, then continue. Offer spoken, written, visual, or other accessible ways to explain. For a different subject, agree its prerequisites and response options with the teacher first.",
+    "responsibility": "Students own the standard their argument uses and the claims in it. Teachers own the documents, the prompt, and grading; schools own tool access, privacy, and safeguarding. Student AI accounts are not assumed; students can write the prompts and checks for the teacher to run.",
+    "case": "Was the New Deal a success?",
+    "facts": "A US History class answers \"Was the New Deal a success?\" from a teacher-supplied document packet. The constructed AI essay accurately reports unemployment of about 25% in 1933, 14% in 1937, and 19% in 1938, credits lasting programs such as Social Security, and concludes that the New Deal was mixed but largely successful. Its frame judges success by recovery and durability and never asks for whom. Social Security's old-age program first excluded agricultural and domestic workers, about two-thirds of Black workers; historians dispute how much race drove the exclusion.",
+    "baseline": "Before AI enters, ask students to read two documents and write what standard of success they would use and why. Then have students direct AI to speak as assigned perspectives, such as a 1936 autoworker, a sharecropper, and a business owner, check each claim against the packet, and record which claims they kept.",
+    "change": "Ask whether the school's phone policy is a success. Look for students who ask \"success by what standard, and for whom?\" without prompting.",
+    "record": "Save the student's first standard, one AI claim kept and how it was checked, one thrown out, the diagnosis of the AI essay's standard, the phone-policy response, and the teacher's next instructional step.",
+    "trial": "Teachers first do the assignment themselves, then try it with one class after a social studies colleague reviews the documents and the Social Security passage. A colleague who teaches the same course reviews a handful of responses. Track which step revealed reasoning the essay alone did not, and preparation and review time.",
     "rows": [
       [
         "Ask",
-        "Ask about the teacher-supplied observations; distinguish asking from acting.",
-        "Use a shared screen or prepared contribution and model how to question it.",
-        "Set age-appropriate access and data boundaries; no individual AI account is assumed."
+        "State a standard of success before asking AI anything.",
+        "Supply the prompt and documents; leave the standard open.",
+        "Set age-appropriate access; no individual AI account is assumed."
       ],
       [
         "Understand",
-        "Identify changed variables and explain a temperature difference.",
-        "Teach or model the missing concept before critique.",
+        "Source the documents: who wrote each, when, and why.",
+        "Teach sourcing inside the first step when it is missing.",
         "Provide accessible materials and ordinary learning supports."
       ],
       [
         "Produce",
-        "Make a short claim from the observations and show its evidence.",
-        "Supply the task frame; keep the taught inference with the learner.",
-        "Protect time for learning and define permitted assistance."
+        "Write perspectives and questions for AI; check each claim against the packet.",
+        "Model one perspective and one check on a shared screen first.",
+        "Define permitted assistance; teacher-run AI is sufficient."
       ],
       [
         "Judge",
-        "Explain why the first comparison is confounded and reconsider matched tiles.",
-        "Accept a sound contribution when warranted; use a short changed case.",
-        "Support subject-aligned evidence of learning, not automatic AI scores."
+        "Name the standard hidden in the AI essay and defend a revised argument.",
+        "Grade the defended argument, not the verdict.",
+        "Support evidence of reasoning, not automatic AI scores."
       ],
       [
         "Codify",
-        "With guidance, record a simple fair-comparison check.",
-        "Decide whether making a reusable method serves this lesson.",
-        "Share teacher-reviewed examples with support and context recorded."
+        "With guidance, write a short check: success by what standard, and for whom?",
+        "Test the check on the phone-policy case.",
+        "Share teacher-reviewed examples, including cases where the model was right."
       ],
       [
         "Supervise",
-        "Optionally inspect a teacher-led two-step example; independent supervision is not required.",
-        "Retain control of tool actions and stop the activity when prerequisites are missing.",
+        "Optionally run a teacher-led evaluator loop with several assigned perspectives.",
+        "Retain control of tool actions; stop to teach when sourcing is missing.",
         "Adults retain permissions, safeguarding, and institutional decisions."
       ]
     ],
     "tools": {
       "phase-placement-diagnostic": {
-        "title": "Check readiness for the comparison",
-        "guidance": "Ask the teacher how students will identify the two changed variables. If they cannot yet do so, plan modeling and a supported comparison. A teacher-supplied contribution can support judgment practice without a prior AI-production task."
+        "title": "Place the history task",
+        "guidance": "Ask the teacher whether the objective is sourcing, choosing a standard of success, or directing AI perspectives. If students cannot yet source a document, teach that inside the first step. Students can direct AI through the teacher when they lack accounts."
       },
       "assignment-design-worksheet": {
-        "title": "Design a supported science explanation",
-        "guidance": "Begin with reading the temperatures and identifying variables. Model if needed, then ask for the student’s explanation before the constructed contribution. Use matched tiles for the changed case and record support rather than penalizing it."
+        "title": "Design a defended historical argument",
+        "guidance": "Sequence the five steps: an unaided standard of success, student-written AI perspectives checked against the packet, the misframed AI essay, diagnosis and revision, then a short defense and the phone-policy case. Record support rather than penalizing it."
       },
       "assessment-and-oral-defense-rubric": {
-        "title": "Inspect a short explanation",
-        "guidance": "Ask what changed between asphalt and grass, then what the matched tiles let us infer. Accept accessible equivalent explanations. Record hints and modeling; distinguish a supported explanation from an independent one. Do not assign a low rating for adult responsibilities or untaught concepts."
+        "title": "Assess a defended argument",
+        "guidance": "Ask what standard of success the student used and why, and which AI claim they kept and how they checked it. Grade the defense, not the verdict. Accept accessible equivalent explanations and record hints; do not reward \"there are many perspectives\" without a position."
       },
       "flawed-output-library-template": {
-        "title": "Build an inspectable comparison set",
-        "guidance": "Pair the always-8°C claim with the accurate statement that the two observed surfaces differ by 8°C. Keep the temperatures visible and concepts already taught. A student may accept the observation while rejecting the causal generalization."
+        "title": "Build a balanced history set",
+        "guidance": "Pair the \"mixed but largely successful\" essay with its accurate figures and program facts, which students should keep after checking the packet. Include a role-play claim that fails the check. Name the frame flaw for each entry so the library does not teach reflexive distrust."
       },
       "source-kit-template": {
-        "title": "Prepare teacher-controlled materials",
-        "guidance": "Include the two temperatures, surface and shade labels, a taught-variable example, and accessible response options. Hold matched-tile observations for the changed case. Use synthetic observations and teacher-controlled AI access; do not package student personal data."
+        "title": "Prepare the document packet",
+        "guidance": "Include two or three primary documents, the unemployment figures, and a short source on the Social Security exclusion and its historical dispute. Hold the phone-policy case for the changed step. Use teacher-controlled AI access; do not package student personal data."
       },
       "faculty-calibration-protocol": {
         "title": "Compare teacher interpretations",
-        "guidance": "Use the same constructed student explanation with its support record. Compare whether teachers distinguish subtraction, variable control, and generalization. Do not equate short wording, language fluency, or use of normal supports with weak reasoning."
+        "guidance": "Have teachers run the same misframed essay and compare what they notice. Agree on what a strong defended standard looks like, and where two different standards could both earn full credit. Do not equate short wording, language fluency, or use of normal supports with weak reasoning."
       },
       "after-action-note-template": {
         "title": "Record the teaching trial",
-        "guidance": "Record readiness evidence, modeling or hints, the student’s actual explanation, and the next teaching step. Identify the high-school matrix cell tested. Keep teacher rehearsal, supported performance, and independent transfer distinct; younger grades remain outside this trial."
+        "guidance": "Record readiness evidence, sourcing instruction or hints, the standard the student defended, the AI claims kept and thrown out, and the next teaching step. Identify the high-school matrix cell tested. Keep teacher rehearsal, supported performance, and independent transfer distinct."
       },
       "method-card-template": {
-        "title": "Capture a fair-comparison check",
-        "guidance": "With teacher guidance, record a short check: what changed, what stayed the same, what the evidence supports, and what needs another trial. Keep it in language students can explain. The teacher tests it with a different comparison before reuse."
+        "title": "Capture a standard-setting check",
+        "guidance": "With teacher guidance, record a short check students can reuse: what question is being judged, success by what standard, for whom, and which sources bear on it. The teacher tests it on a different evaluation prompt before reuse."
       },
       "supervised-delegation-exercise": {
-        "title": "Model inspection with the teacher in control",
-        "guidance": "The teacher may show two steps: organize the temperature observations, then propose a claim. Students inspect the comparison before the teacher permits the second step. Stop for instruction if variables are unclear. Independent agent use is not a requirement or a learning endpoint."
+        "title": "Run a teacher-led evaluator loop",
+        "guidance": "The teacher runs student-written perspectives one at a time on a shared screen. Students check each claim against the packet before the next perspective runs. Stop to teach sourcing when claims go unchecked. Independent agent use is not a requirement."
       }
     }
   }
