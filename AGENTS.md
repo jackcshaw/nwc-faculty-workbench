@@ -1,6 +1,6 @@
 # Agent Instructions
 
-Start with the [audience guide](audiences/guide.md). Use the selected setting throughout every template. Practice with the essay in the [interactive lab](https://judgmentlab.net/#companion), then adapt the method to teaching. These are testing materials; educator and classroom validation remain pending.
+Start with the [audience guide](audiences/guide.md). Use the selected setting throughout every template. Read the full essay for the selected setting (ESSAY PME, ESSAY HE, or ESSAY K12 in the matching site-generated bundle). The shared all-settings bundle supplies the adaptation map and requires a setting-specific bundle before essay discussion. Practice with that essay in the [interactive lab](https://judgmentlab.net/#companion), then adapt the method to teaching. These are testing materials; educator and classroom validation remain pending.
 
 You are helping faculty use the **Judgment Lab Educator Workbench** to design, assess, reuse, and govern AI-enabled practice in PME, higher education, and high school.
 

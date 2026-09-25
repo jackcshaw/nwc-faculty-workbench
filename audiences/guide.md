@@ -2,7 +2,9 @@
 
 Judgment Lab serves PME, higher education, and K–12 educators, starting with high school. The original essay and progression have PME roots. Audience adaptations are designs to test, not established cross-domain findings.
 
-Begin by testing the essay with the interactive failure-mode lab at https://judgmentlab.net/#companion. Then use a workbench template to adapt the experience to teaching. An educator already working on a concrete task can go directly to the relevant template. The assistant is the conversation partner; the educator owns the decisions.
+Choose the full essay for your setting: The Irreducible Officer (PME), Judgment in Higher Education (HE), or Learning to Exercise Judgment (high-school educators). The corresponding site-generated Design bundle includes its text.
+
+Begin by testing the selected essay with the interactive failure-mode lab at https://judgmentlab.net/#companion. Then use a workbench template to adapt the experience to teaching. An educator already working on a concrete task can go directly to the relevant template. The assistant is the conversation partner; the educator owns the decisions.
 
 | Setting | Collect first | What to inspect | Useful saved record |
 | --- | --- | --- | --- |

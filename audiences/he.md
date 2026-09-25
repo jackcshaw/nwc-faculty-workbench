@@ -1,5 +1,8 @@
 # Higher education workbench guide
 
+Read [Judgment in Higher Education](https://judgmentlab.net/?audience=he#he-essay), the full companion edition for this setting. Its text is included in the matching site-generated Design context. Use the original officer essay for comparisons with PME.
+
+
 Status: Proposed HE adaptation — awaiting discipline-specific educator trials and classroom evidence.
 
 Design AI-supported work around disciplinary evidence, course objectives, and defensible student choices.
