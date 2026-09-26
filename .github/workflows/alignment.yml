@@ -1,0 +1,11 @@
+name: alignment
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  alignment:
+    uses: jackcshaw/nwc-irreducible-officer-site/.github/workflows/alignment.yml@main
+    with:
+      caller_repo: ${{ github.event.repository.name }}
+      caller_ref: ${{ github.head_ref || github.ref_name }}
