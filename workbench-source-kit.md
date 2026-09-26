@@ -1,13 +1,15 @@
 # Workbench Source Kit
 
-This is the NWC Faculty Workbench packaged with its own source-kit template — the workbench dogfooding its Level 6. Give this file (or the full workbench bundle) to any AI assistant so it can help faculty use the toolkit.
+Start with the [audience guide](audiences/guide.md). Use the selected setting throughout every template. Read the full essay for the selected setting (ESSAY PME, ESSAY HE, or ESSAY K12 in the matching site-generated bundle). The shared all-settings bundle supplies the adaptation map and requires a setting-specific bundle before essay discussion. Practice with that essay in the [interactive lab](https://judgmentlab.net/#companion), then adapt the method to teaching. These are testing materials; educator and classroom validation remain pending.
+
+This is the Judgment Lab Educator Workbench packaged with its own source-kit template — a practical example of an educator directing an assistant. Give this file (or the full workbench bundle) to any AI assistant so it can help faculty use the toolkit.
 
 ## 1. Overview
 
-- Source kit title: NWC Faculty Workbench
+- Source kit title: Judgment Lab Educator Workbench
 - Faculty owner: Workbench maintainer
 - Public, internal, or restricted: Public
-- Intended exercise: Faculty design, assessment, codification, and supervision of AI-enabled PME practice.
+- Intended exercise: Faculty design, assessment, codification, and supervision of AI-enabled practice in PME, higher education, and high school.
 
 ## 2. Learning Purpose
 
@@ -16,6 +18,8 @@ This is the NWC Faculty Workbench packaged with its own source-kit template — 
 - What faculty must own: Every pedagogical judgment. The assistant asks, structures, and challenges; it never decides.
 
 ## 3. Anchor Materials
+
+Use the selected [PME](audiences/pme.md), [HE](audiences/he.md), or [high-school](audiences/k12.md) guide and matrix. A selected-audience bundle includes that guide and nine adapted templates. Treat the guide’s readiness and responsibility limits as constraints throughout facilitation.
 
 - [The AI fluency progression](framework/ai-fluency-progression.md) — six phases, tools, staircase, and the reference matrix (hypothesis status).
 - [Phase placement diagnostic](templates/phase-placement-diagnostic.md) — start here to find the right phase and template.
@@ -33,7 +37,7 @@ This is the NWC Faculty Workbench packaged with its own source-kit template — 
 
 ### Excluded
 
-- Private NWC course material — never absorb it into public artifacts.
+- Private institutional or identifiable student material — never absorb it into public artifacts.
 - Invented doctrine, policy, or sources.
 - Claims that the reference matrix is validated, or that secure deployment is solved.
 
@@ -49,7 +53,7 @@ What the assistant may do:
 What the assistant may not do:
 
 - make pedagogical decisions for faculty;
-- soften developmental friction;
+- remove practice of the intended reasoning without an instructional reason; normal modeling, hints, and access supports remain available;
 - treat matrix cells as validated;
 - turn facilitation into surveillance or compliance paperwork;
 - move private material into public artifacts.

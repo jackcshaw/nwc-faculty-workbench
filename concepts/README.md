@@ -1,5 +1,7 @@
 # Workbench Concepts
 
+For PME, higher education, and high-school educator practice. Use the [audience guide](../audiences/guide.md) when applying these concepts; PME examples are not universal prerequisites.
+
 **The concepts layer explains why each workbench artifact has the fields it does — bridging unfamiliar tools to things you already understand.**
 
 The templates tell you *what to do*. The framework doc tells you *what the phases are*. These notes tell you *why*. Each takes two minutes and stands alone.

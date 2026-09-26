@@ -1,3 +1,5 @@
+> Historical design record. Audience scope and validation wording were superseded by the September 2026 PME, HE, and high-school refresh. Use the current audience guides and framework for implementation.
+
 # Operationalizing the AI Fluency Framework in the Faculty Workbench — Design
 
 Date: 2026-07-08

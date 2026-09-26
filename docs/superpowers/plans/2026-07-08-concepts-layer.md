@@ -1,3 +1,5 @@
+> Historical design record. Audience scope and validation wording were superseded by the September 2026 PME, HE, and high-school refresh. Use the current audience guides and framework for implementation.
+
 # Workbench Concepts Layer Implementation Plan
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.

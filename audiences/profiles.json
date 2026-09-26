@@ -1,0 +1,275 @@
+[
+  {
+    "id": "pme",
+    "label": "PME",
+    "title": "PME Educator Workbench",
+    "summary": "Design practice in professional judgment, inherited inputs, risk, and accountable authority.",
+    "status": "Proposed PME design — awaiting faculty trials and evidence from use.",
+    "readiness": "Check understanding of the professional task, source limitations, authority, and causal inference. Seniority does not establish readiness. Model unfamiliar analysis before expecting independent critique.",
+    "responsibility": "Learners own recommendations and the decisions assigned in the exercise. Faculty own pedagogy and assessment; actual operational authority remains outside this fictional exercise.",
+    "case": "Fictional outage brief",
+    "facts": "A fictional report records 12 outages: 8 followed equipment updates and 4 have unexplained causes. The proposed AI contribution attributes all 12 to updates and recommends a fleet-wide rollback. Timing alone does not establish cause, and the 4 unexplained cases do not support that attribution.",
+    "baseline": "Before showing the contribution, ask which conclusions the report supports and what additional evidence a rollback decision requires.",
+    "change": "Replace the report with independent diagnostic evidence identifying a software defect in 10 outages; 2 remain unexplained. Ask what now warrants action, what uncertainty remains, and who has authority to act.",
+    "record": "Save the initial judgment, inspected assumption, accepted or revised recommendation, residual risk, and response to the changed evidence.",
+    "trial": "Two faculty reviewers inspect the same fictional decision record. Compare causal reasoning, authority boundaries, and how the learner handles residual uncertainty. Record disagreements and actual review time. Later test transfer to another professional case; do not infer operational competence from this exercise.",
+    "rows": [
+      [
+        "Ask",
+        "Ask a bounded question about the report; distinguish answering from taking action.",
+        "Model source checking and the limits of an operational analogy.",
+        "Provide approved public or synthetic materials and tool boundaries."
+      ],
+      [
+        "Understand",
+        "Explain association versus cause using the outage evidence.",
+        "Check the explanation without requiring new strategic vocabulary.",
+        "Make prerequisite primers and review time available."
+      ],
+      [
+        "Produce",
+        "Draft a limited recommendation from supplied evidence.",
+        "Specify what the officer must decide and what may be delegated.",
+        "Define disclosure, source handling, and exercise authority."
+      ],
+      [
+        "Judge",
+        "Accept, revise, or refuse the rollback proposal with reasons.",
+        "Probe uncertainty and the changed diagnostic evidence.",
+        "Support review of reasoning, not only finished briefs."
+      ],
+      [
+        "Codify",
+        "Save a reusable causal-check method with exceptions.",
+        "Test the method on a second professional case.",
+        "Retain reviewed versions, provenance, and unresolved disagreement."
+      ],
+      [
+        "Supervise",
+        "Direct bounded analysis with checkpoints and a stop rule.",
+        "Inspect whether the learner can interrupt unsupported recommendations.",
+        "Keep operational permissions and human approval outside classroom automation."
+      ]
+    ],
+    "tools": {
+      "phase-placement-diagnostic": {
+        "title": "Place the professional task",
+        "guidance": "Use the outage brief to distinguish explaining a report from authorizing a response. Ask what judgment the exercise teaches before choosing a phase. Record missing causal-analysis knowledge and authority assumptions."
+      },
+      "assignment-design-worksheet": {
+        "title": "Design a recommendation under uncertainty",
+        "guidance": "Sequence an initial interpretation of the outage report, inspection of the rollback proposal, and the changed diagnostic evidence. Decide which authority and risk questions officers must own. Keep the decision record brief."
+      },
+      "assessment-and-oral-defense-rubric": {
+        "title": "Assess professional reasoning",
+        "guidance": "Look for warranted causal inference, explicit authority, and a defensible response to residual risk. Ask: which evidence supports rollback, and which decision is yours to recommend? Use the changed diagnostic evidence to test revision."
+      },
+      "flawed-output-library-template": {
+        "title": "Build a balanced recommendation set",
+        "guidance": "Pair the unsupported fleet-wide rollback with a warranted contribution that reports 8 update-associated outages and 4 unexplained cases. Label both as authored examples. Test whether officers accept useful bounded analysis as well as reject overreach."
+      },
+      "source-kit-template": {
+        "title": "Bound the professional evidence",
+        "guidance": "Include the fictional outage report, exercise authority, relevant definitions, and the changed diagnostic evidence. Keep the changed case in educator notes until needed. Exclude operational or private course information from public artifacts."
+      },
+      "faculty-calibration-protocol": {
+        "title": "Compare professional judgments",
+        "guidance": "Have faculty independently inspect the same fictional recommendation and rationale. Compare the evidence supporting rollback, authority boundaries, and treatment of unknown causes. Preserve reasonable disagreement; do not score agreement with a model answer."
+      },
+      "after-action-note-template": {
+        "title": "Record the professional trial",
+        "guidance": "Record the actual causal claim the learner defended, support supplied, revised recommendation, and remaining uncertainty. Identify which PME matrix cell the observation bears on. Leave unobserved outcomes open; do not claim operational certification."
+      },
+      "method-card-template": {
+        "title": "Capture a reusable evidence check",
+        "guidance": "Write a method for separating timing, causal diagnosis, and response authority. Include a stop rule when the evidence cannot support the proposed action. Test the card on a second fictional professional case before treating it as reusable."
+      },
+      "supervised-delegation-exercise": {
+        "title": "Rehearse bounded professional delegation",
+        "guidance": "Let the assistant organize outage evidence, then draft options only after the officer approves the causal interpretation. Set a stop rule for unsupported attribution. Inspect both checkpoints; no operational action is authorized by the exercise."
+      }
+    }
+  },
+  {
+    "id": "he",
+    "label": "Higher education",
+    "title": "Higher Education Workbench",
+    "summary": "Design work where students direct AI toward a standard they choose and defend it with disciplinary evidence.",
+    "status": "Proposed HE adaptation — awaiting discipline-specific educator trials and classroom evidence.",
+    "readiness": "Identify the course level and what students can already read in a source: what a study measured, whom it followed, and for how long. Check this in the learner's unaided frame, teach it there when it is missing, then continue. Directing several agents is an advanced target, not an entry requirement.",
+    "responsibility": "Students own the standard their work uses and the claims that follow from it. Instructors own the reading list, the assignment, and assessment. The firm's policy decision is outside the exercise.",
+    "case": "Return-to-office research memo",
+    "facts": "A mid-sized software firm, most of whose recent hires are new graduates, is deciding whether to require office work. The reading list: Bloom et al. (2015), where Ctrip call-center volunteers working from home performed 13% better and were promoted less at equal performance; Bloom, Han & Liang (2024), where a hybrid trial with 1,612 Trip.com employees cut quits by a third with no effect on performance reviews; and Emanuel, Harrington & Pallais (2023), where junior engineers received less code feedback when teammates were not nearby. The constructed AI synthesis summarizes each accurately and concludes that the evidence is mixed and hybrid is the balance. Its frame treats productivity as short-run output averaged across workers; for this firm, the feedback and promotion findings decide the question.",
+    "baseline": "Before AI enters, ask the learner what productivity should mean for this firm and what evidence would decide the question. Then have the learner direct AI against that frame, for example by sorting the studies by what they measured and whom they followed, or by having one agent argue for managers and another for new hires, and record what they kept.",
+    "change": "The firm is instead an established call center whose staff average ten years of experience and are rarely promoted out of their roles. Ask which evidence matters most now and whether the recommendation changes. Do not accept a repeated \"juniors need proximity\" answer.",
+    "record": "Save the unaided frame, one AI contribution kept and one refused with reasons, the diagnosis of the synthesis's frame, the changed-case response, and the educator's follow-up.",
+    "trial": "Two instructors review a handful of records from one assignment against the course objective. Check that the learner's defended standard, rather than generic AI vocabulary, explains the assessment. Record marking time and reviewer disagreement. A later task with a different firm or discipline is needed to examine transfer.",
+    "rows": [
+      [
+        "Ask",
+        "State what the key term should mean for this case before asking AI anything.",
+        "Supply the case and reading list; leave the standard open.",
+        "Provide approved access and assignment expectations."
+      ],
+      [
+        "Understand",
+        "Explain what each source measured, whom it followed, and for how long.",
+        "Teach study design inside the unaided frame step when it is missing.",
+        "Provide accessible source formats and learning support."
+      ],
+      [
+        "Produce",
+        "Direct AI with a stated purpose and criteria; record what was kept and why.",
+        "Model a structured request and an evaluator loop on a different question.",
+        "Clarify allowed assistance and attribution."
+      ],
+      [
+        "Judge",
+        "Diagnose the misframed synthesis, revise, and defend the result against a changed case.",
+        "Grade the defended frame, not the conclusion.",
+        "Allow process evidence without excessive marking burden."
+      ],
+      [
+        "Codify",
+        "Write a reusable check: what question did each source answer?",
+        "Test it on another assignment or discipline.",
+        "Keep a reviewed library of misframed answers with each frame flaw named."
+      ],
+      [
+        "Supervise",
+        "Advanced: assign agents distinct roles and moderate their disagreement.",
+        "Use once students direct a structured request well.",
+        "Set tool and data boundaries; retain instructor assessment authority."
+      ]
+    ],
+    "tools": {
+      "phase-placement-diagnostic": {
+        "title": "Place the disciplinary task",
+        "guidance": "Use the memo case to place the assignment: is the objective choosing a standard, reading study designs, or directing AI through a literature? Place this assignment, not the student's overall AI ability. If students cannot yet say what a study measured, teach that inside the unaided frame."
+      },
+      "assignment-design-worksheet": {
+        "title": "Design a disciplinary inference",
+        "guidance": "Sequence the five steps: an unaided frame for what productivity should mean, a student-directed AI challenge, the misframed synthesis, diagnosis and revision, then a defense with the call-center case. Specify the course evidence standard and what a feasible instructor review will inspect."
+      },
+      "assessment-and-oral-defense-rubric": {
+        "title": "Assess the course construct",
+        "guidance": "Look for a stated standard that fits the firm, evidence that bears on it, and a coherent re-frame when the workforce changes. Ask: what does productivity mean here, and who decided? Grade the defense, not the conclusion; do not reward balance or suspicion for their own sake."
+      },
+      "flawed-output-library-template": {
+        "title": "Build a balanced inference set",
+        "guidance": "Pair the misframed \"evidence is mixed\" synthesis with its accurate study summaries, which a learner should accept after checking the abstracts. Name the frame flaw for each entry. Label authored examples and actual model outputs separately; warranted acceptance is a successful response."
+      },
+      "source-kit-template": {
+        "title": "Bound the disciplinary evidence",
+        "guidance": "Include the firm description, the three studies or their abstracts, and the assignment standard. Hold the call-center case for the changed step. Record sources and allowed assistance; exclude identifiable student information."
+      },
+      "faculty-calibration-protocol": {
+        "title": "Compare disciplinary judgments",
+        "guidance": "Have instructors independently run the same misframed synthesis and compare the questions they would ask. Agree on what a strong defended frame looks like and where two different standards could both earn full credit. Record disagreements and review time per response."
+      },
+      "after-action-note-template": {
+        "title": "Record the disciplinary trial",
+        "guidance": "Record the standard the learner actually defended, the AI contributions kept and refused, the changed-case response, and marking workload. Name the HE matrix cell being examined. Keep educator rehearsal distinct from classroom evidence and later transfer."
+      },
+      "method-card-template": {
+        "title": "Capture a reusable inference check",
+        "guidance": "Write a method that asks, for each source in a synthesis, what question it answered, what it measured, and whom it studied, before accepting any combined verdict. Include the method's limits; test it on a synthesis from another discipline before sharing it."
+      },
+      "supervised-delegation-exercise": {
+        "title": "Rehearse bounded analytic delegation",
+        "guidance": "Advanced students assign agents distinct roles, such as one per study design or stakeholder, then moderate their disagreement and synthesize against the standard they chose. Use this only when students already direct a structured request well and can inspect each agent's claims."
+      }
+    }
+  },
+  {
+    "id": "k12",
+    "label": "High school",
+    "title": "High School Workbench",
+    "summary": "Students direct AI toward a question they own, check it against sources, and defend the standard they chose.",
+    "status": "Proposed high-school adaptation — awaiting teacher trials and classroom evidence. Younger-grade adaptations remain pending.",
+    "readiness": "For the history example, check that students can source a document: who wrote it, when, and why. Check this in the unaided first step, teach sourcing there when it is missing, then continue. Offer spoken, written, visual, or other accessible ways to explain. For a different subject, agree its prerequisites and response options with the teacher first.",
+    "responsibility": "Students own the standard their argument uses and the claims in it. Teachers own the documents, the prompt, and grading; schools own tool access, privacy, and safeguarding. Student AI accounts are not assumed; students can write the prompts and checks for the teacher to run.",
+    "case": "Was the New Deal a success?",
+    "facts": "A US History class answers \"Was the New Deal a success?\" from a teacher-supplied document packet. The constructed AI essay accurately reports unemployment of about 25% in 1933, 14% in 1937, and 19% in 1938, credits lasting programs such as Social Security, and concludes that the New Deal was mixed but largely successful. Its frame judges success by recovery and durability and never asks for whom. Social Security's old-age program first excluded agricultural and domestic workers, about two-thirds of Black workers; historians dispute how much race drove the exclusion.",
+    "baseline": "Before AI enters, ask students to read two documents and write what standard of success they would use and why. Then have students direct AI to speak as assigned perspectives, such as a 1936 autoworker, a sharecropper, and a business owner, check each claim against the packet, and record which claims they kept.",
+    "change": "Ask whether the school's phone policy is a success. Look for students who ask \"success by what standard, and for whom?\" without prompting.",
+    "record": "Save the student's first standard, one AI claim kept and how it was checked, one thrown out, the diagnosis of the AI essay's standard, the phone-policy response, and the teacher's next instructional step.",
+    "trial": "Teachers first do the assignment themselves, then try it with one class after a social studies colleague reviews the documents and the Social Security passage. A colleague who teaches the same course reviews a handful of responses. Track which step revealed reasoning the essay alone did not, and preparation and review time.",
+    "rows": [
+      [
+        "Ask",
+        "State a standard of success before asking AI anything.",
+        "Supply the prompt and documents; leave the standard open.",
+        "Set age-appropriate access; no individual AI account is assumed."
+      ],
+      [
+        "Understand",
+        "Source the documents: who wrote each, when, and why.",
+        "Teach sourcing inside the first step when it is missing.",
+        "Provide accessible materials and ordinary learning supports."
+      ],
+      [
+        "Produce",
+        "Write perspectives and questions for AI; check each claim against the packet.",
+        "Model one perspective and one check on a shared screen first.",
+        "Define permitted assistance; teacher-run AI is sufficient."
+      ],
+      [
+        "Judge",
+        "Name the standard hidden in the AI essay and defend a revised argument.",
+        "Grade the defended argument, not the verdict.",
+        "Support evidence of reasoning, not automatic AI scores."
+      ],
+      [
+        "Codify",
+        "With guidance, write a short check: success by what standard, and for whom?",
+        "Test the check on the phone-policy case.",
+        "Share teacher-reviewed examples, including cases where the model was right."
+      ],
+      [
+        "Supervise",
+        "Optionally run a teacher-led evaluator loop with several assigned perspectives.",
+        "Retain control of tool actions; stop to teach when sourcing is missing.",
+        "Adults retain permissions, safeguarding, and institutional decisions."
+      ]
+    ],
+    "tools": {
+      "phase-placement-diagnostic": {
+        "title": "Place the history task",
+        "guidance": "Ask the teacher whether the objective is sourcing, choosing a standard of success, or directing AI perspectives. If students cannot yet source a document, teach that inside the first step. Students can direct AI through the teacher when they lack accounts."
+      },
+      "assignment-design-worksheet": {
+        "title": "Design a defended historical argument",
+        "guidance": "Sequence the five steps: an unaided standard of success, student-written AI perspectives checked against the packet, the misframed AI essay, diagnosis and revision, then a short defense and the phone-policy case. Record support rather than penalizing it."
+      },
+      "assessment-and-oral-defense-rubric": {
+        "title": "Assess a defended argument",
+        "guidance": "Ask what standard of success the student used and why, and which AI claim they kept and how they checked it. Grade the defense, not the verdict. Accept accessible equivalent explanations and record hints; do not reward \"there are many perspectives\" without a position."
+      },
+      "flawed-output-library-template": {
+        "title": "Build a balanced history set",
+        "guidance": "Pair the \"mixed but largely successful\" essay with its accurate figures and program facts, which students should keep after checking the packet. Include a role-play claim that fails the check. Name the frame flaw for each entry so the library does not teach reflexive distrust."
+      },
+      "source-kit-template": {
+        "title": "Prepare the document packet",
+        "guidance": "Include two or three primary documents, the unemployment figures, and a short source on the Social Security exclusion and its historical dispute. Hold the phone-policy case for the changed step. Use teacher-controlled AI access; do not package student personal data."
+      },
+      "faculty-calibration-protocol": {
+        "title": "Compare teacher interpretations",
+        "guidance": "Have teachers run the same misframed essay and compare what they notice. Agree on what a strong defended standard looks like, and where two different standards could both earn full credit. Do not equate short wording, language fluency, or use of normal supports with weak reasoning."
+      },
+      "after-action-note-template": {
+        "title": "Record the teaching trial",
+        "guidance": "Record readiness evidence, sourcing instruction or hints, the standard the student defended, the AI claims kept and thrown out, and the next teaching step. Identify the high-school matrix cell tested. Keep teacher rehearsal, supported performance, and independent transfer distinct."
+      },
+      "method-card-template": {
+        "title": "Capture a standard-setting check",
+        "guidance": "With teacher guidance, record a short check students can reuse: what question is being judged, success by what standard, for whom, and which sources bear on it. The teacher tests it on a different evaluation prompt before reuse."
+      },
+      "supervised-delegation-exercise": {
+        "title": "Run a teacher-led evaluator loop",
+        "guidance": "The teacher runs student-written perspectives one at a time on a shared screen. Students check each claim against the packet before the next perspective runs. Stop to teach sourcing when claims go unchecked. Independent agent use is not a requirement."
+      }
+    }
+  }
+]

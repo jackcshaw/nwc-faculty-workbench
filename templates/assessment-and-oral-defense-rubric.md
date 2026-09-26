@@ -1,10 +1,18 @@
 # Assessment And Oral-Defense Rubric
 
-Use this rubric when the assignment goal is to make ownership visible in AI-enabled strategic work. The finished artifact still matters, but it does not carry the whole assessment burden.
+Use this rubric when the assignment goal is to make ownership visible in AI-enabled work. The finished artifact still matters, but it does not carry the whole assessment burden.
+
+## Audience and readiness
+
+Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
+
+PME examples in this template retain their professional context. In HE, apply the discipline's evidence standards. In high school, students choose and defend a standard within the teacher's task and direct AI toward it; teach missing knowledge inside the work, and let students write the prompts and checks for a teacher-run tool when they lack accounts. Written, spoken, and accessible equivalent responses can expose reasoning. Protect developmental work that serves the objective, not difficulty for its own sake.
+
+**This template in your setting:** PME: examine risk and authority as well as explanation. HE: assess the course construct, not generic strategic vocabulary. High school: use a short explanation or changed comparison appropriate to the objective; teacher and school duties remain with adults. Existing 1–4 descriptors are discussion aids, not a validated scale across settings. Do not convert them automatically into grades.
 
 ## AI Facilitation Block
 
-If you are working on paper, skip this section. If you are using an AI assistant, give it this entire file and say: "Help me prepare an assessment with this rubric."
+To run an interactive session, give it this entire file and say: "Help me prepare an assessment with this rubric."
 
 Instructions for the AI assistant:
 
@@ -14,7 +22,7 @@ Instructions for the AI assistant:
 - Never: rate a real student's work yourself; suggest that disclosure of AI use alone equals ownership; add rubric dimensions without being asked; treat polish as evidence of judgment.
 - Finish: Return the faculty member's prepared rubric notes and the oral-defense question order they chose, as clean markdown.
 
-## Rating Scale
+## Provisional discussion scale
 
 | Rating | Meaning |
 | --- | --- |
@@ -23,18 +31,20 @@ Instructions for the AI assistant:
 | 3 - Proficient | Student owns the purpose, frame, reliance decisions, and judgment under questioning. |
 | 4 - Strong | Student shows disciplined AI use, revises intelligently, and transfers the method to a changed case. |
 
+Apply only dimensions the objective and learner-owned choices warrant; record not applicable rather than a low rating for a responsibility the learner was never assigned. These descriptors are unvalidated discussion aids. A short session cannot establish durable proficiency.
+
 ## Dimensions
 
 | Dimension | What Faculty Look For | Rating | Notes |
 | --- | --- | --- | --- |
-| Purpose through frame | Student can explain what the work is for, why this problem frame was chosen, and what would change it. |  |  |
-| Inherited AI-shaped inputs | Student can identify reports, summaries, planning tools, staff processes, or prior analytic products that may have already shaped the work. |  |  |
+| Purpose through frame | Student explains the task purpose, distinguishes supplied from chosen framing, and justifies the choices they were asked to own. |  |  |
+| Inherited AI-shaped inputs | Student can identify supplied summaries, datasets, worked examples, search results, or prior analyses that may have already shaped the work. |  |  |
 | Assumptions | Student identifies explicit, inherited, AI-suggested, and revised assumptions. |  |  |
 | Evidence standard | Student explains what evidence would strengthen, weaken, or change the judgment. |  |  |
 | Reliance | Student can say where AI helped, where it was verified, where it was rejected, and why. |  |  |
-| Accountability | Student states the final judgment in first person and accepts responsibility for uncertainty and risk. |  |  |
+| Accountability | Student explains their decision and its limits; educator and institutional responsibilities remain with the responsible adults. |  |  |
 | Transfer | Student applies the same discipline to a changed case, new artifact, or altered premise. |  |  |
-| Developmental friction | Student did enough unaided or contested work to build judgment rather than merely polish output. |  |  |
+| Developmental friction | The trace shows practice of the intended reasoning, with modeling, hints, and access supports recorded; it does not by itself prove learning. |  |  |
 
 ## Oral-Defense Question Bank
 
@@ -42,7 +52,7 @@ Ask one question at a time. Follow the student rather than reading the list mech
 
 ### Purpose And Frame
 
-- What problem did you decide this work was actually solving?
+- What problem were you given, and what did you decide within or about that frame?
 - What did your frame include that another reasonable frame might exclude?
 - What would make you change the frame?
 - What inputs had already sorted, summarized, or framed the problem before you touched AI directly?
@@ -71,11 +81,11 @@ Ask one question at a time. Follow the student rather than reading the list mech
 
 - State the final judgment in first person.
 - What risk remains if your judgment is wrong?
-- What would you say to a commander or policymaker who acted on this recommendation?
+- What would you explain to the person using this conclusion? In PME, this may be a commander or policymaker.
 
 ### Transfer
 
-- How would your judgment change if the adversary, time horizon, authority, or available evidence changed?
+- How would your judgment change if a consequential condition or piece of evidence changed? In PME, consider adversary, time horizon, or authority.
 - What part of your method would transfer to a different case?
 - What would you save so another student or instructor could reuse this work?
 

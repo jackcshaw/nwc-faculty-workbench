@@ -16,12 +16,12 @@ This is a system prompt — the agent instructions that shape how an assistant b
 
 ## What The Workbench Adds
 
-The block lives *inside* the worksheet, not in a separate config. That makes every template dual-reader: a human fills it out on paper, or hands the whole file to an assistant and the assistant is the runtime. Three design choices:
+The block lives inside the teaching artifact. Give the file to an assistant and the assistant is the runtime; the educator makes the decisions in conversation. Three design choices:
 
 - **Collect-first.** The assistant gathers the faculty member's own material before producing anything — judgment stays with the human.
 - **Never-list.** Each block names what the assistant must not do: invent steps, smooth over disagreement, turn work into surveillance.
 - **Bounded finish.** The session ends with a clean artifact and a handoff, not an open-ended chat.
 
-The block also stays visible on paper. Faculty can read exactly what the assistant was told to do — the instructions are never hidden from the person being facilitated.
+The instructions remain visible in the file. Educators can read exactly what the assistant was told to do — the instructions are never hidden from the person being facilitated.
 
 > **Framework tie:** Facilitation blocks are supervised, AI-mediated work in miniature (Phase 6). The assistant is the runtime; the markdown is the program; the faculty member keeps the judgment seat.

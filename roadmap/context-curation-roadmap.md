@@ -1,6 +1,6 @@
 # Context Curation Roadmap
 
-This roadmap describes how a future NWC Faculty Workbench could incorporate a Librarian-style context layer. It is a future direction, not a claim that NWC has solved secure deployment or institutional adoption.
+This roadmap describes how a future Judgment Lab Educator Workbench could incorporate a Librarian-style context layer. It is a future direction, not a claim that institutions have solved secure deployment or institutional adoption.
 
 Reference model: [The Librarian](https://codeministry.net/the-librarian/) and [JimJafar/the-librarian](https://github.com/JimJafar/the-librarian).
 
@@ -51,9 +51,9 @@ A Librarian-style system could add:
 - history, diffs, and rollback;
 - dashboard review for faculty owners.
 
-## NWC Translation Of Librarian Concepts
+## Institutional Translation Of Librarian Concepts
 
-| Librarian concept | NWC workbench translation |
+| Librarian concept | Educator workbench translation |
 | --- | --- |
 | Markdown vault | Faculty-governed source kits, rubrics, notes, and exercise artifacts. |
 | References | Approved doctrine, cases, readings, and source packets. |

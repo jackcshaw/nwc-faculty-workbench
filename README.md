@@ -1,6 +1,8 @@
-# NWC Faculty Workbench
+# Judgment Lab Educator Workbench
 
-The NWC Faculty Workbench is a public-safe markdown toolkit for designing, assessing, reusing, and governing AI-enabled professional military education.
+Start with the [audience guide](audiences/guide.md). Use the selected setting throughout every template. Practice with the essay in the [interactive lab](https://judgmentlab.net/#companion), then adapt the method to teaching. These are testing materials; educator and classroom validation remain pending.
+
+The Judgment Lab Educator Workbench is a public-safe markdown toolkit for designing, assessing, reusing, and governing AI-enabled professional military education.
 
 It is not an essay companion and not a website. It is a faculty implementation surface: practical worksheets, rubrics, source-kit templates, flawed-output patterns, calibration protocols, and future context-curation guidance.
 
@@ -20,7 +22,7 @@ The workbench grew out of the argument in **The Irreducible Officer**, but it sh
 - It is not the public AI companion.
 - It is not a website source repo.
 - It is not an institutional memory system yet.
-- It is not a secure NWC deployment plan.
+- It is not a secure institutional deployment plan.
 - It is not a replacement for faculty judgment.
 - It is not a prompt-log compliance regime.
 - It should not absorb private course material into a public repo.
@@ -29,7 +31,7 @@ The workbench grew out of the argument in **The Irreducible Officer**, but it sh
 
 **With an AI assistant (recommended):** give your assistant the [workbench source kit](workbench-source-kit.md) — or the full workbench bundle from the public site (https://judgmentlab.net/assets/workbench-context.md) — and say: "Run the phase placement diagnostic with me." The assistant will place your assignment on the fluency progression and route you to the right template. Every template contains an AI Facilitation Block, so the assistant can run it as a guided session.
 
-**On paper:** every template works as a plain worksheet. Start with the table below.
+**During the session:** use the table below to choose a guided conversation. Save the decisions afterward; completing a worksheet is not the entry requirement.
 
 | I want to... | Use this | Phase |
 | --- | --- | --- |
@@ -81,7 +83,7 @@ Future direction. Faculty preserve lesson rationale, rubric changes, after-actio
 
 ### Level 8: Context Curation And Operational Sandbox
 
-Future direction. A Librarian-style architecture could support a faculty-governed context vault, proposal queue, handoffs, diffs, and rollback. This is a reference pattern, not a current NWC implementation claim.
+Future direction. A Librarian-style architecture could support a faculty-governed context vault, proposal queue, handoffs, diffs, and rollback. This is a reference pattern, not a current institutional implementation claim.
 
 ## Build Now
 
@@ -102,3 +104,7 @@ These can be used immediately as markdown artifacts:
 The future workbench could become an institutional context system. That would require security review, governance, faculty ownership, versioning, and clear approval paths before any student or faculty artifact becomes shared institutional context.
 
 The design principle is simple: AI assistants can propose, organize, compare, and retrieve. Faculty approve what counts.
+
+## Audience-specific workbench materials
+
+The guides in `audiences/pme.md`, `audiences/he.md`, and `audiences/k12.md` define distinct examples, role matrices, and validation needs. `audiences/profiles.json` supplies per-tool teaching guidance for all nine templates in each setting. The site build combines these with shared template bodies to produce 27 adapted downloads and three context bundles. Update the matching guide and profile together; the site tests verify their agreement. Preserve the educator’s chosen task instead of forcing a worked example.

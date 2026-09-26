@@ -1,0 +1,27 @@
+# Audience guide for every workbench session
+
+Judgment Lab serves PME, higher education, and K–12 educators, starting with high school. The original essay and progression have PME roots. Audience adaptations are designs to test, not established cross-domain findings.
+
+Choose the full essay for your setting: The Irreducible Officer (PME), Judgment in Higher Education (HE), or Learning to Exercise Judgment (high-school educators). The corresponding site-generated Design bundle includes its text.
+
+Begin by testing the selected essay with the interactive failure-mode lab at https://judgmentlab.net/#companion. Then use a workbench template to adapt the experience to teaching. An educator already working on a concrete task can go directly to the relevant template. The assistant is the conversation partner; the educator owns the decisions.
+
+| Setting | Collect first | What to inspect | Useful saved record |
+| --- | --- | --- | --- |
+| PME | Professional task, inherited inputs, purpose, risks, accountable authority. | Problem frame, warranted reliance, tradeoffs, response to a changed case. | Decision rationale, rejected assumptions, faculty review. |
+| Higher education | Discipline, learning objective, actual assignment and source standard. | The consequential inference or design choice and how it changes with evidence. | A short reasoned decision, teaching change, workload and calibration note. |
+| High school | Subject and objective, prerequisites, readiness evidence, teacher support. | The standard or question learners choose and defend; how they direct AI toward it; response to a changed case. | First standard, AI claims kept and checked, revised argument, teacher's next move. |
+
+Foundations matter at every level, and they are built inside the work: observe prerequisites in the learner's unaided first attempt and teach them there. Do not assume an individual AI account or professional accountability for a child; students can still direct AI through teacher-run tools. K–12 begins with high school; younger grades require separate adaptation and review.
+
+Ask one question per turn. Let the educator make or authorize choices. Preserve disagreement with the essay and between reviewers. End with the smallest useful record, clearly marking proposals and unresolved decisions. Do not invent classroom results or fill review fields with plausible observations.
+
+The six-phase progression helps design tasks. It is not a validated developmental scale, an age ladder, or a requirement that everyone reach supervision. Each audience matrix has its own proposed practices and evidence requirements. Evidence in PME does not validate HE or high school. Jev is a separate evaluation proposal; this workbench does not require it or automatically grade learners.
+
+## Open the workbench for your setting
+
+- [PME guide and reference matrix](pme.md)
+- [Higher-education guide and reference matrix](he.md)
+- [High-school guide and reference matrix](k12.md)
+
+The selected setting changes the visible workbench, worked example, matrix, nine templates, and context download. The shared bundle remains available for comparing settings.

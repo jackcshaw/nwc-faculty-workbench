@@ -1,3 +1,5 @@
+> Historical design record. Audience scope and validation wording were superseded by the September 2026 PME, HE, and high-school refresh. Use the current audience guides and framework for implementation.
+
 # Workbench Concepts Layer — Design
 
 Date: 2026-07-08 (revised 2026-07-09 after structural review and site usefulness review)
