@@ -24,4 +24,4 @@ The six-phase progression helps design tasks. It is not a validated developmenta
 - [Higher-education guide and reference matrix](he.md)
 - [High-school guide and reference matrix](k12.md)
 
-The selected setting changes the visible workbench, worked example, matrix, nine templates, and context download. The shared bundle remains available for comparing settings.
+The selected setting changes the visible workbench, worked example, matrix, ten templates, and context download. The shared bundle remains available for comparing settings.

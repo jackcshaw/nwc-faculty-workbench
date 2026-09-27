@@ -55,6 +55,7 @@ Choose the practice that fits the learning objective and the earliest missing ca
 | 4 | [Assessment and oral-defense rubric](assessment-and-oral-defense-rubric.md) + [flawed output library template](flawed-output-library-template.md). |
 | 5 | [Method card template](method-card-template.md) + [faculty calibration protocol](faculty-calibration-protocol.md). |
 | 6 | [Supervised delegation exercise](supervised-delegation-exercise.md). |
+| Designing or repairing a case | [Frame Check](frame-check.md) to build a case students must frame, or to rate and repair one you have. |
 | After any run | [After-action note template](after-action-note-template.md). |
 
 ## Session Record

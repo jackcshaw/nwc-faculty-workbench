@@ -87,6 +87,10 @@
       "supervised-delegation-exercise": {
         "title": "Rehearse bounded professional delegation",
         "guidance": "Let the assistant organize outage evidence, then draft options only after the officer approves the causal interpretation. Set a stop rule for unsupported attribution. Inspect both checkpoints; no operational action is authorized by the exercise."
+      },
+      "frame-check": {
+        "title": "Build or check a professional case",
+        "guidance": "Start with the outage primer, then build from the officer's actual problem and sources. The frame to own is the strategic problem and its success criterion. The PME strong example is fictional and needs PME faculty review before it is used as an exemplar."
       }
     },
     "practice": {
@@ -217,6 +221,10 @@
       "supervised-delegation-exercise": {
         "title": "Rehearse bounded analytic delegation",
         "guidance": "Advanced students assign agents distinct roles, such as one per study design or stakeholder, then moderate their disagreement and synthesize against the standard they chose. Use this only when students already direct a structured request well and can inspect each agent's claims."
+      },
+      "frame-check": {
+        "title": "Build or check a disciplinary case",
+        "guidance": "Start with the survey-versus-memo primer, then build from the course's objective and reading list. The frame to own is the disciplinary question and the standard of evidence. For history or engineering, see the Salem and mounting-bracket cases in the companion essay."
       }
     },
     "practice": {
@@ -347,6 +355,10 @@
       "supervised-delegation-exercise": {
         "title": "Run a teacher-led evaluator loop",
         "guidance": "The teacher runs student-written perspectives one at a time on a shared screen. Students check each claim against the packet before the next perspective runs. Stop to teach sourcing when claims go unchecked. Independent agent use is not a requirement."
+      },
+      "frame-check": {
+        "title": "Build or check a classroom case",
+        "guidance": "Start with the temperature-versus-New Deal primer, then build from the teacher's unit and document packet. The frame to own is the standard the student chooses and defends. Students can direct AI through teacher-run tools when they lack accounts."
       }
     },
     "practice": {
