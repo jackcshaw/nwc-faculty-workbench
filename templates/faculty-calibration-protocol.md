@@ -4,6 +4,12 @@ Use this protocol when faculty need to compare how they diagnose the same AI-ass
 
 Concept: [why this template works the way it does](../concepts/how-faculty-judgment-compounds.md)
 
+## At a glance
+
+- **You bring:** Two or more colleagues and the same piece of anonymized AI-assisted student work.
+- **You do:** Each judge it separately, then compare what you saw and where you disagree.
+- **You get:** A calibration note that records shared standards and open disagreements, without forcing agreement.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.

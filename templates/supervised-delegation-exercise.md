@@ -4,6 +4,12 @@ Use this template to design a bounded exercise where students direct a multi-ste
 
 The exercise rehearses inspection and interruption of bounded assistance. The educator decides which responsibilities learners can own; institutional duties remain with the responsible adults.
 
+## At a glance
+
+- **You bring:** A multi-step task your students already handle well with structured AI requests.
+- **You do:** Set the task brief, the checkpoints where students inspect AI work, and the rules for stopping or escalating.
+- **You get:** An exercise and assessment that show whether students' judgment survives handing work to AI.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.

@@ -4,6 +4,12 @@ Use this diagnostic to find where an assignment, exercise, or course sits on the
 
 The six phases are described in [the AI fluency progression](../framework/ai-fluency-progression.md): 1 Ask, 2 Understand, 3 Produce, 4 Judge, 5 Codify, 6 Supervise.
 
+## At a glance
+
+- **You bring:** An assignment, exercise, or course you want to match to the right workbench tool.
+- **You do:** Answer a few questions about what students do with AI and what they must do themselves.
+- **You get:** Which of six stages of AI use it asks of students, from asking AI questions to supervising multi-step AI work, and which tool to open next.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.

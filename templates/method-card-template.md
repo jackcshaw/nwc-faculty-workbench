@@ -6,6 +6,12 @@ Codify only what has worked at least twice. A method card for a task you have do
 
 Concept: [why this template works the way it does](../concepts/method-cards-and-agent-skills.md)
 
+## At a glance
+
+- **You bring:** A task you have done well with AI at least twice.
+- **You do:** Write down the brief, the steps, how to review the output, and when to stop.
+- **You get:** A reusable method card: the steps and checks your assistant follows each time, much like a skill in Claude or ChatGPT. You stop re-explaining the task.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.

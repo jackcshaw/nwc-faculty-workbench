@@ -2,6 +2,12 @@
 
 Use this template to build a reusable library of plausible AI-style contributions with a consequential reasoning flaw. The flaw should survive a surface-level reading and fail under questioning about evidence and reasoning.
 
+## At a glance
+
+- **You bring:** A topic you teach and its key sources.
+- **You do:** Shape plausible AI-style answers that each hide one flaw that changes the conclusion, plus the questions that expose it.
+- **You get:** Reusable library entries: the student-facing text, an instructor key, and notes on when to retire each one.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
