@@ -4,6 +4,12 @@ Use Frame Check to build an assignment case that makes students own a frame whil
 
 Concept: [why this template works the way it does](../concepts/facilitation-blocks.md)
 
+## At a glance
+
+- **You bring:** Your learning objective and the materials students will actually use (readings, documents, data).
+- **You do:** Rate a weak and a strong example to calibrate, then choose among two or three rated candidate cases, or paste a case you already have for a check and repair.
+- **You get:** A finished case or assignment, the five-test ratings behind it, and a list of factual claims to verify before class.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the learning objective and the materials students will actually use before proposing anything.

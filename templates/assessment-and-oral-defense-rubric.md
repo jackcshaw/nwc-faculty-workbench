@@ -2,6 +2,12 @@
 
 Use this rubric when the assignment goal is to make ownership visible in AI-enabled work. The finished artifact still matters, but it does not carry the whole assessment burden.
 
+## At a glance
+
+- **You bring:** The assignment, what it was meant to teach, and anonymized student work.
+- **You do:** Choose the criteria that match what the assignment teaches, then use the questions to have students explain and defend their choices.
+- **You get:** Notes on how each student reasoned and what help they used. You decide the grade.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.

@@ -4,6 +4,12 @@ Use this note after running an AI-enabled exercise. The goal is to preserve less
 
 Concept: [why this template works the way it does](../concepts/how-faculty-judgment-compounds.md)
 
+## At a glance
+
+- **You bring:** An AI-enabled exercise you just ran and what you noticed while running it.
+- **You do:** Record what worked, what confused students, and what to change, while it's fresh.
+- **You get:** A note you or a colleague can use next time, including what to keep, revise, or retire.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.

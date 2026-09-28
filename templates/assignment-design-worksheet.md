@@ -2,6 +2,12 @@
 
 Use this worksheet when designing or revising an assignment for judgment in AI-enabled work. The goal is to decide where AI helps, where it harms, and what faculty need to observe.
 
+## At a glance
+
+- **You bring:** An assignment you plan to run or revise, and what students should be able to do when it's done.
+- **You do:** Work through where AI helps, where it gets in the way of learning, and which reliance decisions students must make themselves.
+- **You get:** A revised assignment plan that shows the AI-free and AI-assisted steps and the evidence you will look at.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.

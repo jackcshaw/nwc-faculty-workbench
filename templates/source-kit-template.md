@@ -6,6 +6,12 @@ A source kit is not a file dump.
 
 Concept: [why this template works the way it does](../concepts/source-kits-are-curated-context.md)
 
+## At a glance
+
+- **You bring:** The readings and data students will use, and the standards you grade against.
+- **You do:** Decide what counts as a source, what is off limits, what role AI plays, and what you will review.
+- **You get:** A curated packet students and their assistant can work from, with its boundaries written down.
+
 ## Audience and readiness
 
 Use this as an interactive educator session: ask one question at a time and wait. Use any setting already supplied; otherwise ask PME, higher education, or high school. Read the [audience guide](../audiences/guide.md) with this template. Collect the task's learning objective, prerequisite knowledge, a brief readiness check, support when needed, and what decisions the learner can own. Do not infer readiness from age or seniority. Mark unmade decisions as open and assistant suggestions as proposals.
